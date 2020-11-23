@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>1_3</title>
+    <style>
+      body {
+        font-size: 14px;
+        
+      }
+      .header p{text-indent: 30px;}
+      ul.first{
+        list-style-type: disc;
+        font-weight: bolder;
+        line-height: 30px;
+      }
+      .first span {
+        list-style-type: disc;
+        font-weight: normal;
+      }
+      .second {
+        list-style-type: circle;
+        font-weight: normal;
+      }
+      .app-content {
+        display: flex;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <p>ESP32-S2-WROVER 和 ESP32-S2-WROVER-I 是通用型 Wi-Fi MCU 模组，功能强大，具有丰富的外设接口，可用于可穿戴电子设备、智能家居等场景。</p>
+      <p>ESP32-S2-WROVER 采用 PCB 板载天线，ESP32-S2-WROVER-I 采用 IPEX 天线。两款模组均配置了 4 MB SPI flash 和 2 MB SPI PSRAM。ESP32-S2-WROVER 和 ESP32-S2-WROVER-I 采用的是 ESP32-S2 芯片。ESP32-S2 芯片搭载 Xtensa® 32 位LX7 单核处理器，工作频率高达 240 MHz。用户可以关闭 CPU 的电源，利用低功耗协处理器监测外设的状态变化或某些模拟量是否超出阈值。ESP32-S2 还集成了丰富的外设接口。</p>
+    </div>
+    <span style="font-weight: bolder">Applications:</span>
+    <div class="app-content">
+      <ul>
+        <li>通用低功耗 IoT 传感器 Hub</li>
+        <li>通用低功耗 IoT 数据记录器</li>
+        <li>USB 设备</li>
+        <li>语音识别</li>
+        <li>图像识别</li>
+        <li>Mesh 网络</li>
+        <li>家庭自动化</li>
+        <li>智慧楼宇</li>
+        <li>工业自动化</li>
+        <li>健康/医疗/看护</li>
+        <li>Wi-Fi 玩具</li>
+        <li>可穿戴电子产品</li>
+        <li>零售 & 餐饮</li>
+        <li>智能 POS 应用</li>
+      </ul>
+    </div>
+    <span style="font-weight: bolder">Features:</span>
+    <div>
+      <ul class="first">
+        <li>Core: <span>Xtensa® single-core 32-bit LX7 CPU, frequency up to 240MHz</span></li>
+        <li>Memories</li>
+        <ul class="second">
+          <li>128 KB of ROM</li>
+          <li>320 KB of SRAM</li>
+          <li>16 KB of RTCSRAM</li>
+          <li>4,8,16 MB of Flash memory</li>
+          <li>2 MB of PSRAM</li>
+        </ul>
+        <li>Working Voltage: <span>3 V to 3.6 V</span></li>
+        <li>Up to 36 GPIOs</li>
+        <li>2*12-bit ADC (up to 20 channels)</li>
+        <li>Communication interfaces</li>
+        <ul class="second">
+          <li>2 I2C interfaces</li>
+          <li>1 I2S interface</li>
+          <li>4 SPI interfaces</li>
+          <li>2 UART interfaces</li>
+          <li>1 USB OTG interface</li>
+        </ul>
+        <li>Security:</li>
+        <ul class="second">
+          <li>4096 bit OTP</li>
+          <li>AES,SHA,RSA,ECC,RNG</li>
+          <li>Secure Boot,Flash Encryption,Digital signature,HMAC module</li>
+        </ul>
+        <li>Extended temperature range: <span>-40 to 85 °C</span></li>
+      </ul>
+    </div>
+  </body>
+</html>

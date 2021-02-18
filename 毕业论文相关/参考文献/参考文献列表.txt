@@ -1,0 +1,6 @@
+[1] Rodammer F A, Whit K P. A recent survey of production scheduling [J].IEEE Transactions on System Man and Cybernetic, 1998, 18(6):841-851.
+[2] Rocholl J , Mnch L . Decomposition heuristics for parallel-machine multiple orders per job scheduling problems with a common due date[J]. Journal of the Operational Research Society, 2019:1-17.
+[3] Lee C H . A New Discrete Electromagnetism-Like Mechanism Algorithm for Identical Parallel Machine Scheduling Problem with Eligibility Constraints in Metal Nuts Manufacturing[J]. Arabian Journal for Science & Engineering, 2017, 42(8):1-12.
+[4] Gungor, Murat, Unal, et al. A parallel machine lot-sizing and scheduling problem with a secondary resource and cumulative demand[J]. International Journal of Production Research, 2018.
+[5] Yamamoto M, Nof S Y. Scheduling/rescheduling in the manufacturing operation system environment [J].International Journal of Production Research, 1985, 23(4):705-722.
+M ignon D J, Honkomp S J, Reklaitis G V. A framework for investigating schedule robustness under uncertainty [J]. Computer and Chemical Engineering, 1995, 19 (Suppl) :S615-620.

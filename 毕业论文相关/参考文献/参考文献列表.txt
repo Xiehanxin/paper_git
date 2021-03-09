@@ -4,3 +4,23 @@
 [4] Gungor, Murat, Unal, et al. A parallel machine lot-sizing and scheduling problem with a secondary resource and cumulative demand[J]. International Journal of Production Research, 2018.
 [5] Yamamoto M, Nof S Y. Scheduling/rescheduling in the manufacturing operation system environment [J].International Journal of Production Research, 1985, 23(4):705-722.
 M ignon D J, Honkomp S J, Reklaitis G V. A framework for investigating schedule robustness under uncertainty [J]. Computer and Chemical Engineering, 1995, 19 (Suppl) :S615-620.
+[6] M ignon D J, Honkomp S J, Reklaitis G V. A framework for investigating schedule robustness under uncertainty [J]. Computer and Chemical Engineering, 1995, 19 (Suppl) :S615-620.
+[7] McNaughton R. Scheduling with deadlines and loss functions[J]. Management Science, 1959, 6(1): 1-12.
+[8] Dell’Amico M, Martello S. Optimal scheduling of tasks on identical parallel processors[J]. ORSA Journal on Computing, 1995, 7(2): 191-200.
+[9] Shim S O, Kim Y D. A branch and bound algorithm for an identical parallel machine scheduling problem with a job splitting property[J]. Computers & Operations Research, 2008, 35(3): 863-875.
+[10] Haouari M, Jemmali M. Tight bounds for the identical parallel machine‐scheduling problem: Part II[J]. International Transactions in Operational Research, 2008, 15(1): 19-34.
+[11] Mokotoff E. An exact algorithm for the identical parallel machine scheduling problem[J]. European Journal of Operational Research, 2004, 152(3): 758-769.
+[12] Dell'Amico M, Iori M, Martello S, et al. Heuristic and exact algorithms for the identical parallel machine scheduling problem[J]. INFORMS Journal on Computing, 2008, 20(3): 333-344.
+[13] Chen Z L, Powell W B. Solving parallel machine scheduling problems by column generation[J]. INFORMS Journal on Computing, 1999, 11(1): 78-94.
+[14]	
+[15] Graham R L. Bounds on multiprocessing timing anomalies[J]. SIAM journal on Applied Mathematics, 1969, 17(2): 416-429.
+[16] Lee W C, Wu C C, Chen P. A simulated annealing approach to makespan minimization on identical parallel machines[J]. The International Journal of Advanced Manufacturing Technology, 2006, 31(3-4): 328-334.
+[17] Coffman, Jr E G, Garey M R, Johnson D S. An application of bin-packing to multiprocessor scheduling[J]. SIAM Journal on Computing, 1978, 7(1): 1-17.
+[18] Lee C Y, Massey J D. Multiprocessor scheduling: combining LPT and MULTIFIT[J]. Discrete applied mathematics, 1988, 20(3): 233-242.
+[19] Gupta J N D, Ruiz-Torres A J. A LISTFIT heuristic for minimizing makespan on identical parallel machines[J]. Production Planning & Control, 2001, 12(1): 28-36.
+[20] Yamashita D S. Tabu search for scheduling on identical parallel machines to minimize mean tardiness[J]. Journal of intelligent manufacturing, 2000, 11(5): 453-460.
+[21] Alharkan I, Bamatraf K, Noman M A, et al. An order effect of neighborhood structures in variable neighborhood search algorithm for minimizing the makespan in an identical parallel machine scheduling[J].   Mathematical Problems in Engineering, 2018.
+[22] Kashan A H, Karimi B. A discrete particle swarm optimization algorithm for scheduling parallel machines[J]. Computers & Industrial Engineering, 2009, 56(1): 216-223.
+[23] Chen J, Pan Q K, Wang L, et al. A hybrid dynamic harmony search algorithm for identical parallel machines scheduling[J]. Engineering Optimization, 2012, 44(2): 209-224.
+[24] Laha D, Gupta J N D. An improved cuckoo search algorithm for scheduling jobs on identical parallel machines[J]. Computers & Industrial Engineering, 2018, 126: 348-360.
+

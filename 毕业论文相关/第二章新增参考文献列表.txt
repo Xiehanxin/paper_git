@@ -1,0 +1,27 @@
+何嘉. 异速并行机系统生产调度与预防性维护集成研究[D]. 重庆大学.
+Cheng T C E, Sin C C S. A state-of-the-art review of parallel-machine scheduling research[J]. European Journal of Operational Research, 1990, 47(3): 271-292.
+Edis E B, Oguz C, Ozkarahan I. Parallel machine scheduling with additional resources: Notation, classification, models and solution methods[J]. European Journal of Operational Research, 2013, 230(3): 449-463.
+Li Z , Ierapetritou M G . Robust Optimization for Process Scheduling Under Uncertainty[J]. Industrial & Engineering Chemistry Research, 2008, 47(12):4148-4157.
+Mulvey J M, Vanderbei R J, Zenios S A. Robust optimization of large-scale systems[J]. Operations research, 1995, 43(2): 264-281.
+Wang S , Cui W . Approximation algorithms for the min-max regret identical parallel machine scheduling problem with outsourcing and uncertain processing time[J]. International Journal of Production Research, 2020(1):1-14.
+Drwal M, Roman, Complexity of interval minmax regret scheduling on parallel identical machines with total completion time criterion[J]. Operations Research Letters, 2016.
+Yang X S, Deb S. Cuckoo search via Lévy flights[A].2009 World congress on nature & biologically inspired computing (NaBIC)[C]. Coimbatore, India: IEEE, 2009: 210-214.
+Abdel-Basset M, Hessin A N, Abdel-Fatah L. A comprehensive study of cuckoo-inspired algorithms[J]. Neural Computing and Applications, 2018, 29(2): 345-361.
+Valian E, Valian E. A cuckoo search algorithm by Lévy flights for solving reliability redundancy allocation problems[J]. Engineering Optimization, 2013, 45(11): 1273-1286.
+Wang H, Wang W, Sun H, et al. A new cuckoo search algorithm with hybrid strategies for flow shop scheduling problems[J]. Soft Computing, 2017, 21(15): 4297-4307.
+Guo P, Cheng W, Wang Y. Parallel machine scheduling with step-deteriorating jobs and setup times by a hybrid discrete cuckoo search algorithm[J]. Engineering Optimization, 2015, 47(11): 1564-1585.
+Shehab M, Khader A T, Laouchedi M. A hybrid method based on cuckoo search algorithm for global optimization problems[J]. Journal of Information and Communication Technology, 2018, 17(3): 469-491.
+Sheng Z, Wang J, Zhou S, et al. Parameter estimation for chaotic systems using a hybrid adaptive cuckoo search with simulated annealing algorithm[J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2014, 24(1): 013133.
+Payne R B, Sorensen M D. The cuckoos[M]. Oxford University Press, 2005.
+Reynolds A M. Cooperative random Lévy flight searches and the flight patterns of honeybees[J]. Physics letters A, 2006, 354(5-6): 384-388.
+Schreier A L, Grove M. Ranging patterns of hamadryas baboons: random walk analyses[J]. Animal Behaviour, 2010, 80(1): 75-87.
+Ramos-Fernández G, Mateos J L, Miramontes O, et al. Lévy walk patterns in the foraging movements of spider monkeys (Ateles geoffroyi)[J]. Behavioral ecology and Sociobiology, 2004, 55(3): 223-230.
+Austin D, Bowen W D, McMillan J I. Intraspecific variation in movement patterns: modeling individual behaviour in a large marine predator[J]. Oikos, 2004, 105(1): 15-30.
+Atkinson R P D, Rhodes C J, Macdonald D W, et al. Scale‐free dynamics in the movement patterns of jackals[J]. Oikos, 2002, 98(1): 134-140.
+Yang X S , Deb S . Engineering Optimisation by Cuckoo Search[J]. International Journal of Mathematical Modelling & Numerical Optimisation, 2010, 1(4):330-343.
+Yang X S , Deb S . Cuckoo Search: Recent Advances and Applications[J]. Neural Computing & Applications, 2014, 24(1):169-174
+Yang X S. Nature-inspired metaheuristic algorithms[M]. Luniver press, 2010.
+Mantegna R N. Fast, accurate algorithm for numerical simulation of Levy stable stochastic processes[J]. Physical Review E, 1994, 49(5): 4677.
+叶春明, 李永林, 刘长平. 新型仿生群智能算法及其生产调度应用[M]. 科学出版社, 2015.
+陈怡萍. 布谷鸟算法及应用研究[D]. 浙江大学, 2019.
+

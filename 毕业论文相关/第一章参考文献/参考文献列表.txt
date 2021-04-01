@@ -20,27 +20,31 @@ M ignon D J, Honkomp S J, Reklaitis G V. A framework for investigating schedule 
 [19] Gupta J N D, Ruiz-Torres A J. A LISTFIT heuristic for minimizing makespan on identical parallel machines[J]. Production Planning & Control, 2001, 12(1): 28-36.
 [20] Yamashita D S. Tabu search for scheduling on identical parallel machines to minimize mean tardiness[J]. Journal of intelligent manufacturing, 2000, 11(5): 453-460.
 [21] Alharkan I, Bamatraf K, Noman M A, et al. An order effect of neighborhood structures in variable neighborhood search algorithm for minimizing the makespan in an identical parallel machine scheduling[J].   Mathematical Problems in Engineering, 2018.
-[22] Kashan A H, Karimi B. A discrete particle swarm optimization algorithm for scheduling parallel machines[J]. Computers & Industrial Engineering, 2009, 56(1): 216-223.
-[23] Chen J, Pan Q K, Wang L, et al. A hybrid dynamic harmony search algorithm for identical parallel machines scheduling[J]. Engineering Optimization, 2012, 44(2): 209-224.
-[24] Laha D, Gupta J N D. An improved cuckoo search algorithm for scheduling jobs on identical parallel machines[J]. Computers & Industrial Engineering, 2018, 126: 348-360.
-[25] 顾幸生. 不确定性条件下的生产调度 [J]. 华东理工大学学报,2000,26(5),441-446.
-[26] Yamamoto M, Nof S.F. Scheduling/rescheduling in the manufacturing operating system environment [J].Int J Prod Res, 1985, 23 (4):7052722.
-[27] Honkomp S J，Reklaitis G V. A framework for investigating schedule robustness under uncertainty [J]. Computers and Chemical Engineering, 1995,19( Supp1):S6152620.
-[28] Alimoradi S , Hematian M , Moslehi G . Robust scheduling of parallel machines considering total flow time[J]. Computers & Industrial Engineering, 2016, 93:152-161.
-[29] Ranjbar M, Davari M, Leus R. Two branch-and-bound algorithms for the robust parallel machine scheduling problem[J]. Computers & Operations Research, 2012, 39(7): 1652-1660.
-[30] Cai X, Zhou S. Stochastic scheduling on parallel machines subject to random breakdowns to minimize expected costs for earliness and tardy jobs[J]. Operations Research, 1999, 47(3): 422-437.
-[31] Zadeh L A. Fuzzy sets as a basis for a theory of possibility[J]. Fuzzy sets and systems, 1978, 1(1): 3-28.
-[32] Balin S. Parallel machine scheduling with fuzzy processing times using a robust genetic algorithm and simulation[J]. Information Sciences, 2011, 181(17): 3551-3569.
-[33] Yeh W C, Lai P J, Lee W C, et al. Parallel-machine scheduling to minimize makespan with fuzzy processing times and learning effects[J]. Information Sciences, 2014, 269: 142-158.
-[34] Behnamian J. Particle swarm optimization-based algorithm for fuzzy parallel machine scheduling[J]. The International Journal of Advanced Manufacturing Technology, 2014, 75(5-8): 883-895.
-[35] Anglani A, Grieco A, Guerriero E, et al. Robust scheduling of parallel machines with sequence-dependent set-up costs[J]. European journal of operational research, 2005, 161(3): 704-720.
-[36] Allahverdi A, Aydilek H. Heuristics for the two-machine flowshop scheduling problem to minimize maximum lateness with bounded processing times[J]. Computers & Mathematics with Applications, 2010, 60(5): 1374-1384.
-[37] Kouvelis P, Yu G. Robust discrete optimization and its applications [M]. Spring, 1997.
-[38] Li Z, Ierapetritou M G. Robust optimization for process scheduling under uncertainty[J]. Industrial & Engineering Chemistry Research, 2008, 47(12): 4148-4157.
-[39] Sarin S C, Nagarajan B, Jain S, et al. Analytic evaluation of the expectation and variance of different performance measures of a schedule on a single machine under processing time variability[J]. Journal of combinatorial optimization, 2009, 17(4): 400-416.
-[40] Liu M, Liu X, Zhang E, et al. Scenario-based heuristic to two-stage stochastic program for the parallel machine ScheLoc problem[J]. International Journal of Production Research, 2019, 57(6): 1706-1723.
-[41] Xu X, Cui W, Lin J, et al. Robust makespan minimisation in identical parallel machine scheduling problem with interval data[J]. International Journal of Production Research, 2013, 51(12): 3532-3548.
-[42] Drwal M, Rischke R. Complexity of interval minmax regret scheduling on parallel identical machines with total completion time criterion[J]. Operations Research Letters, 2016, 44(3): 354-358.
-[43] Wang S, Cui W. Approximation algorithms for the min-max regret identical parallel machine scheduling problem with outsourcing and uncertain processing time[J]. International Journal of Production Research, 2020: 1-14.
-[44] Wang B, Wang X, Lan F, et al. A hybrid local-search algorithm for robust job-shop scheduling under scenarios[J]. Applied Soft Computing, 2018, 62: 259-271.
+[22] Min L ,  Cheng W . A genetic algorithm for minimizing the makespan in the case of scheduling identical parallel machines[J]. Artificial Intelligence in Engineering, 1999, 13(4):399-403.
+[23] Kashan A H, Karimi B. A discrete particle swarm optimization algorithm for scheduling parallel machines[J]. Computers & Industrial Engineering, 2009, 56(1): 216-223.
+[24] Neto R F T, Godinho Filho M, Da Silva F M. An ant colony optimization approach for the parallel machine scheduling problem with outsourcing allowed[J]. Journal of Intelligent Manufacturing, 2015, 26(3): 527-538.
+[25] Laha D, Gupta J N D. An improved cuckoo search algorithm for scheduling jobs on identical parallel machines[J]. Computers & Industrial Engineering, 2018, 126: 348-360.
+[26] 顾幸生. 不确定性条件下的生产调度 [J]. 华东理工大学学报,2000,26(5),441-446.
+[27] Yamamoto M, Nof S.F. Scheduling/rescheduling in the manufacturing operating system environment [J].Int J Prod Res, 1985, 23 (4):7052722.
+[28] Honkomp S J，Reklaitis G V. A framework for investigating schedule robustness under uncertainty [J]. Computers and Chemical Engineering, 1995,19( Supp1):S6152620.
+[29] Alimoradi S , Hematian M , Moslehi G . Robust scheduling of parallel machines considering total flow time[J]. Computers & Industrial Engineering, 2016, 93:152-161.
+[30] Ranjbar M, Davari M, Leus R. Two branch-and-bound algorithms for the robust parallel machine scheduling problem[J]. Computers & Operations Research, 2012, 39(7): 1652-1660.
+[31] Cai X, Zhou S. Stochastic scheduling on parallel machines subject to random breakdowns to minimize expected costs for earliness and tardy jobs[J]. Operations Research, 1999, 47(3): 422-437.
+[32] Zadeh L A. Fuzzy sets as a basis for a theory of possibility[J]. Fuzzy sets and systems, 1978, 1(1): 3-28.
+[33] Balin S. Parallel machine scheduling with fuzzy processing times using a robust genetic algorithm and simulation[J]. Information Sciences, 2011, 181(17): 3551-3569.
+[34] Yeh W C, Lai P J, Lee W C, et al. Parallel-machine scheduling to minimize makespan with fuzzy processing times and learning effects[J]. Information Sciences, 2014, 269: 142-158.
+[35] Behnamian J. Particle swarm optimization-based algorithm for fuzzy parallel machine scheduling[J]. The International Journal of Advanced Manufacturing Technology, 2014, 75(5-8): 883-895.
+[36] Anglani A, Grieco A, Guerriero E, et al. Robust scheduling of parallel machines with sequence-dependent set-up costs[J]. European journal of operational research, 2005, 161(3): 704-720.
+[37] Allahverdi A, Aydilek H. Heuristics for the two-machine flowshop scheduling problem to minimize maximum lateness with bounded processing times[J]. Computers & Mathematics with Applications, 2010, 60(5): 1374-1384.
+[38] Kouvelis P, Yu G. Robust discrete optimization and its applications [M]. Spring, 1997.
+[39] Li Z, Ierapetritou M G. Robust optimization for process scheduling under uncertainty[J]. Industrial & Engineering Chemistry Research, 2008, 47(12): 4148-4157.
+[40] Sarin S C, Nagarajan B, Jain S, et al. Analytic evaluation of the expectation and variance of different performance measures of a schedule on a single machine under processing time variability[J]. Journal of combinatorial optimization, 2009, 17(4): 400-416.
+[41] Liu M, Liu X, Zhang E, et al. Scenario-based heuristic to two-stage stochastic program for the parallel machine ScheLoc problem[J]. International Journal of Production Research, 2019, 57(6): 1706-1723.
+[42] Xu X, Cui W, Lin J, et al. Robust makespan minimisation in identical parallel machine scheduling problem with interval data[J]. International Journal of Production Research, 2013, 51(12): 3532-3548.
+[43] Drwal M, Rischke R. Complexity of interval minmax regret scheduling on parallel identical machines with total completion time criterion[J]. Operations Research Letters, 2016, 44(3): 354-358.
+[44] Wang S, Cui W. Approximation algorithms for the min-max regret identical parallel machine scheduling problem with outsourcing and uncertain processing time[J]. International Journal of Production Research, 2020: 1-14.
+[45] Wang B, Wang X, Lan F, et al. A hybrid local-search algorithm for robust job-shop scheduling under scenarios[J]. Applied Soft Computing, 2018, 62: 259-271.
+[46] Wang S, Zou H, Wang S. A Tabu-GA-based parallel machine scheduling with restrained tool resources[J]. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, 2020: 0954405420928691.
+[47] Lee W C , Wang J Y , Lee L Y . A hybrid genetic algorithm for an identical parallel-machine problem with maintenance activity[J]. Journal of the Operational Research Society, 2015.
+[48] Chen J, Pan Q K, Wang L, et al. A hybrid dynamic harmony search algorithm for identical parallel machines scheduling[J]. Engineering Optimization, 2012, 44(2): 209-224.
 

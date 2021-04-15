@@ -1,0 +1,8201 @@
+now T: 341.81 beta:1
+CSA_UN: 
+time: 2.587  PT: 26.9775    0.62608
+CSA_UN: 
+time: 4.982  PT: 14.7034    0.62608
+CSA_UN: 
+time: 7.251  PT: 2.80806    0.0001805
+CSA_UN: 
+time: 9.274  PT: 6.60226    0.0001805
+CSA_UN: 
+time: 11.274  PT: 3.25186    0.0001805
+CSA_UN: 
+time: 13.288  PT: 10.4337    0.0001805
+CSA_UN: 
+time: 15.391  PT: 48.7138    0.0001805
+CSA_UN: 
+time: 17.479  PT: 12.1043    0.0001805
+CSA_UN: 
+time: 19.571  PT: 29.2726    0.0001805
+CSA_UN: 
+time: 21.917  PT: 6.81958    0.0001805
+CSA_UN: 
+time: 24.11  PT: 26.6615    0.0001805
+CSA_UN: 
+time: 26.491  PT: 3.57414    0.0001805
+CSA_UN: 
+time: 28.504  PT: 6.67712    0.0001805
+CSA_UN: 
+time: 30.519  PT: 29.0798    0.0001805
+CSA_UN: 
+time: 32.837  PT: 0    0
+CSA_UN: 
+time: 34.844  PT: 26.3098    0
+CSA_UN: 
+time: 37.021  PT: 10.8097    0
+CSA_UN: 
+time: 39.259  PT: 10.7814    0
+CSA_UN: 
+time: 41.261  PT: 13.4629    0
+CSA_UN: 
+time: 43.348  PT: 5.61338    0
+CSA_UN: 
+time: 45.404  PT: 10.5252    0
+CSA_UN: 
+time: 47.583  PT: 11.7344    0
+CSA_UN: 
+time: 49.755  PT: 14.8975    0
+CSA_UN: 
+time: 51.918  PT: 12.4689    0
+CSA_UN: 
+time: 53.922  PT: 28.2973    0
+CSA_UN: 
+time: 56.078  PT: 7.14606    0
+CSA_UN: 
+time: 58.092  PT: 25.2245    0
+CSA_UN: 
+time: 60.11  PT: 21.6663    0
+CSA_UN: 
+time: 62.42  PT: 26.2168    0
+CSA_UN: 
+time: 64.516  PT: 7.41438    0
+CSA_UN: 
+time: 66.751  PT: 7.67858    0
+CSA_UN: 
+time: 68.91  PT: 14.2128    0
+CSA_UN: 
+time: 70.999  PT: 10.5752    0
+CSA_UN: 
+time: 73  PT: 3.25708    0
+CSA_UN: 
+time: 75.075  PT: 8.24402    0
+CSA_UN: 
+time: 77.099  PT: 18.5012    0
+CSA_UN: 
+time: 79.5  PT: 7.04642    0
+CSA_UN: 
+time: 81.555  PT: 12.3944    0
+CSA_UN: 
+time: 83.899  PT: 7.46888    0
+CSA_UN: 
+time: 85.328  PT: 0
+CSA_noUN: 
+time: 2.335  PT: 17.0122    5.92396
+CSA_noUN: 
+time: 4.584  PT: 2.87116    0.51918
+CSA_noUN: 
+time: 6.831  PT: 6.80888    0.51918
+CSA_noUN: 
+time: 9.086  PT: 11.9313    0.51918
+CSA_noUN: 
+time: 11.33  PT: 9.97396    0.51918
+CSA_noUN: 
+time: 13.565  PT: 7.49022    0.51918
+CSA_noUN: 
+time: 15.807  PT: 22.4849    0.51918
+CSA_noUN: 
+time: 18.045  PT: 21.9792    0.51918
+CSA_noUN: 
+time: 20.3  PT: 7.0618    0.51918
+CSA_noUN: 
+time: 22.555  PT: 22.6488    0.51918
+CSA_noUN: 
+time: 24.789  PT: 4.59988    0.51918
+CSA_noUN: 
+time: 27.029  PT: 1.50146    0.51918
+CSA_noUN: 
+time: 29.285  PT: 4.96396    0.51918
+CSA_noUN: 
+time: 31.522  PT: 6.56928    0.51918
+CSA_noUN: 
+time: 33.764  PT: 5.79356    0.51918
+CSA_noUN: 
+time: 35.987  PT: 15.4704    0.51918
+CSA_noUN: 
+time: 38.227  PT: 8.22986    0.51918
+CSA_noUN: 
+time: 40.482  PT: 5.01432    0.51918
+CSA_noUN: 
+time: 42.718  PT: 6.85958    0.51918
+CSA_noUN: 
+time: 44.981  PT: 54.8395    0.51918
+CSA_noUN: 
+time: 47.218  PT: 8.81764    0.51918
+CSA_noUN: 
+time: 49.463  PT: 9.06548    0.51918
+CSA_noUN: 
+time: 51.708  PT: 33.1657    0.51918
+CSA_noUN: 
+time: 53.949  PT: 21.2221    0.51918
+CSA_noUN: 
+time: 56.185  PT: 10.7193    0.51918
+CSA_noUN: 
+time: 58.448  PT: 33.9526    0.51918
+CSA_noUN: 
+time: 60.701  PT: 11.5083    0.51918
+CSA_noUN: 
+time: 62.938  PT: 11.5083    0.51918
+CSA_noUN: 
+time: 65.176  PT: 0.279361    0.279361
+CSA_noUN: 
+time: 67.406  PT: 11.7482    0.279361
+CSA_noUN: 
+time: 69.645  PT: 23.6864    0.279361
+CSA_noUN: 
+time: 71.877  PT: 14.5514    0.279361
+CSA_noUN: 
+time: 74.111  PT: 33.6225    0.279361
+CSA_noUN: 
+time: 76.338  PT: 11.6891    0.279361
+CSA_noUN: 
+time: 78.625  PT: 12.2911    0.279361
+CSA_noUN: 
+time: 80.904  PT: 9.93992    0.279361
+CSA_noUN: 
+time: 83.163  PT: 21.5659    0.279361
+CSA_noUN: 
+time: 85.395  PT: 3.13894    0.279361
+CSA_noUN: 
+time: 87.627  PT: 3.13894    0.279361
+CSA_noUN: 
+time: 89.868  PT: 14.072    0.279361
+CSA_noUN: 
+time: 92.101  PT: 11.3738    0.279361
+CSA_noUN: 
+time: 94.33  PT: 14.9541    0.279361
+CSA_noUN: 
+time: 96.562  PT: 19.6052    0.279361
+CSA_noUN: 
+time: 98.804  PT: 3.00222    0.279361
+CSA_noUN: 
+time: 101.043  PT: 4.50016    0.279361
+CSA_noUN: 
+time: 103.277  PT: 9.60998    0.279361
+CSA_noUN: 
+time: 103.281  PT: 0.279361
+GA: 
+time: 2.005  PT: 27.8474    0.961461
+GA: 
+time: 4.178  PT: 16.222    0.961461
+GA: 
+time: 6.347  PT: 27.6788    0.961461
+GA: 
+time: 8.505  PT: 27.7693    0.961461
+GA: 
+time: 10.698  PT: 27.7693    0.961461
+GA: 
+time: 12.915  PT: 27.7693    0.961461
+GA: 
+time: 15.087  PT: 27.7693    0.961461
+GA: 
+time: 17.277  PT: 2.47462    0.961461
+GA: 
+time: 19.457  PT: 2.47462    0.961461
+GA: 
+time: 21.66  PT: 27.3935    0.961461
+GA: 
+time: 23.82  PT: 21.7699    0.961461
+GA: 
+time: 25.971  PT: 6.79782    0.961461
+GA: 
+time: 28.147  PT: 9.78378    0.961461
+GA: 
+time: 30.309  PT: 2.19134    0.961461
+GA: 
+time: 32.508  PT: 2.19134    0.961461
+GA: 
+time: 34.698  PT: 9.09098    0.961461
+GA: 
+time: 36.887  PT: 7.94478    0.961461
+GA: 
+time: 39.105  PT: 0.884561    0.884561
+GA: 
+time: 41.292  PT: 25.2162    0.884561
+GA: 
+time: 43.454  PT: 3.5476    0.884561
+GA: 
+time: 45.619  PT: 8.97478    0.884561
+GA: 
+time: 47.782  PT: 24.3423    0.884561
+GA: 
+time: 49.948  PT: 1.52596    0.884561
+GA: 
+time: 52.145  PT: 9.88788    0.884561
+GA: 
+time: 54.32  PT: 10.5314    0.884561
+GA: 
+time: 56.492  PT: 59.4867    0.884561
+GA: 
+time: 58.65  PT: 11.7437    0.884561
+GA: 
+time: 60.862  PT: 11.3869    0.884561
+GA: 
+time: 63.033  PT: 11.9592    0.884561
+GA: 
+time: 65.219  PT: 20.9457    0.884561
+GA: 
+time: 67.397  PT: 20.3294    0.884561
+GA: 
+time: 69.412  PT: 16.5407    0.884561
+GA: 
+time: 71.584  PT: 16.5407    0.884561
+GA: 
+time: 73.778  PT: 12.4113    0.884561
+GA: 
+time: 75.981  PT: 12.4113    0.884561
+GA: 
+time: 78.171  PT: 7.43332    0.884561
+GA: 
+time: 80.202  PT: 26.908    0.884561
+GA: 
+time: 82.392  PT: 0.510061    0.884561
+GA: 
+time: 84.572  PT: 19.497    0.884561
+GA: 
+time: 86.75  PT: 7.04718    0.884561
+GA: 
+time: 88.928  PT: 0.279361    0.884561
+GA: 
+time: 90.952  PT: 0    0.884561
+GA: 
+time: 92.977  PT: 0    0.884561
+GA: 
+time: 94.999  PT: 0    0.884561
+GA: 
+time: 97.07  PT: 0    0.884561
+GA: 
+time: 99.164  PT: 0    0.884561
+GA: 
+time: 101.203  PT: 0    0.884561
+GA: 
+time: 103.223  PT: 0    0.884561
+GA: 
+time: 105.245  PT: 0    0.884561
+GA: 
+time: 107.285  PT: 0    0.884561
+GA: 
+time: 109.315  PT: 0    0.884561
+GA: 
+time: 111.35  PT: 0    0.884561
+GA: 
+time: 113.387  PT: 0    0.884561
+GA: 
+time: 115.437  PT: 0    0.884561
+GA: 
+time: 117.483  PT: 0    0.884561
+GA: 
+time: 119.502  PT: 0    0.884561
+GA: 
+time: 121.524  PT: 0    0.884561
+GA: 
+time: 123.577  PT: 0    0.884561
+GA: 
+time: 125.622  PT: 0    0.884561
+GA: 
+time: 127.654  PT: 0    0.884561
+GA: 
+time: 129.697  PT: 0    0.884561
+GA: 
+time: 131.708  PT: 0    0.884561
+GA: 
+time: 133.736  PT: 0    0.884561
+GA: 
+time: 135.755  PT: 0    0.884561
+GA: 
+time: 137.802  PT: 0    0.884561
+GA: 
+time: 138.417  PT: 0.884561
+SA: 
+time: 2.2078  PT: 4.07946    4.07946
+SA: 
+time: 4.3415  PT: 4.07946    4.07946
+SA: 
+time: 6.3859  PT: 4.07946    4.07946
+SA: 
+time: 8.5747  PT: 2.90806    2.90806
+SA: 
+time: 10.7236  PT: 2.90806    2.90806
+SA: 
+time: 12.7281  PT: 2.90806    2.90806
+SA: 
+time: 14.7839  PT: 0.33538    0.33538
+SA: 
+time: 16.9138  PT: 0.33538    0.33538
+SA: 
+time: 18.9848  PT: 0.33538    0.33538
+SA: 
+time: 21.1812  PT: 0.33538    0.33538
+SA: 
+time: 23.3206  PT: 0.33538    0.33538
+SA: 
+time: 25.4258  PT: 0.33538    0.33538
+SA: 
+time: 27.5595  PT: 0.33538    0.33538
+SA: 
+time: 29.7521  PT: 0.33538    0.33538
+SA: 
+time: 31.8896  PT: 0.33538    0.33538
+SA: 
+time: 34.0518  PT: 0.33538    0.33538
+SA: 
+time: 36.2178  PT: 0    0
+SA: 
+time: 38.3819  PT: 0    0
+SA: 
+time: 40.5137  PT: 0    0
+SA: 
+time: 42.6588  PT: 0    0
+SA: 
+time: 44.7773  PT: 0    0
+SA: 
+time: 46.9186  PT: 0    0
+SA: 
+time: 49.0466  PT: 0    0
+SA: 
+time: 51.167  PT: 0    0
+SA: 
+time: 53.2874  PT: 0    0
+SA: 
+time: 55.442  PT: 0    0
+SA: 
+time: 57.5529  PT: 0    0
+SA: 
+time: 59.6714  PT: 0    0
+SA: 
+time: 61.7842  PT: 0    0
+SA: 
+time: 63.9635  PT: 0    0
+SA: 
+time: 66.1466  PT: 0    0
+SA: 
+time: 68.2062  PT: 0    0
+SA: 
+time: 70.4463  PT: 0    0
+SA: 
+time: 72.5667  PT: 0    0
+SA: 
+time: 74.5674  PT: 0    0
+SA: 
+time: 76.7391  PT: 0    0
+SA: 
+time: 78.9583  PT: 0    0
+SA: 
+time: 81.0293  PT: 0    0
+SA: 
+time: 83.2542  PT: 0    0
+SA: 
+time: 85.4069  PT: 0    0
+SA: 
+time: 87.5957  PT: 0    0
+SA: 
+time: 89.737  PT: 0    0
+SA: 
+time: 91.9296  PT: 0    0
+SA: 
+time: 94.1051  PT: 0    0
+SA: 
+time: 96.2407  PT: 0    0
+SA: 
+time: 98.3706  PT: 0    0
+SA: 
+time: 100.519  PT: 0    0
+SA: 
+time: 102.739  PT: 0    0
+SA: 
+time: 104.941  PT: 0    0
+SA: 
+time: 105.667  PT: 0
+now T: 341.81 beta:1
+CSA_UN: 
+time: 90.817  PT: 0.0070805
+CSA_noUN: 
+time: 2.329  PT: 5.32274    1.31058
+CSA_noUN: 
+time: 4.568  PT: 2.68888    1.31058
+CSA_noUN: 
+time: 6.812  PT: 11.8212    1.31058
+CSA_noUN: 
+time: 9.073  PT: 13.2367    1.31058
+CSA_noUN: 
+time: 11.322  PT: 25.1795    1.31058
+CSA_noUN: 
+time: 13.565  PT: 2.93286    1.31058
+CSA_noUN: 
+time: 15.809  PT: 7.84046    1.31058
+CSA_noUN: 
+time: 18.07  PT: 5.7021    1.31058
+CSA_noUN: 
+time: 20.321  PT: 3.97338    1.31058
+CSA_noUN: 
+time: 22.554  PT: 7.92022    1.31058
+CSA_noUN: 
+time: 24.797  PT: 4.35912    1.31058
+CSA_noUN: 
+time: 27.037  PT: 4.29134    1.31058
+CSA_noUN: 
+time: 29.282  PT: 15.8614    1.31058
+CSA_noUN: 
+time: 31.516  PT: 1.65438    1.31058
+CSA_noUN: 
+time: 33.766  PT: 12.0999    1.31058
+CSA_noUN: 
+time: 36.049  PT: 7.06268    1.31058
+CSA_noUN: 
+time: 38.279  PT: 12.7538    1.31058
+CSA_noUN: 
+time: 40.515  PT: 6.23812    1.31058
+CSA_noUN: 
+time: 42.756  PT: 9.06706    1.31058
+CSA_noUN: 
+time: 45.029  PT: 41.6138    1.31058
+CSA_noUN: 
+time: 47.322  PT: 1.65438    0.33538
+CSA_noUN: 
+time: 49.594  PT: 15.8815    0.33538
+CSA_noUN: 
+time: 51.899  PT: 7.53782    0.33538
+CSA_noUN: 
+time: 54.167  PT: 10.2754    0.33538
+CSA_noUN: 
+time: 56.399  PT: 14.9848    0.33538
+CSA_noUN: 
+time: 58.663  PT: 1.00678    0.33538
+CSA_noUN: 
+time: 60.94  PT: 8.227    0.33538
+CSA_noUN: 
+time: 63.244  PT: 3.16824    0.33538
+CSA_noUN: 
+time: 65.481  PT: 11.2802    0.33538
+CSA_noUN: 
+time: 67.709  PT: 9.30752    0.33538
+CSA_noUN: 
+time: 69.986  PT: 29.9682    0.33538
+CSA_noUN: 
+time: 72.252  PT: 4.31964    0.33538
+CSA_noUN: 
+time: 74.498  PT: 6.85332    0.33538
+CSA_noUN: 
+time: 76.732  PT: 10.2348    0.33538
+CSA_noUN: 
+time: 78.992  PT: 4.48432    0.33538
+CSA_noUN: 
+time: 81.227  PT: 17.9292    0.33538
+CSA_noUN: 
+time: 83.483  PT: 0.42228    0.33538
+CSA_noUN: 
+time: 85.736  PT: 9.59472    0.33538
+CSA_noUN: 
+time: 88.006  PT: 37.5409    0.33538
+CSA_noUN: 
+time: 90.265  PT: 7.94362    0.33538
+CSA_noUN: 
+time: 92.509  PT: 17.201    0.33538
+CSA_noUN: 
+time: 94.744  PT: 42.3627    0.33538
+CSA_noUN: 
+time: 97.003  PT: 25.1318    0.33538
+CSA_noUN: 
+time: 99.262  PT: 11.1011    0.33538
+CSA_noUN: 
+time: 101.547  PT: 36.4413    0.33538
+CSA_noUN: 
+time: 103.79  PT: 6.97192    0.33538
+CSA_noUN: 
+time: 103.794  PT: 0.33538
+GA: 
+time: 2.032  PT: 7.0266    7.0266
+GA: 
+time: 4.236  PT: 4.48274    4.48274
+GA: 
+time: 6.409  PT: 6.35484    4.48274
+GA: 
+time: 8.579  PT: 22.8268    4.48274
+GA: 
+time: 10.745  PT: 4.81812    4.48274
+GA: 
+time: 12.912  PT: 15.2075    3.78426
+GA: 
+time: 15.081  PT: 10.4222    3.78426
+GA: 
+time: 17.257  PT: 3.73052    3.73052
+GA: 
+time: 19.425  PT: 12.8745    3.73052
+GA: 
+time: 21.589  PT: 14.1662    1.40544
+GA: 
+time: 23.763  PT: 21.6256    1.40544
+GA: 
+time: 25.954  PT: 12.8745    1.40544
+GA: 
+time: 28.137  PT: 11.7331    1.40544
+GA: 
+time: 30.297  PT: 8.56427    1.40544
+GA: 
+time: 32.482  PT: 5.21222    1.40544
+GA: 
+time: 34.644  PT: 3.98046    1.40544
+GA: 
+time: 36.821  PT: 3.98046    1.40544
+GA: 
+time: 38.988  PT: 3.98046    1.40544
+GA: 
+time: 41.19  PT: 3.98046    1.40544
+GA: 
+time: 43.379  PT: 2.46198    1.40544
+GA: 
+time: 45.54  PT: 25.6494    1.40544
+GA: 
+time: 47.714  PT: 21.5657    1.40544
+GA: 
+time: 49.904  PT: 6.17104    1.40544
+GA: 
+time: 52.067  PT: 26.3563    1.40544
+GA: 
+time: 54.216  PT: 26.3563    1.40544
+GA: 
+time: 56.384  PT: 13.3804    1.40544
+GA: 
+time: 58.543  PT: 13.3804    1.40544
+GA: 
+time: 60.733  PT: 13.3804    1.40544
+GA: 
+time: 62.915  PT: 2.46198    1.40544
+GA: 
+time: 65.102  PT: 6.66174    1.40544
+GA: 
+time: 67.281  PT: 10.7276    1.40544
+GA: 
+time: 69.463  PT: 10.7276    1.40544
+GA: 
+time: 71.622  PT: 13.3804    1.40544
+GA: 
+time: 73.81  PT: 9.3953    1.40544
+GA: 
+time: 75.969  PT: 4.65052    1.40544
+GA: 
+time: 78.136  PT: 9.3953    1.40544
+GA: 
+time: 80.303  PT: 8.02092    1.40544
+GA: 
+time: 82.473  PT: 8.13542    1.40544
+GA: 
+time: 84.626  PT: 8.13542    1.40544
+GA: 
+time: 86.792  PT: 8.13542    1.40544
+GA: 
+time: 88.891  PT: 0.62608    1.40544
+GA: 
+time: 90.926  PT: 0.19158    1.40544
+GA: 
+time: 92.955  PT: 0.19158    1.40544
+GA: 
+time: 94.967  PT: 0.19158    1.40544
+GA: 
+time: 97.001  PT: 0.19158    1.40544
+GA: 
+time: 99.013  PT: 0.19158    1.40544
+GA: 
+time: 101.031  PT: 0.19158    1.40544
+GA: 
+time: 103.063  PT: 0.19158    1.40544
+GA: 
+time: 105.14  PT: 0.19158    1.40544
+GA: 
+time: 107.17  PT: 0.19158    1.40544
+GA: 
+time: 109.191  PT: 0.19158    1.40544
+GA: 
+time: 111.21  PT: 0.19158    1.40544
+GA: 
+time: 113.236  PT: 0.19158    1.40544
+GA: 
+time: 115.255  PT: 0.19158    1.40544
+GA: 
+time: 117.279  PT: 0.19158    1.40544
+GA: 
+time: 119.287  PT: 0.19158    1.40544
+GA: 
+time: 121.301  PT: 0.19158    1.40544
+GA: 
+time: 123.317  PT: 0.19158    1.40544
+GA: 
+time: 125.341  PT: 0.19158    1.40544
+GA: 
+time: 127.391  PT: 0    1.40544
+GA: 
+time: 129.424  PT: 0    1.40544
+GA: 
+time: 131.45  PT: 0    1.40544
+GA: 
+time: 133.484  PT: 0    1.40544
+GA: 
+time: 135.503  PT: 0    1.40544
+GA: 
+time: 137.524  PT: 0    1.40544
+GA: 
+time: 137.734  PT: 1.40544
+SA: 
+time: 2.0235  PT: 3.17268    3.17268
+SA: 
+time: 4.1496  PT: 3.17268    3.17268
+SA: 
+time: 6.2947  PT: 3.17268    3.17268
+SA: 
+time: 8.4094  PT: 3.17268    3.17268
+SA: 
+time: 10.526  PT: 3.17268    3.17268
+SA: 
+time: 12.6027  PT: 3.17268    3.17268
+SA: 
+time: 14.8257  PT: 3.17268    3.17268
+SA: 
+time: 16.9689  PT: 3.17268    3.17268
+SA: 
+time: 19  PT: 3.17268    3.17268
+SA: 
+time: 21.2078  PT: 3.17268    3.17268
+SA: 
+time: 23.3244  PT: 3.17268    3.17268
+SA: 
+time: 25.4562  PT: 0.42228    0.42228
+SA: 
+time: 27.5766  PT: 0.0877805    0.0877805
+SA: 
+time: 29.7274  PT: 0.0877805    0.0877805
+SA: 
+time: 31.8649  PT: 0.0877805    0.0877805
+SA: 
+time: 33.9682  PT: 0.0877805    0.0877805
+SA: 
+time: 36.1171  PT: 0.0877805    0.0877805
+SA: 
+time: 38.2242  PT: 0.0877805    0.0877805
+SA: 
+time: 40.337  PT: 0.0877805    0.0877805
+SA: 
+time: 42.4878  PT: 0.0877805    0.0877805
+SA: 
+time: 44.6823  PT: 0.0877805    0.0877805
+SA: 
+time: 46.8673  PT: 0.0877805    0.0877805
+SA: 
+time: 49.0048  PT: 0.0877805    0.0877805
+SA: 
+time: 51.1879  PT: 0.0508805    0.0508805
+SA: 
+time: 53.3083  PT: 0.0508805    0.0508805
+SA: 
+time: 55.4686  PT: 0.0508805    0.0508805
+SA: 
+time: 57.627  PT: 0.0508805    0.0508805
+SA: 
+time: 59.7702  PT: 0.0508805    0.0508805
+SA: 
+time: 61.9476  PT: 0.0508805    0.0508805
+SA: 
+time: 64.0908  PT: 0.0508805    0.0508805
+SA: 
+time: 66.2226  PT: 0.0508805    0.0508805
+SA: 
+time: 68.286  PT: 0.0508805    0.0508805
+SA: 
+time: 70.4976  PT: 0.0508805    0.0508805
+SA: 
+time: 72.6408  PT: 0.0508805    0.0508805
+SA: 
+time: 74.6814  PT: 0.0508805    0.0508805
+SA: 
+time: 76.8816  PT: 0.0508805    0.0508805
+SA: 
+time: 79.0096  PT: 0.0508805    0.0508805
+SA: 
+time: 81.1281  PT: 0.0508805    0.0508805
+SA: 
+time: 83.2542  PT: 0.0508805    0.0508805
+SA: 
+time: 85.3575  PT: 0.0001805    0.0001805
+SA: 
+time: 87.4703  PT: 0    0
+SA: 
+time: 89.6477  PT: 0    0
+SA: 
+time: 91.7548  PT: 0    0
+SA: 
+time: 93.9132  PT: 0    0
+SA: 
+time: 96.0697  PT: 0    0
+SA: 
+time: 98.1977  PT: 0    0
+SA: 
+time: 100.341  PT: 0    0
+SA: 
+time: 102.45  PT: 0    0
+SA: 
+time: 104.551  PT: 0    0
+SA: 
+time: 105.04  PT: 0
+now T: 341.81 beta:1
+CSA_UN: 
+time: 87.899  PT: 0
+CSA_noUN: 
+time: 2.368  PT: 33.1131    5.8887
+CSA_noUN: 
+time: 4.597  PT: 3.77614    1.44322
+CSA_noUN: 
+time: 6.836  PT: 0.626261    0.626261
+CSA_noUN: 
+time: 9.081  PT: 20.1885    0.626261
+CSA_noUN: 
+time: 11.331  PT: 3.42626    0.626261
+CSA_noUN: 
+time: 13.565  PT: 5.95812    0.626261
+CSA_noUN: 
+time: 15.808  PT: 8.17612    0.626261
+CSA_noUN: 
+time: 18.041  PT: 13.6602    0.626261
+CSA_noUN: 
+time: 20.279  PT: 8.23017    0.626261
+CSA_noUN: 
+time: 22.521  PT: 13.1902    0.626261
+CSA_noUN: 
+time: 24.76  PT: 13.4157    0.0508805
+CSA_noUN: 
+time: 27.033  PT: 3.09532    0.0508805
+CSA_noUN: 
+time: 29.29  PT: 29.223    0.0508805
+CSA_noUN: 
+time: 31.542  PT: 16.4626    0.0508805
+CSA_noUN: 
+time: 33.778  PT: 6.16672    0.0508805
+CSA_noUN: 
+time: 36.027  PT: 9.06834    0.0508805
+CSA_noUN: 
+time: 38.258  PT: 6.28186    0.0508805
+CSA_noUN: 
+time: 40.507  PT: 4.67298    0.0508805
+CSA_noUN: 
+time: 42.747  PT: 68.2632    0.0508805
+CSA_noUN: 
+time: 45.012  PT: 36.0431    0.0508805
+CSA_noUN: 
+time: 47.242  PT: 0.830941    0
+CSA_noUN: 
+time: 49.484  PT: 3.14282    0
+CSA_noUN: 
+time: 51.708  PT: 72.1298    0
+CSA_noUN: 
+time: 53.944  PT: 32.2939    0
+CSA_noUN: 
+time: 56.172  PT: 7.85396    0
+CSA_noUN: 
+time: 58.402  PT: 44.2205    0
+CSA_noUN: 
+time: 60.644  PT: 54.2759    0
+CSA_noUN: 
+time: 62.887  PT: 6.67414    0
+CSA_noUN: 
+time: 65.135  PT: 2.45334    0
+CSA_noUN: 
+time: 67.216  PT: 37.1283    0
+CSA_noUN: 
+time: 69.299  PT: 22.1836    0
+CSA_noUN: 
+time: 71.426  PT: 10.5614    0
+CSA_noUN: 
+time: 73.514  PT: 9.71062    0
+CSA_noUN: 
+time: 75.637  PT: 2.07    0
+CSA_noUN: 
+time: 77.731  PT: 6.42718    0
+CSA_noUN: 
+time: 79.798  PT: 0.570061    0
+CSA_noUN: 
+time: 81.851  PT: 0.570061    0
+CSA_noUN: 
+time: 83.92  PT: 32.6169    0
+CSA_noUN: 
+time: 86.06  PT: 6.68098    0
+CSA_noUN: 
+time: 88.141  PT: 3.86322    0
+CSA_noUN: 
+time: 90.205  PT: 15.07    0
+CSA_noUN: 
+time: 92.272  PT: 9.8122    0
+CSA_noUN: 
+time: 94.348  PT: 1.3596    0
+CSA_noUN: 
+time: 96.425  PT: 8.42074    0
+CSA_noUN: 
+time: 98.503  PT: 9.54339    0
+CSA_noUN: 
+time: 100.618  PT: 22.213    0
+CSA_noUN: 
+time: 102.708  PT: 25.944    0
+CSA_noUN: 
+time: 104.771  PT: 14.2574    0
+CSA_noUN: 
+time: 106.837  PT: 7.50864    0
+CSA_noUN: 
+time: 108.906  PT: 12.4702    0
+CSA_noUN: 
+time: 109.433  PT: 0
+GA: 
+time: 2.061  PT: 2.81052    2.81052
+GA: 
+time: 4.305  PT: 3.79198    2.81052
+GA: 
+time: 6.313  PT: 3.79198    2.81052
+GA: 
+time: 8.553  PT: 0.265561    0.265561
+GA: 
+time: 10.556  PT: 3.79198    0.265561
+GA: 
+time: 12.8  PT: 0.265561    0.265561
+GA: 
+time: 14.8  PT: 0.417322    0.265561
+GA: 
+time: 16.804  PT: 3.79198    0.265561
+GA: 
+time: 19.046  PT: 3.79198    0.265561
+GA: 
+time: 21.05  PT: 3.79198    0.265561
+GA: 
+time: 23.073  PT: 3.79198    0.265561
+GA: 
+time: 25.081  PT: 3.79198    0.265561
+GA: 
+time: 27.086  PT: 3.79198    0.265561
+GA: 
+time: 29.143  PT: 0.265561    0.265561
+GA: 
+time: 31.161  PT: 5.66199    0.265561
+GA: 
+time: 33.237  PT: 0.265561    0.19158
+GA: 
+time: 35.266  PT: 1.7986    0.19158
+GA: 
+time: 37.295  PT: 0.19158    0
+GA: 
+time: 39.393  PT: 0.265561    0
+GA: 
+time: 41.399  PT: 0.265561    0
+GA: 
+time: 43.419  PT: 0.265561    0
+GA: 
+time: 45.436  PT: 0.265561    0
+GA: 
+time: 47.506  PT: 0.265561    0
+GA: 
+time: 49.534  PT: 0.265561    0
+GA: 
+time: 51.546  PT: 0.265561    0
+GA: 
+time: 53.555  PT: 0.265561    0
+GA: 
+time: 55.802  PT: 1.7986    0
+GA: 
+time: 57.813  PT: 1.7986    0
+GA: 
+time: 59.838  PT: 1.7986    0
+GA: 
+time: 61.847  PT: 1.7986    0
+GA: 
+time: 64.088  PT: 1.7986    0
+GA: 
+time: 66.091  PT: 1.7986    0
+GA: 
+time: 68.151  PT: 0.905802    0
+GA: 
+time: 70.208  PT: 1.7986    0
+GA: 
+time: 72.247  PT: 1.7986    0
+GA: 
+time: 74.268  PT: 1.7986    0
+GA: 
+time: 76.499  PT: 1.7986    0
+GA: 
+time: 78.5  PT: 1.7986    0
+GA: 
+time: 80.552  PT: 1.7986    0
+GA: 
+time: 82.571  PT: 1.7986    0
+GA: 
+time: 84.631  PT: 1.7986    0
+GA: 
+time: 86.649  PT: 1.7986    0
+GA: 
+time: 88.649  PT: 4.69642    0
+GA: 
+time: 90.898  PT: 1.7986    0
+GA: 
+time: 92.905  PT: 1.7986    0
+GA: 
+time: 94.915  PT: 1.7986    0
+GA: 
+time: 96.953  PT: 1.7986    0
+GA: 
+time: 98.976  PT: 1.7986    0
+GA: 
+time: 101.212  PT: 1.7986    0
+GA: 
+time: 103.371  PT: 0    0
+GA: 
+time: 105.498  PT: 0    0
+GA: 
+time: 107.67  PT: 0    0
+GA: 
+time: 109.787  PT: 0    0
+GA: 
+time: 111.892  PT: 0    0
+GA: 
+time: 113.995  PT: 0    0
+GA: 
+time: 116.112  PT: 0    0
+GA: 
+time: 118.225  PT: 0    0
+GA: 
+time: 120.351  PT: 0    0
+GA: 
+time: 122.461  PT: 0    0
+GA: 
+time: 124.623  PT: 0    0
+GA: 
+time: 126.794  PT: 0    0
+GA: 
+time: 128.906  PT: 0    0
+GA: 
+time: 131.037  PT: 0    0
+GA: 
+time: 133.142  PT: 0    0
+GA: 
+time: 135.284  PT: 0    0
+GA: 
+time: 137.431  PT: 0    0
+GA: 
+time: 139.527  PT: 0    0
+GA: 
+time: 141.712  PT: 0    0
+GA: 
+time: 143.818  PT: 0    0
+GA: 
+time: 146.008  PT: 0    0
+GA: 
+time: 148.127  PT: 0    0
+GA: 
+time: 150.222  PT: 0    0
+GA: 
+time: 152.412  PT: 0    0
+GA: 
+time: 154.533  PT: 0    0
+GA: 
+time: 156.669  PT: 0    0
+GA: 
+time: 158.797  PT: 0    0
+GA: 
+time: 160.249  PT: 0
+SA: 
+time: 2.0558  PT: 1.78772    1.78772
+SA: 
+time: 4.2731  PT: 1.78064    1.78064
+SA: 
+time: 6.4733  PT: 1.78064    1.78064
+SA: 
+time: 8.6659  PT: 1.78064    1.78064
+SA: 
+time: 10.8851  PT: 1.78064    1.78064
+SA: 
+time: 13.1119  PT: 1.00456    1.00456
+SA: 
+time: 15.1259  PT: 1.00456    1.00456
+SA: 
+time: 17.3983  PT: 1.00456    1.00456
+SA: 
+time: 19.5928  PT: 1.00456    1.00456
+SA: 
+time: 21.8139  PT: 1.00456    1.00456
+SA: 
+time: 24.0141  PT: 0.0239805    0.0239805
+SA: 
+time: 26.1991  PT: 0.0239805    0.0239805
+SA: 
+time: 28.3936  PT: 0.0239805    0.0239805
+SA: 
+time: 30.6071  PT: 0.0239805    0.0239805
+SA: 
+time: 32.813  PT: 0.0239805    0.0239805
+SA: 
+time: 35.0094  PT: 0.0239805    0.0239805
+SA: 
+time: 37.2419  PT: 0.0239805    0.0239805
+SA: 
+time: 39.4307  PT: 0.0001805    0.0001805
+SA: 
+time: 41.6575  PT: 0.0001805    0.0001805
+SA: 
+time: 43.6772  PT: 0.0001805    0.0001805
+SA: 
+time: 45.7976  PT: 0.0001805    0.0001805
+SA: 
+time: 47.9959  PT: 0.0001805    0.0001805
+SA: 
+time: 50.1904  PT: 0.0001805    0.0001805
+SA: 
+time: 52.4115  PT: 0.0001805    0.0001805
+SA: 
+time: 54.6231  PT: 0.0001805    0.0001805
+SA: 
+time: 56.8252  PT: 0.0001805    0.0001805
+SA: 
+time: 59.033  PT: 0.0001805    0.0001805
+SA: 
+time: 61.2389  PT: 0.0001805    0.0001805
+SA: 
+time: 63.4448  PT: 0.0001805    0.0001805
+SA: 
+time: 65.6925  PT: 0.0001805    0.0001805
+SA: 
+time: 67.8851  PT: 0.0001805    0.0001805
+SA: 
+time: 70.0587  PT: 0.0001805    0.0001805
+SA: 
+time: 72.0594  PT: 0    0
+SA: 
+time: 74.2045  PT: 0    0
+SA: 
+time: 76.3667  PT: 0    0
+SA: 
+time: 78.5631  PT: 0    0
+SA: 
+time: 80.7766  PT: 0    0
+SA: 
+time: 83.0376  PT: 0    0
+SA: 
+time: 85.215  PT: 0    0
+SA: 
+time: 87.4057  PT: 0    0
+SA: 
+time: 89.6192  PT: 0    0
+SA: 
+time: 91.7947  PT: 0    0
+SA: 
+time: 93.8467  PT: 0    0
+SA: 
+time: 95.9253  PT: 0    0
+SA: 
+time: 98.1122  PT: 0    0
+SA: 
+time: 100.29  PT: 0    0
+SA: 
+time: 102.482  PT: 0    0
+SA: 
+time: 104.749  PT: 0    0
+SA: 
+time: 106.761  PT: 0    0
+SA: 
+time: 108.957  PT: 0    0
+SA: 
+time: 111.213  PT: 0    0
+SA: 
+time: 113.477  PT: 0    0
+SA: 
+time: 115.541  PT: 0    0
+SA: 
+time: 117.69  PT: 0    0
+SA: 
+time: 119.972  PT: 0    0
+SA: 
+time: 121.974  PT: 0    0
+SA: 
+time: 122.561  PT: 0
+now T: 341.81 beta:1
+CSA_UN: 
+time: 100.867  PT: 0.51918
+CSA_noUN: 
+time: 2.177  PT: 6.26244    4.889
+CSA_noUN: 
+time: 4.271  PT: 12.4228    2.65356
+CSA_noUN: 
+time: 6.363  PT: 7.21916    2.65356
+CSA_noUN: 
+time: 8.473  PT: 8.8987    2.65356
+CSA_noUN: 
+time: 10.58  PT: 10.0026    2.65356
+CSA_noUN: 
+time: 12.658  PT: 20.4258    2.65356
+CSA_noUN: 
+time: 14.736  PT: 13.4726    0.0508805
+CSA_noUN: 
+time: 16.799  PT: 11.4564    0.0508805
+CSA_noUN: 
+time: 18.866  PT: 3.84964    0.0508805
+CSA_noUN: 
+time: 20.989  PT: 25.9551    0.0508805
+CSA_noUN: 
+time: 23.078  PT: 93.1747    0.0508805
+CSA_noUN: 
+time: 25.144  PT: 3.4999    0.0508805
+CSA_noUN: 
+time: 27.213  PT: 5.71086    0.0508805
+CSA_noUN: 
+time: 29.325  PT: 3.06046    0.0508805
+CSA_noUN: 
+time: 31.408  PT: 6.79332    0.0508805
+CSA_noUN: 
+time: 33.474  PT: 32.4634    0.0508805
+CSA_noUN: 
+time: 35.546  PT: 11.7813    0.0508805
+CSA_noUN: 
+time: 37.624  PT: 21.5193    0.0508805
+CSA_noUN: 
+time: 39.7  PT: 4.7307    0.0508805
+CSA_noUN: 
+time: 41.77  PT: 21.425    0.0508805
+CSA_noUN: 
+time: 43.833  PT: 21.2446    0.0508805
+CSA_noUN: 
+time: 45.9  PT: 9.93269    0.0508805
+CSA_noUN: 
+time: 47.971  PT: 1.22924    0.0508805
+CSA_noUN: 
+time: 50.028  PT: 6.21174    0.0508805
+CSA_noUN: 
+time: 52.089  PT: 4.07432    0.0508805
+CSA_noUN: 
+time: 54.159  PT: 3.50806    0.0508805
+CSA_noUN: 
+time: 56.224  PT: 4.01748    0.0508805
+CSA_noUN: 
+time: 58.289  PT: 9.43894    0.0508805
+CSA_noUN: 
+time: 60.343  PT: 7.02226    0.0508805
+CSA_noUN: 
+time: 62.389  PT: 7.51362    0.0508805
+CSA_noUN: 
+time: 64.444  PT: 1.66906    0.0508805
+CSA_noUN: 
+time: 66.546  PT: 4.76404    0.0508805
+CSA_noUN: 
+time: 68.637  PT: 16.8763    0.0508805
+CSA_noUN: 
+time: 70.729  PT: 5.7635    0.0508805
+CSA_noUN: 
+time: 73.012  PT: 2.78116    0.0508805
+CSA_noUN: 
+time: 75.151  PT: 10.5243    0.0508805
+CSA_noUN: 
+time: 77.219  PT: 13.1222    0.0508805
+CSA_noUN: 
+time: 79.295  PT: 19.7029    0.0508805
+CSA_noUN: 
+time: 81.377  PT: 42.5994    0.0508805
+CSA_noUN: 
+time: 83.443  PT: 4.07964    0.0508805
+CSA_noUN: 
+time: 85.52  PT: 2.33286    0.0508805
+CSA_noUN: 
+time: 87.6  PT: 0.42228    0.0508805
+CSA_noUN: 
+time: 89.728  PT: 15.0726    0.0508805
+CSA_noUN: 
+time: 91.82  PT: 11.6602    0.0508805
+CSA_noUN: 
+time: 93.888  PT: 13.8098    0.0508805
+CSA_noUN: 
+time: 95.962  PT: 5.53322    0.0508805
+CSA_noUN: 
+time: 98.032  PT: 9.08292    0.0508805
+CSA_noUN: 
+time: 100.114  PT: 40.7497    0.0508805
+CSA_noUN: 
+time: 102.186  PT: 25.2393    0.0508805
+CSA_noUN: 
+time: 104.27  PT: 39.5721    0.0508805
+CSA_noUN: 
+time: 106.349  PT: 4.20906    0.0508805
+CSA_noUN: 
+time: 108.505  PT: 9.14724    0.0508805
+CSA_noUN: 
+time: 110.587  PT: 38.3579    0.0508805
+CSA_noUN: 
+time: 112.72  PT: 11.8726    0.0508805
+CSA_noUN: 
+time: 114.857  PT: 3.59496    0.0508805
+CSA_noUN: 
+time: 116.933  PT: 13.3521    0.0508805
+CSA_noUN: 
+time: 119.009  PT: 14.1207    0.0508805
+CSA_noUN: 
+time: 119.539  PT: 0.0508805
+GA: 
+time: 2.104  PT: 6.63624    5.2928
+GA: 
+time: 4.133  PT: 6.63624    5.2928
+GA: 
+time: 6.145  PT: 8.14034    5.2928
+GA: 
+time: 8.169  PT: 4.17256    4.17256
+GA: 
+time: 10.231  PT: 6.63624    4.17256
+GA: 
+time: 12.324  PT: 6.63624    4.17256
+GA: 
+time: 14.34  PT: 6.63624    4.17256
+GA: 
+time: 16.586  PT: 6.63624    4.17256
+GA: 
+time: 18.595  PT: 6.63624    4.17256
+GA: 
+time: 20.601  PT: 6.63624    4.17256
+GA: 
+time: 22.604  PT: 6.63624    4.17256
+GA: 
+time: 24.604  PT: 3.11496    3.11496
+GA: 
+time: 26.607  PT: 4.17256    3.11496
+GA: 
+time: 28.616  PT: 6.63624    3.11496
+GA: 
+time: 30.627  PT: 6.34754    3.11496
+GA: 
+time: 32.645  PT: 24.9526    3.11496
+GA: 
+time: 34.647  PT: 6.63624    3.11496
+GA: 
+time: 36.66  PT: 6.63624    3.11496
+GA: 
+time: 38.716  PT: 6.63624    3.11496
+GA: 
+time: 40.736  PT: 6.13818    3.11496
+GA: 
+time: 42.979  PT: 6.13818    3.11496
+GA: 
+time: 44.995  PT: 6.13818    3.11496
+GA: 
+time: 47.011  PT: 11.3633    3.11496
+GA: 
+time: 49.022  PT: 6.13818    3.11496
+GA: 
+time: 51.024  PT: 32.315    3.11496
+GA: 
+time: 53.044  PT: 6.13818    3.11496
+GA: 
+time: 55.051  PT: 6.13818    3.11496
+GA: 
+time: 57.068  PT: 6.13818    1.84128
+GA: 
+time: 59.074  PT: 6.13818    1.84128
+GA: 
+time: 61.311  PT: 6.13818    1.84128
+GA: 
+time: 63.321  PT: 6.13818    1.84128
+GA: 
+time: 65.333  PT: 6.13818    1.84128
+GA: 
+time: 67.572  PT: 6.13818    1.84128
+GA: 
+time: 69.574  PT: 6.13818    1.84128
+GA: 
+time: 71.622  PT: 3.62116    1.84128
+GA: 
+time: 73.636  PT: 6.13818    1.84128
+GA: 
+time: 75.878  PT: 6.13818    1.84128
+GA: 
+time: 77.879  PT: 6.13818    1.84128
+GA: 
+time: 79.893  PT: 3.76496    1.84128
+GA: 
+time: 81.922  PT: 6.13818    1.84128
+GA: 
+time: 83.935  PT: 6.13818    1.84128
+GA: 
+time: 86.123  PT: 6.13818    1.84128
+GA: 
+time: 88.29  PT: 6.13818    1.84128
+GA: 
+time: 90.46  PT: 19.0273    1.84128
+GA: 
+time: 92.66  PT: 11.32    1.84128
+GA: 
+time: 94.842  PT: 8.3683    1.84128
+GA: 
+time: 97.027  PT: 9.349    1.84128
+GA: 
+time: 99.175  PT: 14.5275    1.84128
+GA: 
+time: 101.25  PT: 0    1.84128
+GA: 
+time: 103.282  PT: 0    1.84128
+GA: 
+time: 105.313  PT: 0    1.84128
+GA: 
+time: 107.339  PT: 0    1.84128
+GA: 
+time: 109.38  PT: 0    1.84128
+GA: 
+time: 111.394  PT: 0    1.84128
+GA: 
+time: 113.412  PT: 0    1.84128
+GA: 
+time: 115.44  PT: 0    1.84128
+GA: 
+time: 117.464  PT: 0    1.84128
+GA: 
+time: 119.482  PT: 0    1.84128
+GA: 
+time: 121.511  PT: 0    1.84128
+GA: 
+time: 123.536  PT: 0    1.84128
+GA: 
+time: 125.561  PT: 0    1.84128
+GA: 
+time: 127.581  PT: 0    1.84128
+GA: 
+time: 129.621  PT: 0    1.84128
+GA: 
+time: 131.654  PT: 0    1.84128
+GA: 
+time: 133.666  PT: 0    1.84128
+GA: 
+time: 135.699  PT: 0    1.84128
+GA: 
+time: 137.738  PT: 0    1.84128
+GA: 
+time: 139.765  PT: 0    1.84128
+GA: 
+time: 141.808  PT: 0    1.84128
+GA: 
+time: 143.846  PT: 0    1.84128
+GA: 
+time: 145.866  PT: 0    1.84128
+GA: 
+time: 147.884  PT: 0    1.84128
+GA: 
+time: 149.318  PT: 1.84128
+SA: 
+time: 2.0064  PT: 11.7399    11.7399
+SA: 
+time: 4.1686  PT: 4.68414    4.68414
+SA: 
+time: 6.365  PT: 4.68414    4.68414
+SA: 
+time: 8.5424  PT: 4.68414    4.68414
+SA: 
+time: 10.6647  PT: 4.68414    4.68414
+SA: 
+time: 12.6654  PT: 4.68414    4.68414
+SA: 
+time: 14.706  PT: 2.98116    2.98116
+SA: 
+time: 16.8587  PT: 2.59666    2.59666
+SA: 
+time: 18.9297  PT: 2.59666    2.59666
+SA: 
+time: 20.9418  PT: 1.28836    1.28836
+SA: 
+time: 23.1211  PT: 1.28836    1.28836
+SA: 
+time: 25.1579  PT: 1.28836    1.28836
+SA: 
+time: 27.2859  PT: 1.28836    1.28836
+SA: 
+time: 29.4918  PT: 0.543161    0.543161
+SA: 
+time: 31.521  PT: 0.543161    0.543161
+SA: 
+time: 33.6623  PT: 0.359361    0.359361
+SA: 
+time: 35.8226  PT: 0.359361    0.359361
+SA: 
+time: 37.8537  PT: 0.359361    0.359361
+SA: 
+time: 40.0406  PT: 0.13468    0.13468
+SA: 
+time: 42.1135  PT: 0.13468    0.13468
+SA: 
+time: 44.1351  PT: 0.0239805    0.0239805
+SA: 
+time: 46.1453  PT: 0.0239805    0.0239805
+SA: 
+time: 48.3132  PT: 0.0239805    0.0239805
+SA: 
+time: 50.3557  PT: 0.0239805    0.0239805
+SA: 
+time: 52.4666  PT: 0.0001805    0.0001805
+SA: 
+time: 54.6687  PT: 0.0001805    0.0001805
+SA: 
+time: 56.8119  PT: 0.0001805    0.0001805
+SA: 
+time: 58.9589  PT: 0.0001805    0.0001805
+SA: 
+time: 61.1097  PT: 0.0001805    0.0001805
+SA: 
+time: 63.2738  PT: 0.0001805    0.0001805
+SA: 
+time: 65.4721  PT: 0.0001805    0.0001805
+SA: 
+time: 67.4937  PT: 0.0001805    0.0001805
+SA: 
+time: 69.4944  PT: 0    0
+SA: 
+time: 71.6452  PT: 0    0
+SA: 
+time: 73.777  PT: 0    0
+SA: 
+time: 75.9126  PT: 0    0
+SA: 
+time: 78.1033  PT: 0    0
+SA: 
+time: 80.2921  PT: 0    0
+SA: 
+time: 82.4581  PT: 0    0
+SA: 
+time: 84.6241  PT: 0    0
+SA: 
+time: 86.7616  PT: 0    0
+SA: 
+time: 88.768  PT: 0    0
+SA: 
+time: 90.8542  PT: 0    0
+SA: 
+time: 93.005  PT: 0    0
+SA: 
+time: 95.0779  PT: 0    0
+SA: 
+time: 97.3028  PT: 0    0
+SA: 
+time: 99.4878  PT: 0    0
+SA: 
+time: 101.53  PT: 0    0
+SA: 
+time: 103.605  PT: 0    0
+SA: 
+time: 105.724  PT: 0    0
+SA: 
+time: 107.415  PT: 0
+now T: 341.81 beta:1
+CSA_UN: 
+time: 88.514  PT: 0
+CSA_noUN: 
+time: 2.332  PT: 25.4112    0.86988
+CSA_noUN: 
+time: 4.585  PT: 0.293341    0
+CSA_noUN: 
+time: 6.821  PT: 17.5644    0
+CSA_noUN: 
+time: 9.064  PT: 1.4379    0
+CSA_noUN: 
+time: 11.292  PT: 23.0901    0
+CSA_noUN: 
+time: 13.532  PT: 0.192641    0
+CSA_noUN: 
+time: 15.795  PT: 10.2036    0
+CSA_noUN: 
+time: 18.025  PT: 1.45304    0
+CSA_noUN: 
+time: 20.277  PT: 0.229722    0
+CSA_noUN: 
+time: 22.509  PT: 1.97292    0
+CSA_noUN: 
+time: 24.742  PT: 0.367141    0
+CSA_noUN: 
+time: 26.979  PT: 10.4082    0
+CSA_noUN: 
+time: 29.211  PT: 0.470241    0
+CSA_noUN: 
+time: 31.445  PT: 8.61074    0
+CSA_noUN: 
+time: 33.676  PT: 0.0001805    0
+CSA_noUN: 
+time: 35.912  PT: 0    0
+CSA_noUN: 
+time: 38.144  PT: 0    0
+CSA_noUN: 
+time: 40.389  PT: 1.77018    0
+CSA_noUN: 
+time: 42.638  PT: 21.2636    0
+CSA_noUN: 
+time: 44.884  PT: 0.0001805    0
+CSA_noUN: 
+time: 47.142  PT: 3.67888    0
+CSA_noUN: 
+time: 49.391  PT: 0.024161    0
+CSA_noUN: 
+time: 51.636  PT: 1.19188    0
+CSA_noUN: 
+time: 53.862  PT: 0    0
+CSA_noUN: 
+time: 56.108  PT: 3.20228    0
+CSA_noUN: 
+time: 58.348  PT: 0    0
+CSA_noUN: 
+time: 60.592  PT: 0    0
+CSA_noUN: 
+time: 62.829  PT: 2.59    0
+CSA_noUN: 
+time: 65.063  PT: 0.19158    0
+CSA_noUN: 
+time: 67.293  PT: 0.0877805    0
+CSA_noUN: 
+time: 69.527  PT: 0    0
+CSA_noUN: 
+time: 71.775  PT: 8.45719    0
+CSA_noUN: 
+time: 74.009  PT: 6.53484    0
+CSA_noUN: 
+time: 76.281  PT: 0    0
+CSA_noUN: 
+time: 78.545  PT: 0    0
+CSA_noUN: 
+time: 80.777  PT: 12.2216    0
+CSA_noUN: 
+time: 83.005  PT: 0.370602    0
+CSA_noUN: 
+time: 85.243  PT: 2.17292    0
+CSA_noUN: 
+time: 87.472  PT: 5.02028    0
+CSA_noUN: 
+time: 89.717  PT: 9.18108    0
+CSA_noUN: 
+time: 91.945  PT: 1.10012    0
+CSA_noUN: 
+time: 94.19  PT: 2.12602    0
+CSA_noUN: 
+time: 96.425  PT: 2.20982    0
+CSA_noUN: 
+time: 98.658  PT: 1.96638    0
+CSA_noUN: 
+time: 100.911  PT: 2.1262    0
+CSA_noUN: 
+time: 103.179  PT: 10.4397    0
+CSA_noUN: 
+time: 103.184  PT: 0
+GA: 
+time: 2.206  PT: 0    0
+GA: 
+time: 4.408  PT: 0.963222    0
+GA: 
+time: 6.44  PT: 0    0
+GA: 
+time: 8.659  PT: 0.047961    0
+GA: 
+time: 10.708  PT: 1.03854    0
+GA: 
+time: 12.772  PT: 1.3186    0
+GA: 
+time: 14.785  PT: 0.941822    0
+GA: 
+time: 16.983  PT: 0    0
+GA: 
+time: 19.174  PT: 0.0877805    0
+GA: 
+time: 21.196  PT: 1.3186    0
+GA: 
+time: 23.214  PT: 1.3186    0
+GA: 
+time: 25.236  PT: 1.3186    0
+GA: 
+time: 27.443  PT: 1.3186    0
+GA: 
+time: 29.658  PT: 0.497141    0
+GA: 
+time: 31.665  PT: 0.497141    0
+now T: 341.81 beta:1
+CSA_UN: 
+time: 2.72  PT: 286.089    194.532
+CSA_UN: 
+time: 4.955  PT: 363.254    168.304
+CSA_UN: 
+time: 7.171  PT: 194.91    168.304
+CSA_UN: 
+time: 9.233  PT: 203.188    133.802
+CSA_UN: 
+time: 11.365  PT: 204.629    133.802
+CSA_UN: 
+time: 13.693  PT: 185.182    133.802
+CSA_UN: 
+time: 15.884  PT: 121.692    121.692
+CSA_UN: 
+time: 17.887  PT: 323.345    121.692
+CSA_UN: 
+time: 19.971  PT: 256.21    121.692
+CSA_UN: 
+time: 22.419  PT: 232.438    121.692
+CSA_UN: 
+time: 24.711  PT: 157.091    121.692
+CSA_UN: 
+time: 26.774  PT: 239.625    121.692
+CSA_UN: 
+time: 28.919  PT: 559.727    121.692
+CSA_UN: 
+time: 30.985  PT: 341.056    121.692
+CSA_UN: 
+time: 33.195  PT: 186.733    121.692
+CSA_UN: 
+time: 35.327  PT: 378.689    121.692
+CSA_UN: 
+time: 37.712  PT: 284.899    121.692
+CSA_UN: 
+time: 39.86  PT: 143.806    121.692
+CSA_UN: 
+time: 42.008  PT: 151.379    81.9429
+CSA_UN: 
+time: 44.616  PT: 105.9    81.9429
+CSA_UN: 
+time: 46.981  PT: 229.225    81.9429
+CSA_UN: 
+time: 49.513  PT: 182.351    81.9429
+CSA_UN: 
+time: 51.734  PT: 210.516    81.9429
+CSA_UN: 
+time: 54.108  PT: 289.157    81.9429
+CSA_UN: 
+time: 56.253  PT: 433.011    81.9429
+CSA_UN: 
+time: 58.47  PT: 392.44    81.9429
+CSA_UN: 
+time: 60.943  PT: 433.606    81.9429
+CSA_UN: 
+time: 63.095  PT: 272.813    81.9429
+CSA_UN: 
+time: 65.393  PT: 279.646    81.9429
+CSA_UN: 
+time: 67.687  PT: 458.226    81.9429
+CSA_UN: 
+time: 69.831  PT: 406.139    81.9429
+CSA_UN: 
+time: 72.207  PT: 370.347    81.9429
+CSA_UN: 
+time: 74.456  PT: 429.392    81.9429
+CSA_UN: 
+time: 76.603  PT: 315.058    81.9429
+CSA_UN: 
+time: 78.671  PT: 199.646    81.9429
+CSA_UN: 
+time: 80.741  PT: 367.759    81.9429
+CSA_UN: 
+time: 82.805  PT: 419.457    81.9429
+CSA_UN: 
+time: 85.096  PT: 295.914    81.9429
+CSA_UN: 
+time: 87.395  PT: 345.523    81.9429
+CSA_UN: 
+time: 87.636  PT: 81.9429
+CSA_noUN: 
+time: 2.29  PT: 196.799    196.442
+CSA_noUN: 
+time: 4.5  PT: 415.954    196.442
+CSA_noUN: 
+time: 6.712  PT: 420.68    196.442
+CSA_noUN: 
+time: 8.922  PT: 302.207    196.442
+CSA_noUN: 
+time: 11.128  PT: 211.575    135.326
+CSA_noUN: 
+time: 13.338  PT: 231.942    91.5109
+CSA_noUN: 
+time: 15.554  PT: 473.937    91.5109
+CSA_noUN: 
+time: 17.768  PT: 340.163    91.5109
+CSA_noUN: 
+time: 19.985  PT: 449.191    91.5109
+CSA_noUN: 
+time: 22.198  PT: 354.601    91.5109
+CSA_noUN: 
+time: 24.411  PT: 159.98    91.5109
+CSA_noUN: 
+time: 26.629  PT: 400.164    91.5109
+CSA_noUN: 
+time: 28.846  PT: 271.665    91.5109
+CSA_noUN: 
+time: 31.056  PT: 387.089    91.5109
+CSA_noUN: 
+time: 33.268  PT: 491.154    91.5109
+CSA_noUN: 
+time: 35.482  PT: 437.36    91.5109
+CSA_noUN: 
+time: 37.694  PT: 430.163    91.5109
+CSA_noUN: 
+time: 39.908  PT: 446.332    91.5109
+CSA_noUN: 
+time: 42.118  PT: 460.265    91.5109
+CSA_noUN: 
+time: 44.351  PT: 427.247    91.5109
+CSA_noUN: 
+time: 46.604  PT: 419.961    91.5109
+CSA_noUN: 
+time: 48.828  PT: 523.042    91.5109
+CSA_noUN: 
+time: 51.036  PT: 341.104    91.5109
+CSA_noUN: 
+time: 53.243  PT: 333.244    91.5109
+CSA_noUN: 
+time: 55.445  PT: 297.907    91.5109
+CSA_noUN: 
+time: 57.657  PT: 648.03    91.5109
+CSA_noUN: 
+time: 59.863  PT: 294.679    91.5109
+CSA_noUN: 
+time: 62.074  PT: 288.808    91.5109
+CSA_noUN: 
+time: 64.293  PT: 442.333    91.5109
+CSA_noUN: 
+time: 66.497  PT: 282.506    91.5109
+CSA_noUN: 
+time: 68.732  PT: 326.387    91.5109
+CSA_noUN: 
+time: 70.957  PT: 272.845    91.5109
+CSA_noUN: 
+time: 73.166  PT: 371.671    91.5109
+CSA_noUN: 
+time: 75.374  PT: 420.046    91.5109
+CSA_noUN: 
+time: 77.586  PT: 466.727    91.5109
+CSA_noUN: 
+time: 79.797  PT: 582.37    91.5109
+CSA_noUN: 
+time: 82.02  PT: 397.983    91.5109
+CSA_noUN: 
+time: 84.223  PT: 531.684    91.5109
+CSA_noUN: 
+time: 86.453  PT: 184.323    91.5109
+CSA_noUN: 
+time: 88.674  PT: 533.8    91.5109
+CSA_noUN: 
+time: 90.926  PT: 215.299    91.5109
+CSA_noUN: 
+time: 93.163  PT: 293.191    91.5109
+CSA_noUN: 
+time: 95.378  PT: 271.13    91.5109
+CSA_noUN: 
+time: 97.619  PT: 294.246    91.5109
+CSA_noUN: 
+time: 99.838  PT: 412.987    91.5109
+CSA_noUN: 
+time: 102.065  PT: 509.824    91.5109
+CSA_noUN: 
+time: 102.07  PT: 91.5109
+GA: 
+time: 2.006  PT: 473.791    245.888
+GA: 
+time: 4.194  PT: 473.791    245.888
+GA: 
+time: 6.383  PT: 594.975    245.888
+GA: 
+time: 8.588  PT: 548.002    245.888
+GA: 
+time: 10.745  PT: 424.193    245.888
+GA: 
+time: 12.933  PT: 457.805    245.888
+GA: 
+time: 15.126  PT: 326.01    245.888
+GA: 
+time: 17.285  PT: 403.871    245.888
+GA: 
+time: 19.434  PT: 471.095    245.888
+GA: 
+time: 21.6  PT: 503.881    245.888
+GA: 
+time: 23.775  PT: 528.899    245.888
+GA: 
+time: 25.923  PT: 349.349    245.888
+GA: 
+time: 28.077  PT: 349.349    245.888
+GA: 
+time: 30.223  PT: 311.429    245.888
+GA: 
+time: 32.389  PT: 349.349    245.888
+GA: 
+time: 34.564  PT: 278.145    245.888
+GA: 
+time: 36.724  PT: 278.145    245.888
+GA: 
+time: 38.88  PT: 278.145    245.888
+GA: 
+time: 41.041  PT: 240.199    240.199
+GA: 
+time: 43.206  PT: 278.145    240.199
+GA: 
+time: 45.371  PT: 235.22    214.834
+GA: 
+time: 47.528  PT: 272.143    214.834
+GA: 
+time: 49.675  PT: 272.143    176.529
+GA: 
+time: 51.826  PT: 272.143    176.529
+GA: 
+time: 53.992  PT: 219.632    176.529
+GA: 
+time: 56.152  PT: 219.632    176.529
+GA: 
+time: 58.292  PT: 436.438    176.529
+GA: 
+time: 60.442  PT: 444.387    176.529
+GA: 
+time: 62.602  PT: 272.143    176.529
+GA: 
+time: 64.795  PT: 156.532    156.532
+GA: 
+time: 66.975  PT: 272.143    156.532
+GA: 
+time: 69.119  PT: 167.255    156.532
+GA: 
+time: 71.269  PT: 420.825    156.532
+GA: 
+time: 73.418  PT: 260.089    156.532
+GA: 
+time: 75.571  PT: 494.622    156.532
+GA: 
+time: 77.722  PT: 494.622    156.532
+GA: 
+time: 79.868  PT: 410.305    156.532
+GA: 
+time: 82.027  PT: 603.443    156.532
+GA: 
+time: 84.182  PT: 376.146    156.532
+GA: 
+time: 86.328  PT: 328.534    156.532
+GA: 
+time: 88.423  PT: 254.498    156.532
+GA: 
+time: 90.446  PT: 30.8842    156.532
+GA: 
+time: 92.452  PT: 16.3667    156.532
+GA: 
+time: 94.474  PT: 11.4752    156.532
+GA: 
+time: 96.675  PT: 11.4752    156.532
+GA: 
+time: 98.695  PT: 11.0191    156.532
+GA: 
+time: 100.721  PT: 10.8153    156.532
+GA: 
+time: 102.749  PT: 10.6767    156.532
+GA: 
+time: 104.786  PT: 7.62472    156.532
+GA: 
+time: 106.819  PT: 7.62472    156.532
+GA: 
+time: 108.829  PT: 7.38092    156.532
+GA: 
+time: 110.85  PT: 7.38092    156.532
+GA: 
+time: 112.864  PT: 7.38092    156.532
+GA: 
+time: 114.9  PT: 6.69642    156.532
+GA: 
+time: 116.933  PT: 6.46952    156.532
+GA: 
+time: 118.954  PT: 6.28262    156.532
+GA: 
+time: 121.02  PT: 6.28262    156.532
+GA: 
+time: 123.11  PT: 6.1959    156.532
+GA: 
+time: 125.198  PT: 6.1959    156.532
+GA: 
+time: 127.256  PT: 6.1959    156.532
+GA: 
+time: 129.269  PT: 6.1959    156.532
+GA: 
+time: 131.308  PT: 6.1959    156.532
+GA: 
+time: 133.325  PT: 6.1959    156.532
+GA: 
+time: 135.342  PT: 6.1959    156.532
+GA: 
+time: 137.37  PT: 6.1959    156.532
+GA: 
+time: 137.374  PT: 156.532
+SA: 
+time: 2.0387  PT: 297.174    297.174
+SA: 
+time: 4.1553  PT: 297.174    297.174
+SA: 
+time: 6.2624  PT: 297.174    297.174
+SA: 
+time: 8.3809  PT: 289.387    289.387
+SA: 
+time: 10.507  PT: 289.387    289.387
+SA: 
+time: 12.5571  PT: 289.387    289.387
+SA: 
+time: 14.7497  PT: 289.387    289.387
+SA: 
+time: 16.8739  PT: 289.387    289.387
+SA: 
+time: 18.9031  PT: 289.387    289.387
+SA: 
+time: 21.0976  PT: 181    181
+SA: 
+time: 23.2142  PT: 151.466    151.466
+SA: 
+time: 25.3669  PT: 151.069    151.069
+SA: 
+time: 27.5253  PT: 147.4    147.4
+SA: 
+time: 29.7331  PT: 147.4    147.4
+SA: 
+time: 31.882  PT: 147.4    147.4
+SA: 
+time: 34.0195  PT: 147.4    147.4
+SA: 
+time: 36.1285  PT: 147.4    147.4
+SA: 
+time: 38.2489  PT: 121.147    121.147
+SA: 
+time: 40.3674  PT: 121.147    121.147
+SA: 
+time: 42.484  PT: 121.147    121.147
+SA: 
+time: 44.631  PT: 121.147    121.147
+SA: 
+time: 46.7552  PT: 121.147    121.147
+SA: 
+time: 48.8623  PT: 121.147    121.147
+SA: 
+time: 51.0093  PT: 120.598    120.598
+SA: 
+time: 53.1354  PT: 120.598    120.598
+SA: 
+time: 55.2596  PT: 112.263    112.263
+SA: 
+time: 57.3743  PT: 112.263    112.263
+SA: 
+time: 59.4966  PT: 112.263    112.263
+SA: 
+time: 61.6113  PT: 100.573    100.573
+SA: 
+time: 63.7222  PT: 100.573    100.573
+SA: 
+time: 65.8236  PT: 100.573    100.573
+SA: 
+time: 67.849  PT: 100.573    100.573
+SA: 
+time: 70.0321  PT: 100.573    100.573
+SA: 
+time: 72.1867  PT: 63.4823    63.4823
+SA: 
+time: 74.2558  PT: 63.4823    63.4823
+SA: 
+time: 76.4883  PT: 63.4823    63.4823
+SA: 
+time: 78.6011  PT: 63.4823    63.4823
+SA: 
+time: 80.6968  PT: 63.4823    63.4823
+SA: 
+time: 82.8248  PT: 63.2907    63.2907
+SA: 
+time: 84.987  PT: 53.8506    53.8506
+SA: 
+time: 87.1378  PT: 53.8506    53.8506
+SA: 
+time: 89.3171  PT: 53.8506    53.8506
+SA: 
+time: 91.4565  PT: 53.8506    53.8506
+SA: 
+time: 93.6263  PT: 38.1612    38.1612
+SA: 
+time: 95.7714  PT: 38.1612    38.1612
+SA: 
+time: 97.9013  PT: 38.1612    38.1612
+SA: 
+time: 100.058  PT: 38.1612    38.1612
+SA: 
+time: 102.19  PT: 38.1612    38.1612
+SA: 
+time: 104.356  PT: 35.1862    35.1862
+SA: 
+time: 104.834  PT: 35.1862
+now T: 341.81 beta:1
+CSA_UN: 
+time: 85.859  PT: 100.814
+CSA_noUN: 
+time: 2.308  PT: 375.902    144.606
+CSA_noUN: 
+time: 4.534  PT: 565.691    144.606
+CSA_noUN: 
+time: 6.744  PT: 382.82    144.606
+CSA_noUN: 
+time: 8.958  PT: 284.593    144.606
+CSA_noUN: 
+time: 11.195  PT: 240.129    144.606
+CSA_noUN: 
+time: 13.424  PT: 464.516    144.606
+CSA_noUN: 
+time: 15.636  PT: 294.1    144.606
+CSA_noUN: 
+time: 17.85  PT: 223.654    144.606
+CSA_noUN: 
+time: 20.062  PT: 300.607    136.863
+CSA_noUN: 
+time: 22.274  PT: 297    136.863
+CSA_noUN: 
+time: 24.49  PT: 369.39    136.863
+CSA_noUN: 
+time: 26.729  PT: 232.892    136.863
+CSA_noUN: 
+time: 28.993  PT: 177.369    136.863
+CSA_noUN: 
+time: 31.23  PT: 413.299    136.863
+CSA_noUN: 
+time: 33.449  PT: 452.224    136.863
+CSA_noUN: 
+time: 35.657  PT: 145.419    136.863
+CSA_noUN: 
+time: 37.866  PT: 413.691    136.863
+CSA_noUN: 
+time: 40.071  PT: 287.561    136.863
+CSA_noUN: 
+time: 42.278  PT: 273.668    136.863
+CSA_noUN: 
+time: 44.489  PT: 199.548    136.863
+CSA_noUN: 
+time: 46.702  PT: 305.253    128.652
+CSA_noUN: 
+time: 49.003  PT: 350.88    128.652
+CSA_noUN: 
+time: 51.32  PT: 333.703    128.652
+CSA_noUN: 
+time: 53.57  PT: 300.335    128.652
+CSA_noUN: 
+time: 55.786  PT: 220.052    128.652
+CSA_noUN: 
+time: 58.002  PT: 587.698    128.652
+CSA_noUN: 
+time: 60.236  PT: 423.627    128.652
+CSA_noUN: 
+time: 62.463  PT: 301.325    128.652
+CSA_noUN: 
+time: 64.692  PT: 280.813    128.652
+CSA_noUN: 
+time: 66.919  PT: 361.001    128.652
+CSA_noUN: 
+time: 69.138  PT: 364.327    128.652
+CSA_noUN: 
+time: 71.345  PT: 403.368    128.652
+CSA_noUN: 
+time: 73.569  PT: 396.008    128.652
+CSA_noUN: 
+time: 75.803  PT: 314.125    128.652
+CSA_noUN: 
+time: 78.009  PT: 471.32    128.652
+CSA_noUN: 
+time: 80.215  PT: 440.195    128.652
+CSA_noUN: 
+time: 82.45  PT: 363.902    128.652
+CSA_noUN: 
+time: 84.715  PT: 285.117    128.652
+CSA_noUN: 
+time: 86.96  PT: 151.537    117.117
+CSA_noUN: 
+time: 89.179  PT: 251.632    117.117
+CSA_noUN: 
+time: 91.389  PT: 425.24    117.117
+CSA_noUN: 
+time: 93.604  PT: 550.478    117.117
+CSA_noUN: 
+time: 95.838  PT: 425.259    117.117
+CSA_noUN: 
+time: 98.058  PT: 446.01    117.117
+CSA_noUN: 
+time: 100.259  PT: 304.347    117.117
+CSA_noUN: 
+time: 102.465  PT: 264.589    117.117
+CSA_noUN: 
+time: 102.47  PT: 117.117
+GA: 
+time: 2.207  PT: 315.592    315.592
+GA: 
+time: 4.369  PT: 247.789    247.789
+GA: 
+time: 6.536  PT: 170.797    170.797
+GA: 
+time: 8.72  PT: 258.431    170.797
+GA: 
+time: 10.892  PT: 258.431    170.797
+GA: 
+time: 13.064  PT: 258.431    170.797
+GA: 
+time: 15.243  PT: 315.592    170.797
+GA: 
+time: 17.42  PT: 315.592    170.797
+GA: 
+time: 19.582  PT: 278.532    170.797
+GA: 
+time: 21.727  PT: 199.674    170.797
+GA: 
+time: 23.889  PT: 199.674    170.797
+GA: 
+time: 26.04  PT: 199.674    170.797
+GA: 
+time: 28.184  PT: 215.971    170.797
+GA: 
+time: 30.339  PT: 216.163    170.797
+GA: 
+time: 32.481  PT: 232.873    170.797
+GA: 
+time: 34.64  PT: 332.105    170.797
+GA: 
+time: 36.817  PT: 332.105    170.797
+GA: 
+time: 38.966  PT: 332.105    170.797
+GA: 
+time: 41.137  PT: 211.098    170.797
+GA: 
+time: 43.331  PT: 294.461    170.797
+GA: 
+time: 45.51  PT: 367.175    170.797
+GA: 
+time: 47.649  PT: 367.175    170.797
+GA: 
+time: 49.804  PT: 383.185    170.797
+GA: 
+time: 51.958  PT: 315.556    170.797
+GA: 
+time: 54.133  PT: 383.802    170.797
+GA: 
+time: 56.281  PT: 346.611    170.797
+GA: 
+time: 58.443  PT: 383.802    170.797
+GA: 
+time: 60.619  PT: 383.802    170.797
+GA: 
+time: 62.767  PT: 230.981    170.797
+GA: 
+time: 64.921  PT: 383.802    170.797
+GA: 
+time: 67.071  PT: 290.295    170.797
+GA: 
+time: 69.217  PT: 386.31    170.797
+GA: 
+time: 71.36  PT: 401.181    170.797
+GA: 
+time: 73.493  PT: 409.606    170.797
+GA: 
+time: 75.629  PT: 395.589    170.797
+GA: 
+time: 77.751  PT: 377.446    170.797
+GA: 
+time: 79.883  PT: 377.446    170.797
+GA: 
+time: 82.028  PT: 404.382    170.797
+GA: 
+time: 84.171  PT: 404.382    170.797
+GA: 
+time: 86.312  PT: 404.382    170.797
+GA: 
+time: 88.374  PT: 147.564    170.797
+GA: 
+time: 90.398  PT: 35.3141    170.797
+GA: 
+time: 92.413  PT: 21.5563    170.797
+GA: 
+time: 94.607  PT: 16.1415    170.797
+GA: 
+time: 96.795  PT: 15.757    170.797
+GA: 
+time: 98.99  PT: 15.757    170.797
+GA: 
+time: 101.186  PT: 14.9254    170.797
+GA: 
+time: 103.206  PT: 14.7852    170.797
+GA: 
+time: 105.209  PT: 14.7183    170.797
+GA: 
+time: 107.214  PT: 14.7183    170.797
+GA: 
+time: 109.406  PT: 14.7183    170.797
+GA: 
+time: 111.596  PT: 14.7183    170.797
+GA: 
+time: 113.791  PT: 14.7183    170.797
+GA: 
+time: 115.987  PT: 14.6945    170.797
+GA: 
+time: 118.167  PT: 13.47    170.797
+GA: 
+time: 120.36  PT: 13.47    170.797
+GA: 
+time: 122.365  PT: 13.47    170.797
+GA: 
+time: 124.366  PT: 13.47    170.797
+GA: 
+time: 126.56  PT: 13.47    170.797
+GA: 
+time: 128.757  PT: 13.47    170.797
+GA: 
+time: 130.953  PT: 13.47    170.797
+GA: 
+time: 133.134  PT: 13.47    170.797
+GA: 
+time: 135.134  PT: 13.47    170.797
+GA: 
+time: 136.427  PT: 170.797
+SA: 
+time: 2.0938  PT: 259.053    259.053
+SA: 
+time: 4.2826  PT: 218.324    218.324
+SA: 
+time: 6.3935  PT: 218.324    218.324
+SA: 
+time: 8.5101  PT: 218.324    218.324
+SA: 
+time: 10.6723  PT: 218.324    218.324
+SA: 
+time: 12.7452  PT: 210.629    210.629
+SA: 
+time: 14.8485  PT: 203.87    203.87
+SA: 
+time: 17.0487  PT: 193.918    193.918
+SA: 
+time: 19.1064  PT: 193.918    193.918
+SA: 
+time: 21.2458  PT: 193.918    193.918
+SA: 
+time: 23.3966  PT: 193.918    193.918
+SA: 
+time: 25.422  PT: 189.886    189.886
+SA: 
+time: 27.5595  PT: 189.886    189.886
+SA: 
+time: 29.8034  PT: 189.886    189.886
+SA: 
+time: 31.8345  PT: 189.886    189.886
+SA: 
+time: 33.8998  PT: 189.886    189.886
+SA: 
+time: 35.9993  PT: 167.359    167.359
+SA: 
+time: 38.019  PT: 167.315    167.315
+SA: 
+time: 40.204  PT: 167.315    167.315
+SA: 
+time: 42.3054  PT: 167.315    167.315
+SA: 
+time: 44.3764  PT: 167.315    167.315
+SA: 
+time: 46.5842  PT: 167.315    167.315
+SA: 
+time: 48.7027  PT: 167.315    167.315
+SA: 
+time: 50.8383  PT: 166.964    166.964
+SA: 
+time: 52.9644  PT: 166.964    166.964
+SA: 
+time: 55.0544  PT: 71.5724    71.5724
+SA: 
+time: 57.1463  PT: 71.5724    71.5724
+SA: 
+time: 59.2743  PT: 71.5724    71.5724
+SA: 
+time: 61.4023  PT: 62.9037    62.9037
+SA: 
+time: 63.4961  PT: 62.9037    62.9037
+SA: 
+time: 65.6298  PT: 62.9037    62.9037
+SA: 
+time: 67.7483  PT: 62.9037    62.9037
+SA: 
+time: 69.8345  PT: 62.9037    62.9037
+SA: 
+time: 71.9454  PT: 61.5785    61.5785
+SA: 
+time: 73.9822  PT: 61.5785    61.5785
+SA: 
+time: 76.1862  PT: 61.5785    61.5785
+SA: 
+time: 78.394  PT: 61.2578    61.2578
+SA: 
+time: 80.5049  PT: 61.2578    61.2578
+SA: 
+time: 82.6519  PT: 59.6564    59.6564
+SA: 
+time: 84.7571  PT: 59.6564    59.6564
+SA: 
+time: 86.8832  PT: 59.6564    59.6564
+SA: 
+time: 88.9922  PT: 59.6564    59.6564
+SA: 
+time: 91.0917  PT: 58.4205    58.4205
+SA: 
+time: 93.1874  PT: 58.4205    58.4205
+SA: 
+time: 95.3325  PT: 58.4205    58.4205
+SA: 
+time: 97.3826  PT: 58.4205    58.4205
+SA: 
+time: 99.4745  PT: 58.4205    58.4205
+SA: 
+time: 101.572  PT: 58.4205    58.4205
+SA: 
+time: 103.677  PT: 58.4205    58.4205
+SA: 
+time: 105.541  PT: 58.4205
+now T: 341.81 beta:1
+CSA_UN: 
+time: 84.144  PT: 80.7384
+CSA_noUN: 
+time: 2.277  PT: 245.255    138.373
+CSA_noUN: 
+time: 4.476  PT: 231.211    138.373
+CSA_noUN: 
+time: 6.697  PT: 267.628    138.373
+CSA_noUN: 
+time: 8.926  PT: 299.357    138.373
+CSA_noUN: 
+time: 11.168  PT: 490.343    138.373
+CSA_noUN: 
+time: 13.378  PT: 375.105    138.373
+CSA_noUN: 
+time: 15.58  PT: 236.158    138.373
+CSA_noUN: 
+time: 17.771  PT: 315.173    96.1651
+CSA_noUN: 
+time: 19.976  PT: 345.431    96.1651
+CSA_noUN: 
+time: 22.197  PT: 358.152    96.1651
+CSA_noUN: 
+time: 24.384  PT: 288.331    96.1651
+CSA_noUN: 
+time: 26.577  PT: 134.466    96.1651
+CSA_noUN: 
+time: 28.773  PT: 337.1    96.1651
+CSA_noUN: 
+time: 30.966  PT: 307.038    96.1651
+CSA_noUN: 
+time: 33.18  PT: 339.387    96.1651
+CSA_noUN: 
+time: 35.397  PT: 260.098    96.1651
+CSA_noUN: 
+time: 37.585  PT: 223.412    96.1651
+CSA_noUN: 
+time: 39.782  PT: 366.87    96.1651
+CSA_noUN: 
+time: 41.976  PT: 321.372    96.1651
+CSA_noUN: 
+time: 44.171  PT: 400.541    96.1651
+CSA_noUN: 
+time: 46.368  PT: 303.341    96.1651
+CSA_noUN: 
+time: 48.556  PT: 393.283    96.1651
+CSA_noUN: 
+time: 50.746  PT: 130.08    96.1651
+CSA_noUN: 
+time: 52.947  PT: 237.134    96.1651
+CSA_noUN: 
+time: 55.145  PT: 303.559    96.1651
+CSA_noUN: 
+time: 57.363  PT: 180.667    96.1651
+CSA_noUN: 
+time: 59.576  PT: 369.165    90.1932
+CSA_noUN: 
+time: 61.767  PT: 389.751    90.1932
+CSA_noUN: 
+time: 63.951  PT: 315.523    90.1932
+CSA_noUN: 
+time: 66.138  PT: 201.49    90.1932
+CSA_noUN: 
+time: 68.448  PT: 168.134    90.1932
+CSA_noUN: 
+time: 70.704  PT: 328.9    90.1932
+CSA_noUN: 
+time: 72.967  PT: 146.558    90.1932
+CSA_noUN: 
+time: 75.219  PT: 434.033    90.1932
+CSA_noUN: 
+time: 77.434  PT: 375.198    90.1932
+CSA_noUN: 
+time: 79.643  PT: 311.776    90.1932
+CSA_noUN: 
+time: 81.85  PT: 305.624    90.1932
+CSA_noUN: 
+time: 84.042  PT: 118.821    90.1932
+CSA_noUN: 
+time: 86.25  PT: 270.806    90.1932
+CSA_noUN: 
+time: 88.464  PT: 414.246    90.1932
+CSA_noUN: 
+time: 90.669  PT: 210.071    90.1932
+CSA_noUN: 
+time: 92.86  PT: 282.849    90.1932
+CSA_noUN: 
+time: 95.05  PT: 343.156    90.1932
+CSA_noUN: 
+time: 97.244  PT: 245.571    90.1932
+CSA_noUN: 
+time: 99.444  PT: 293.839    90.1932
+CSA_noUN: 
+time: 101.64  PT: 344.026    90.1932
+CSA_noUN: 
+time: 101.645  PT: 90.1932
+GA: 
+time: 2.196  PT: 181.542    106.334
+GA: 
+time: 4.342  PT: 155.377    106.334
+GA: 
+time: 6.468  PT: 155.377    106.334
+GA: 
+time: 8.617  PT: 152.512    106.334
+GA: 
+time: 10.749  PT: 152.512    106.334
+GA: 
+time: 12.868  PT: 232.525    106.334
+GA: 
+time: 15.006  PT: 238.664    106.334
+GA: 
+time: 17.153  PT: 123.836    106.334
+GA: 
+time: 19.303  PT: 122.811    106.334
+GA: 
+time: 21.442  PT: 317.994    106.334
+GA: 
+time: 23.573  PT: 159.617    106.334
+GA: 
+time: 25.725  PT: 159.617    106.334
+GA: 
+time: 27.874  PT: 296.222    106.334
+GA: 
+time: 30.012  PT: 155.008    106.334
+GA: 
+time: 32.154  PT: 360.554    106.334
+GA: 
+time: 34.297  PT: 360.554    106.334
+GA: 
+time: 36.43  PT: 311.335    106.334
+GA: 
+time: 38.571  PT: 308.546    106.334
+GA: 
+time: 40.695  PT: 167.433    106.334
+GA: 
+time: 42.836  PT: 357.973    106.334
+GA: 
+time: 44.982  PT: 357.973    106.334
+GA: 
+time: 47.122  PT: 339.632    106.334
+GA: 
+time: 49.262  PT: 339.121    106.334
+GA: 
+time: 51.391  PT: 334.491    106.334
+GA: 
+time: 53.533  PT: 294.927    106.334
+GA: 
+time: 55.665  PT: 210.712    106.334
+GA: 
+time: 57.8  PT: 371.702    106.334
+GA: 
+time: 59.945  PT: 241.879    106.334
+GA: 
+time: 62.087  PT: 210.712    106.334
+GA: 
+time: 64.222  PT: 272.589    106.334
+GA: 
+time: 66.388  PT: 281.623    106.334
+GA: 
+time: 68.541  PT: 240.163    106.334
+GA: 
+time: 70.701  PT: 170.372    106.334
+GA: 
+time: 72.844  PT: 163.52    106.334
+GA: 
+time: 74.977  PT: 204.707    106.334
+GA: 
+time: 77.115  PT: 283.153    106.334
+GA: 
+time: 79.245  PT: 148.204    106.334
+GA: 
+time: 81.367  PT: 296.757    106.334
+GA: 
+time: 83.501  PT: 197.993    106.334
+GA: 
+time: 85.64  PT: 259.333    106.334
+GA: 
+time: 87.752  PT: 64.554    106.334
+GA: 
+time: 89.95  PT: 17.42    106.334
+GA: 
+time: 91.956  PT: 16.4184    106.334
+GA: 
+time: 93.99  PT: 15.0042    106.334
+GA: 
+time: 96.185  PT: 14.1511    106.334
+GA: 
+time: 98.372  PT: 14.1511    106.334
+GA: 
+time: 100.569  PT: 14.1511    106.334
+GA: 
+time: 102.767  PT: 13.2859    106.334
+GA: 
+time: 104.969  PT: 11.2955    106.334
+GA: 
+time: 107.162  PT: 11.2954    106.334
+GA: 
+time: 109.163  PT: 10.6486    106.334
+GA: 
+time: 111.359  PT: 10.3747    106.334
+GA: 
+time: 113.368  PT: 10.3747    106.334
+GA: 
+time: 115.373  PT: 10.3747    106.334
+GA: 
+time: 117.573  PT: 10.3747    106.334
+GA: 
+time: 119.762  PT: 10.3747    106.334
+GA: 
+time: 121.954  PT: 10.3747    106.334
+GA: 
+time: 124.153  PT: 10.3747    106.334
+GA: 
+time: 126.346  PT: 10.1778    106.334
+GA: 
+time: 128.359  PT: 10.1778    106.334
+GA: 
+time: 130.369  PT: 10.1778    106.334
+GA: 
+time: 132.564  PT: 10.1778    106.334
+GA: 
+time: 134.758  PT: 10.1778    106.334
+GA: 
+time: 135.753  PT: 106.334
+SA: 
+time: 2.0083  PT: 273.229    273.229
+SA: 
+time: 4.1249  PT: 273.229    273.229
+SA: 
+time: 6.2377  PT: 170.977    170.977
+SA: 
+time: 8.3714  PT: 146.019    146.019
+SA: 
+time: 10.4766  PT: 146.019    146.019
+SA: 
+time: 12.5077  PT: 83.4821    83.4821
+SA: 
+time: 14.6927  PT: 83.4821    83.4821
+SA: 
+time: 16.7903  PT: 79.3579    79.3579
+SA: 
+time: 18.8062  PT: 79.3579    79.3579
+SA: 
+time: 20.8658  PT: 79.3579    79.3579
+SA: 
+time: 22.9596  PT: 79.3579    79.3579
+SA: 
+time: 24.9812  PT: 79.3579    79.3579
+SA: 
+time: 27.1453  PT: 67.0331    67.0331
+SA: 
+time: 29.241  PT: 66.4862    66.4862
+SA: 
+time: 31.3462  PT: 66.4862    66.4862
+SA: 
+time: 33.4685  PT: 66.4862    66.4862
+SA: 
+time: 35.568  PT: 66.4862    66.4862
+SA: 
+time: 37.658  PT: 66.4862    66.4862
+SA: 
+time: 39.7708  PT: 51.7357    51.7357
+SA: 
+time: 41.8855  PT: 51.7357    51.7357
+SA: 
+time: 43.9831  PT: 35.3816    35.3816
+SA: 
+time: 46.0693  PT: 35.3816    35.3816
+SA: 
+time: 48.1688  PT: 35.3816    35.3816
+SA: 
+time: 50.293  PT: 35.3816    35.3816
+SA: 
+time: 52.3906  PT: 35.3816    35.3816
+SA: 
+time: 54.4863  PT: 35.1264    35.1264
+SA: 
+time: 56.5934  PT: 34.755    34.755
+SA: 
+time: 58.6929  PT: 34.755    34.755
+SA: 
+time: 60.8057  PT: 34.7548    34.7548
+SA: 
+time: 62.9128  PT: 34.7548    34.7548
+SA: 
+time: 65.0066  PT: 34.7548    34.7548
+SA: 
+time: 67.1118  PT: 34.7548    34.7548
+SA: 
+time: 69.1961  PT: 34.7548    34.7548
+SA: 
+time: 71.3184  PT: 34.7548    34.7548
+SA: 
+time: 73.3419  PT: 34.7548    34.7548
+SA: 
+time: 75.5326  PT: 34.7548    34.7548
+SA: 
+time: 77.6207  PT: 34.7548    34.7548
+SA: 
+time: 79.6385  PT: 32.4087    32.4087
+SA: 
+time: 81.8178  PT: 32.4087    32.4087
+SA: 
+time: 83.9059  PT: 32.4087    32.4087
+SA: 
+time: 86.0092  PT: 32.2449    32.2449
+SA: 
+time: 88.0954  PT: 32.2449    32.2449
+SA: 
+time: 90.2215  PT: 32.2449    32.2449
+SA: 
+time: 92.3476  PT: 32.2449    32.2449
+SA: 
+time: 94.4509  PT: 32.2449    32.2449
+SA: 
+time: 96.5314  PT: 32.2449    32.2449
+SA: 
+time: 98.6404  PT: 32.2449    32.2449
+SA: 
+time: 100.723  PT: 32.2449    32.2449
+SA: 
+time: 102.811  PT: 32.2449    32.2449
+SA: 
+time: 103.527  PT: 32.2449
+now T: 341.81 beta:1
+CSA_UN: 
+time: 86.068  PT: 84.2018
+CSA_noUN: 
+time: 2.276  PT: 268.152    109.234
+CSA_noUN: 
+time: 4.462  PT: 158.438    109.234
+CSA_noUN: 
+time: 6.654  PT: 235.964    109.234
+CSA_noUN: 
+time: 8.852  PT: 157.914    109.234
+CSA_noUN: 
+time: 11.06  PT: 260.372    109.234
+CSA_noUN: 
+time: 13.254  PT: 138.145    109.234
+CSA_noUN: 
+time: 15.45  PT: 314.326    109.234
+CSA_noUN: 
+time: 17.647  PT: 287.548    109.234
+CSA_noUN: 
+time: 19.849  PT: 187.516    109.234
+CSA_noUN: 
+time: 22.037  PT: 297.026    109.234
+CSA_noUN: 
+time: 24.233  PT: 252.464    109.234
+CSA_noUN: 
+time: 26.423  PT: 410.081    109.234
+CSA_noUN: 
+time: 28.63  PT: 194.915    109.234
+CSA_noUN: 
+time: 30.817  PT: 220.974    72.4059
+CSA_noUN: 
+time: 33.006  PT: 380.998    72.4059
+CSA_noUN: 
+time: 35.2  PT: 227.301    72.4059
+CSA_noUN: 
+time: 37.48  PT: 201.252    72.4059
+CSA_noUN: 
+time: 39.687  PT: 250.195    72.4059
+CSA_noUN: 
+time: 41.872  PT: 325.835    72.4059
+CSA_noUN: 
+time: 44.067  PT: 324.204    72.4059
+CSA_noUN: 
+time: 46.26  PT: 289.73    72.4059
+CSA_noUN: 
+time: 48.482  PT: 262.814    72.4059
+CSA_noUN: 
+time: 50.688  PT: 136.568    72.4059
+CSA_noUN: 
+time: 52.886  PT: 229.735    72.4059
+CSA_noUN: 
+time: 55.083  PT: 240.191    72.4059
+CSA_noUN: 
+time: 57.293  PT: 256.042    72.4059
+CSA_noUN: 
+time: 59.509  PT: 150.027    72.4059
+CSA_noUN: 
+time: 61.713  PT: 142.482    72.4059
+CSA_noUN: 
+time: 63.913  PT: 176.979    72.4059
+CSA_noUN: 
+time: 66.096  PT: 235.141    72.4059
+CSA_noUN: 
+time: 68.283  PT: 306.021    72.4059
+CSA_noUN: 
+time: 70.472  PT: 201.392    72.4059
+CSA_noUN: 
+time: 72.655  PT: 227.781    72.4059
+CSA_noUN: 
+time: 74.845  PT: 291.435    72.4059
+CSA_noUN: 
+time: 77.025  PT: 245.182    72.4059
+CSA_noUN: 
+time: 79.217  PT: 325.942    72.4059
+CSA_noUN: 
+time: 81.4  PT: 268.914    72.4059
+CSA_noUN: 
+time: 83.591  PT: 178.942    72.4059
+CSA_noUN: 
+time: 85.787  PT: 181.681    72.4059
+CSA_noUN: 
+time: 87.974  PT: 361.909    72.4059
+CSA_noUN: 
+time: 90.158  PT: 244.736    72.4059
+CSA_noUN: 
+time: 92.345  PT: 343.576    72.4059
+CSA_noUN: 
+time: 94.526  PT: 289.428    72.4059
+CSA_noUN: 
+time: 96.715  PT: 252.173    72.4059
+CSA_noUN: 
+time: 98.902  PT: 352.552    72.4059
+CSA_noUN: 
+time: 101.091  PT: 266.703    72.4059
+CSA_noUN: 
+time: 101.095  PT: 72.4059
+GA: 
+time: 2.173  PT: 399.395    314.501
+GA: 
+time: 4.296  PT: 264.354    264.354
+GA: 
+time: 6.442  PT: 264.354    264.354
+GA: 
+time: 8.618  PT: 264.354    264.354
+GA: 
+time: 10.782  PT: 296.513    184.212
+GA: 
+time: 12.907  PT: 181.389    181.389
+GA: 
+time: 15.029  PT: 236.516    181.389
+GA: 
+time: 17.153  PT: 201.91    161.578
+GA: 
+time: 19.302  PT: 296.446    161.578
+GA: 
+time: 21.441  PT: 285.519    161.578
+GA: 
+time: 23.556  PT: 285.519    79.2211
+GA: 
+time: 25.672  PT: 168.026    79.2211
+GA: 
+time: 27.805  PT: 191.894    79.2211
+GA: 
+time: 29.943  PT: 191.894    79.2211
+GA: 
+time: 32.072  PT: 201.016    79.2211
+GA: 
+time: 34.207  PT: 285.519    79.2211
+GA: 
+time: 36.359  PT: 190.996    79.2211
+GA: 
+time: 38.489  PT: 187.045    79.2211
+GA: 
+time: 40.621  PT: 140.824    79.2211
+GA: 
+time: 42.756  PT: 241.471    79.2211
+GA: 
+time: 44.898  PT: 186.767    79.2211
+GA: 
+time: 47.047  PT: 266.314    79.2211
+GA: 
+time: 49.175  PT: 232.247    79.2211
+GA: 
+time: 51.315  PT: 218.816    79.2211
+GA: 
+time: 53.458  PT: 213.197    79.2211
+GA: 
+time: 55.587  PT: 399.676    79.2211
+GA: 
+time: 57.732  PT: 399.676    79.2211
+GA: 
+time: 59.88  PT: 286.32    79.2211
+GA: 
+time: 62.026  PT: 286.32    79.2211
+GA: 
+time: 64.166  PT: 258.724    79.2211
+GA: 
+time: 66.309  PT: 341.71    79.2211
+GA: 
+time: 68.471  PT: 208.096    79.2211
+GA: 
+time: 70.624  PT: 403.05    79.2211
+GA: 
+time: 72.761  PT: 210.407    79.2211
+GA: 
+time: 74.91  PT: 151.58    79.2211
+GA: 
+time: 77.071  PT: 112.366    79.2211
+GA: 
+time: 79.195  PT: 399.395    79.2211
+GA: 
+time: 81.318  PT: 311.296    79.2211
+GA: 
+time: 83.448  PT: 194.066    79.2211
+GA: 
+time: 85.576  PT: 243.716    79.2211
+GA: 
+time: 87.657  PT: 66.4676    79.2211
+GA: 
+time: 89.659  PT: 13.2859    79.2211
+GA: 
+time: 91.854  PT: 8.89011    79.2211
+GA: 
+time: 94.048  PT: 6.04642    79.2211
+GA: 
+time: 96.225  PT: 5.3752    79.2211
+GA: 
+time: 98.226  PT: 4.8638    79.2211
+GA: 
+time: 100.406  PT: 4.46602    79.2211
+GA: 
+time: 102.409  PT: 4.46602    79.2211
+GA: 
+time: 104.586  PT: 4.46602    79.2211
+GA: 
+time: 106.587  PT: 4.46602    79.2211
+GA: 
+time: 108.594  PT: 4.46602    79.2211
+GA: 
+time: 110.61  PT: 4.46602    79.2211
+GA: 
+time: 112.792  PT: 4.46602    79.2211
+GA: 
+time: 114.987  PT: 4.46602    79.2211
+GA: 
+time: 117.173  PT: 4.46602    79.2211
+GA: 
+time: 119.18  PT: 4.35532    79.2211
+GA: 
+time: 121.183  PT: 4.35532    79.2211
+GA: 
+time: 123.376  PT: 4.26842    79.2211
+GA: 
+time: 125.567  PT: 4.26842    79.2211
+GA: 
+time: 127.584  PT: 4.25152    79.2211
+GA: 
+time: 129.591  PT: 4.25152    79.2211
+GA: 
+time: 131.78  PT: 4.24462    79.2211
+GA: 
+time: 133.977  PT: 4.24462    79.2211
+GA: 
+time: 135.571  PT: 79.2211
+SA: 
+time: 2.2021  PT: 291.233    291.233
+SA: 
+time: 4.3092  PT: 291.233    291.233
+SA: 
+time: 6.3289  PT: 290.976    290.976
+SA: 
+time: 8.4911  PT: 290.976    290.976
+SA: 
+time: 10.5621  PT: 290.976    290.976
+SA: 
+time: 12.6179  PT: 290.976    290.976
+SA: 
+time: 14.6376  PT: 290.976    290.976
+SA: 
+time: 16.7903  PT: 203.461    203.461
+SA: 
+time: 18.8157  PT: 203.461    203.461
+SA: 
+time: 21.0349  PT: 203.461    203.461
+SA: 
+time: 23.1249  PT: 203.461    203.461
+SA: 
+time: 25.2548  PT: 203.461    203.461
+SA: 
+time: 27.3448  PT: 203.461    203.461
+SA: 
+time: 29.4386  PT: 203.461    203.461
+SA: 
+time: 31.5818  PT: 203.461    203.461
+SA: 
+time: 33.7117  PT: 203.461    203.461
+SA: 
+time: 35.815  PT: 169.065    169.065
+SA: 
+time: 37.9183  PT: 125.995    125.995
+SA: 
+time: 40.014  PT: 125.995    125.995
+SA: 
+time: 42.0926  PT: 105.594    105.594
+SA: 
+time: 44.1902  PT: 105.594    105.594
+SA: 
+time: 46.284  PT: 105.594    105.594
+SA: 
+time: 48.412  PT: 105.594    105.594
+SA: 
+time: 50.5248  PT: 105.594    105.594
+SA: 
+time: 52.6528  PT: 50.982    50.982
+SA: 
+time: 54.7675  PT: 50.1744    50.1744
+SA: 
+time: 56.9069  PT: 50.1744    50.1744
+SA: 
+time: 58.9874  PT: 41.5511    41.5511
+SA: 
+time: 61.1078  PT: 41.504    41.504
+SA: 
+time: 63.2358  PT: 41.504    41.504
+SA: 
+time: 65.3581  PT: 41.504    41.504
+SA: 
+time: 67.3759  PT: 41.504    41.504
+SA: 
+time: 69.5723  PT: 41.504    41.504
+SA: 
+time: 71.6566  PT: 35.5546    35.5546
+SA: 
+time: 73.6915  PT: 35.5546    35.5546
+SA: 
+time: 75.8727  PT: 35.5546    35.5546
+SA: 
+time: 77.9627  PT: 32.5342    32.5342
+SA: 
+time: 80.0698  PT: 31.9228    31.9228
+SA: 
+time: 82.1712  PT: 31.7259    31.7259
+SA: 
+time: 84.2707  PT: 31.7259    31.7259
+SA: 
+time: 86.4082  PT: 31.7259    31.7259
+SA: 
+time: 88.5229  PT: 31.6752    31.6752
+SA: 
+time: 90.6547  PT: 31.3414    31.3414
+SA: 
+time: 92.7656  PT: 31.3414    31.3414
+SA: 
+time: 94.8594  PT: 28.4815    28.4815
+SA: 
+time: 96.9418  PT: 28.4815    28.4815
+SA: 
+time: 99.0641  PT: 28.4815    28.4815
+SA: 
+time: 101.152  PT: 28.4815    28.4815
+SA: 
+time: 103.25  PT: 28.2646    28.2646
+SA: 
+time: 103.744  PT: 28.2646
+now T: 341.81 beta:1
+CSA_UN: 
+time: 83.906  PT: 92.0375
+CSA_noUN: 
+time: 2.275  PT: 279.664    189.612
+CSA_noUN: 
+time: 4.46  PT: 180.78    180.78
+CSA_noUN: 
+time: 6.66  PT: 324.49    152.289
+CSA_noUN: 
+time: 8.862  PT: 293.304    152.289
+CSA_noUN: 
+time: 11.075  PT: 370.924    152.289
+CSA_noUN: 
+time: 13.316  PT: 208.783    152.289
+CSA_noUN: 
+time: 15.525  PT: 304.398    152.289
+CSA_noUN: 
+time: 17.709  PT: 163.527    152.289
+CSA_noUN: 
+time: 19.906  PT: 224.769    152.289
+CSA_noUN: 
+time: 22.093  PT: 216.755    152.289
+CSA_noUN: 
+time: 24.281  PT: 179.119    152.289
+CSA_noUN: 
+time: 26.474  PT: 353.238    152.289
+CSA_noUN: 
+time: 28.666  PT: 282.025    110.654
+CSA_noUN: 
+time: 30.849  PT: 54.9879    54.9879
+CSA_noUN: 
+time: 33.073  PT: 349.429    54.9879
+CSA_noUN: 
+time: 35.293  PT: 280.838    54.9879
+CSA_noUN: 
+time: 37.491  PT: 206.239    54.9879
+CSA_noUN: 
+time: 39.687  PT: 351.085    54.9879
+CSA_noUN: 
+time: 41.876  PT: 321.95    54.9879
+CSA_noUN: 
+time: 44.066  PT: 295.734    54.9879
+CSA_noUN: 
+time: 46.266  PT: 304.487    54.9879
+CSA_noUN: 
+time: 48.48  PT: 443.22    54.9879
+CSA_noUN: 
+time: 50.687  PT: 265.559    54.9879
+CSA_noUN: 
+time: 52.878  PT: 492.622    54.9879
+CSA_noUN: 
+time: 55.078  PT: 160.116    54.9879
+CSA_noUN: 
+time: 57.262  PT: 470.628    54.9879
+CSA_noUN: 
+time: 59.454  PT: 177.167    54.9879
+CSA_noUN: 
+time: 61.648  PT: 170.921    54.9879
+CSA_noUN: 
+time: 63.835  PT: 287.38    54.9879
+CSA_noUN: 
+time: 66.024  PT: 236.851    54.9879
+CSA_noUN: 
+time: 68.222  PT: 197.872    54.9879
+CSA_noUN: 
+time: 70.415  PT: 191.378    54.9879
+CSA_noUN: 
+time: 72.607  PT: 338.588    54.9879
+CSA_noUN: 
+time: 74.797  PT: 312.395    54.9879
+CSA_noUN: 
+time: 76.988  PT: 347.652    54.9879
+CSA_noUN: 
+time: 79.175  PT: 676.064    54.9879
+CSA_noUN: 
+time: 81.368  PT: 166.154    54.9879
+CSA_noUN: 
+time: 83.558  PT: 312.342    54.9879
+CSA_noUN: 
+time: 85.748  PT: 276.965    54.9879
+CSA_noUN: 
+time: 87.944  PT: 293.196    54.9879
+CSA_noUN: 
+time: 90.138  PT: 278.055    54.9879
+CSA_noUN: 
+time: 92.344  PT: 293.789    54.9879
+CSA_noUN: 
+time: 94.555  PT: 274.335    54.9879
+CSA_noUN: 
+time: 96.768  PT: 348.382    54.9879
+CSA_noUN: 
+time: 98.965  PT: 463.345    54.9879
+CSA_noUN: 
+time: 101.164  PT: 239.814    54.9879
+CSA_noUN: 
+time: 101.169  PT: 54.9879
+GA: 
+time: 2.182  PT: 250.709    117.9
+GA: 
+time: 4.339  PT: 250.709    117.9
+GA: 
+time: 6.498  PT: 250.709    117.9
+GA: 
+time: 8.617  PT: 324.617    117.9
+GA: 
+time: 10.753  PT: 203.114    117.9
+GA: 
+time: 12.896  PT: 203.114    117.9
+GA: 
+time: 15.025  PT: 164.881    117.9
+GA: 
+time: 17.173  PT: 143.893    117.9
+GA: 
+time: 19.309  PT: 191.002    117.9
+GA: 
+time: 21.444  PT: 210.589    117.9
+GA: 
+time: 23.588  PT: 214.577    117.9
+GA: 
+time: 25.718  PT: 83.7741    83.7741
+GA: 
+time: 27.847  PT: 208.464    83.7741
+GA: 
+time: 29.983  PT: 209.247    83.7741
+GA: 
+time: 32.127  PT: 229.555    83.7741
+GA: 
+time: 34.269  PT: 288.911    83.7741
+GA: 
+time: 36.403  PT: 273.228    83.7741
+GA: 
+time: 38.551  PT: 227.51    83.7741
+GA: 
+time: 40.681  PT: 211.392    83.7741
+GA: 
+time: 42.829  PT: 278.992    83.7741
+GA: 
+time: 44.983  PT: 385.372    83.7741
+GA: 
+time: 47.141  PT: 357.511    83.7741
+GA: 
+time: 49.275  PT: 236.663    83.7741
+GA: 
+time: 51.416  PT: 319.895    83.7741
+GA: 
+time: 53.567  PT: 451.695    83.7741
+GA: 
+time: 55.709  PT: 286.868    83.7741
+GA: 
+time: 57.853  PT: 297.102    83.7741
+GA: 
+time: 59.995  PT: 466.721    83.7741
+GA: 
+time: 62.143  PT: 155.178    83.7741
+GA: 
+time: 64.283  PT: 355.26    83.7741
+GA: 
+time: 66.445  PT: 359.835    83.7741
+GA: 
+time: 68.582  PT: 398.149    83.7741
+GA: 
+time: 70.712  PT: 175.736    83.7741
+GA: 
+time: 72.861  PT: 260.738    83.7741
+GA: 
+time: 75.016  PT: 210.29    83.7741
+GA: 
+time: 77.156  PT: 163.24    83.7741
+GA: 
+time: 79.289  PT: 250.491    83.7741
+GA: 
+time: 81.449  PT: 144.15    83.7741
+GA: 
+time: 83.594  PT: 187.021    83.7741
+GA: 
+time: 85.736  PT: 124.851    83.7741
+GA: 
+time: 87.809  PT: 122.592    83.7741
+GA: 
+time: 90.002  PT: 12.6584    83.7741
+GA: 
+time: 92.003  PT: 7.03807    83.7741
+GA: 
+time: 94.004  PT: 5.6011    83.7741
+GA: 
+time: 96.196  PT: 4.7583    83.7741
+GA: 
+time: 98.388  PT: 4.3183    83.7741
+GA: 
+time: 100.579  PT: 3.7093    83.7741
+GA: 
+time: 102.777  PT: 3.5424    83.7741
+GA: 
+time: 104.975  PT: 3.5424    83.7741
+GA: 
+time: 107.168  PT: 3.5424    83.7741
+GA: 
+time: 109.363  PT: 3.5424    83.7741
+GA: 
+time: 111.376  PT: 3.5424    83.7741
+GA: 
+time: 113.57  PT: 3.5424    83.7741
+GA: 
+time: 115.772  PT: 3.2217    83.7741
+GA: 
+time: 117.966  PT: 3.2217    83.7741
+GA: 
+time: 119.971  PT: 3.2217    83.7741
+GA: 
+time: 122.159  PT: 3.1548    83.7741
+GA: 
+time: 124.354  PT: 3.1548    83.7741
+GA: 
+time: 126.55  PT: 3.1548    83.7741
+GA: 
+time: 128.557  PT: 3.1548    83.7741
+GA: 
+time: 130.744  PT: 3.0679    83.7741
+GA: 
+time: 132.761  PT: 3.0679    83.7741
+GA: 
+time: 134.945  PT: 3.0679    83.7741
+GA: 
+time: 135.754  PT: 83.7741
+SA: 
+time: 2.2135  PT: 213.616    213.616
+SA: 
+time: 4.3377  PT: 175.158    175.158
+SA: 
+time: 6.3574  PT: 175.158    175.158
+SA: 
+time: 8.55  PT: 175.158    175.158
+SA: 
+time: 10.6628  PT: 175.158    175.158
+SA: 
+time: 12.749  PT: 175.158    175.158
+SA: 
+time: 14.858  PT: 174.731    174.731
+SA: 
+time: 16.9537  PT: 174.731    174.731
+SA: 
+time: 19.0817  PT: 174.731    174.731
+SA: 
+time: 21.204  PT: 174.731    174.731
+SA: 
+time: 23.3168  PT: 96.1521    96.1521
+SA: 
+time: 25.4125  PT: 96.1521    96.1521
+SA: 
+time: 27.5177  PT: 96.1521    96.1521
+SA: 
+time: 29.6324  PT: 96.1521    96.1521
+SA: 
+time: 31.7281  PT: 94.9845    94.9845
+SA: 
+time: 33.8295  PT: 94.9845    94.9845
+SA: 
+time: 35.9233  PT: 68.3938    68.3938
+SA: 
+time: 38.0342  PT: 68.3938    68.3938
+SA: 
+time: 40.1356  PT: 68.3938    68.3938
+SA: 
+time: 42.2332  PT: 64.4979    64.4979
+SA: 
+time: 44.3213  PT: 64.4979    64.4979
+SA: 
+time: 46.4322  PT: 64.4979    64.4979
+SA: 
+time: 48.5621  PT: 57.773    57.773
+SA: 
+time: 50.6521  PT: 50.8996    50.8996
+SA: 
+time: 52.7782  PT: 50.8996    50.8996
+SA: 
+time: 54.9043  PT: 50.4758    50.4758
+SA: 
+time: 57.0076  PT: 50.8996    50.8996
+SA: 
+time: 59.0976  PT: 50.8996    50.8996
+SA: 
+time: 61.1097  PT: 50.4758    50.4758
+SA: 
+time: 63.3137  PT: 48.6913    48.6913
+SA: 
+time: 65.417  PT: 48.1475    48.1475
+SA: 
+time: 67.4215  PT: 48.1475    48.1475
+SA: 
+time: 69.6255  PT: 33.4279    33.4279
+SA: 
+time: 71.7934  PT: 33.4279    33.4279
+SA: 
+time: 73.929  PT: 32.5386    32.5386
+SA: 
+time: 76.0266  PT: 32.5386    32.5386
+SA: 
+time: 78.1394  PT: 32.5386    32.5386
+SA: 
+time: 80.237  PT: 31.5772    31.5772
+SA: 
+time: 82.3327  PT: 31.5772    31.5772
+SA: 
+time: 84.4189  PT: 30.7634    30.7634
+SA: 
+time: 86.5165  PT: 17.5925    17.5925
+SA: 
+time: 88.6293  PT: 17.5925    17.5925
+SA: 
+time: 90.7307  PT: 17.5925    17.5925
+SA: 
+time: 92.8245  PT: 17.5925    17.5925
+SA: 
+time: 94.9164  PT: 17.5925    17.5925
+SA: 
+time: 97.0102  PT: 17.5047    17.5047
+SA: 
+time: 99.104  PT: 17.5047    17.5047
+SA: 
+time: 101.19  PT: 17.5925    17.5925
+SA: 
+time: 103.28  PT: 16.9302    16.9302
+SA: 
+time: 103.527  PT: 16.9302
+now T: 341.81 beta:1
+CSA_UN: 
+time: 84.644  PT: 82.6099
+CSA_noUN: 
+time: 2.269  PT: 249.565    119.872
+CSA_noUN: 
+time: 4.455  PT: 184.294    119.872
+CSA_noUN: 
+time: 6.637  PT: 289.621    119.872
+CSA_noUN: 
+time: 8.822  PT: 329.649    119.872
+CSA_noUN: 
+time: 11.013  PT: 311.762    119.872
+CSA_noUN: 
+time: 13.202  PT: 219.734    119.872
+CSA_noUN: 
+time: 15.395  PT: 189.333    119.872
+CSA_noUN: 
+time: 17.604  PT: 184.869    118.798
+CSA_noUN: 
+time: 19.812  PT: 211.698    118.798
+CSA_noUN: 
+time: 22.007  PT: 253.239    114.945
+CSA_noUN: 
+time: 24.198  PT: 331.891    114.945
+CSA_noUN: 
+time: 26.382  PT: 144.495    114.945
+CSA_noUN: 
+time: 28.579  PT: 332.75    114.945
+CSA_noUN: 
+time: 30.758  PT: 275.805    114.945
+CSA_noUN: 
+time: 32.948  PT: 439.518    114.945
+CSA_noUN: 
+time: 35.132  PT: 212.826    114.945
+CSA_noUN: 
+time: 37.32  PT: 216.269    114.945
+CSA_noUN: 
+time: 39.518  PT: 312.628    114.945
+CSA_noUN: 
+time: 41.703  PT: 143.472    114.945
+CSA_noUN: 
+time: 43.892  PT: 356.058    114.945
+CSA_noUN: 
+time: 46.074  PT: 394.512    114.945
+CSA_noUN: 
+time: 48.258  PT: 433.875    114.945
+CSA_noUN: 
+time: 50.447  PT: 228.468    114.945
+CSA_noUN: 
+time: 52.65  PT: 389.577    114.945
+CSA_noUN: 
+time: 54.838  PT: 487.78    114.945
+CSA_noUN: 
+time: 57.057  PT: 272.349    114.945
+CSA_noUN: 
+time: 59.261  PT: 338.06    114.945
+CSA_noUN: 
+time: 61.456  PT: 479.352    95.2844
+CSA_noUN: 
+time: 63.647  PT: 145.854    95.2844
+CSA_noUN: 
+time: 65.839  PT: 284.898    95.2844
+CSA_noUN: 
+time: 68.022  PT: 264.335    95.2844
+CSA_noUN: 
+time: 70.226  PT: 433.873    95.2844
+CSA_noUN: 
+time: 72.414  PT: 294.111    95.2844
+CSA_noUN: 
+time: 74.609  PT: 218.593    95.2844
+CSA_noUN: 
+time: 76.804  PT: 170.328    95.2844
+CSA_noUN: 
+time: 79.022  PT: 216.799    95.2844
+CSA_noUN: 
+time: 81.22  PT: 345.316    95.2844
+CSA_noUN: 
+time: 83.412  PT: 452.414    95.2844
+CSA_noUN: 
+time: 85.593  PT: 235.283    95.2844
+CSA_noUN: 
+time: 87.781  PT: 159.369    95.2844
+CSA_noUN: 
+time: 89.969  PT: 421.767    95.2844
+CSA_noUN: 
+time: 92.155  PT: 193.494    95.2844
+CSA_noUN: 
+time: 94.333  PT: 281.11    95.2844
+CSA_noUN: 
+time: 96.528  PT: 155.169    95.2844
+CSA_noUN: 
+time: 98.711  PT: 237.278    95.2844
+CSA_noUN: 
+time: 100.897  PT: 373.091    95.2844
+CSA_noUN: 
+time: 100.903  PT: 95.2844
+GA: 
+time: 2.193  PT: 197.734    163.222
+GA: 
+time: 4.326  PT: 93.0574    93.0574
+GA: 
+time: 6.453  PT: 159.597    93.0574
+GA: 
+time: 8.591  PT: 197.734    93.0574
+GA: 
+time: 10.726  PT: 197.734    93.0574
+GA: 
+time: 12.87  PT: 233.711    93.0574
+GA: 
+time: 15.019  PT: 331.888    93.0574
+GA: 
+time: 17.162  PT: 331.888    93.0574
+GA: 
+time: 19.3  PT: 335.119    93.0574
+GA: 
+time: 21.438  PT: 243.176    93.0574
+GA: 
+time: 23.566  PT: 239.218    93.0574
+GA: 
+time: 25.71  PT: 167.198    93.0574
+GA: 
+time: 27.846  PT: 110.919    66.2676
+GA: 
+time: 30.012  PT: 97.1816    66.2676
+GA: 
+time: 32.162  PT: 97.1816    66.2676
+GA: 
+time: 34.286  PT: 363.02    66.2676
+GA: 
+time: 36.443  PT: 352.668    66.2676
+GA: 
+time: 38.595  PT: 348.307    66.2676
+GA: 
+time: 40.732  PT: 348.307    66.2676
+GA: 
+time: 42.858  PT: 122.606    66.2676
+GA: 
+time: 44.997  PT: 144.846    66.2676
+GA: 
+time: 47.211  PT: 144.846    66.2676
+GA: 
+time: 49.397  PT: 252.453    66.2676
+GA: 
+time: 51.526  PT: 277.575    66.2676
+GA: 
+time: 53.661  PT: 295.503    66.2676
+GA: 
+time: 55.793  PT: 228.08    66.2676
+GA: 
+time: 57.928  PT: 230.072    66.2676
+GA: 
+time: 60.062  PT: 211.799    66.2676
+GA: 
+time: 62.191  PT: 208.604    66.2676
+GA: 
+time: 64.324  PT: 242.613    66.2676
+GA: 
+time: 66.452  PT: 177.667    66.2676
+GA: 
+time: 68.596  PT: 276.808    66.2676
+GA: 
+time: 70.732  PT: 276.808    66.2676
+GA: 
+time: 72.872  PT: 276.808    66.2676
+GA: 
+time: 75.006  PT: 360.519    66.2676
+GA: 
+time: 77.144  PT: 360.519    66.2676
+GA: 
+time: 79.281  PT: 381.723    66.2676
+GA: 
+time: 81.422  PT: 353.043    66.2676
+GA: 
+time: 83.564  PT: 128.52    66.2676
+GA: 
+time: 85.706  PT: 169.984    66.2676
+GA: 
+time: 87.778  PT: 26.9836    66.2676
+GA: 
+time: 89.782  PT: 12.3334    66.2676
+GA: 
+time: 91.796  PT: 9.07624    66.2676
+GA: 
+time: 93.798  PT: 5.84116    66.2676
+GA: 
+time: 95.817  PT: 5.84028    66.2676
+GA: 
+time: 98.009  PT: 5.84028    66.2676
+GA: 
+time: 100.012  PT: 5.84028    66.2676
+GA: 
+time: 102.203  PT: 5.49374    66.2676
+GA: 
+time: 104.396  PT: 5.33064    66.2676
+GA: 
+time: 106.591  PT: 5.33064    66.2676
+GA: 
+time: 108.781  PT: 5.33064    66.2676
+GA: 
+time: 110.786  PT: 5.20064    66.2676
+GA: 
+time: 112.984  PT: 5.20064    66.2676
+GA: 
+time: 115.182  PT: 5.20064    66.2676
+GA: 
+time: 117.376  PT: 5.20064    66.2676
+GA: 
+time: 119.383  PT: 4.99684    66.2676
+GA: 
+time: 121.393  PT: 4.99684    66.2676
+GA: 
+time: 123.414  PT: 4.99684    66.2676
+GA: 
+time: 125.432  PT: 4.99684    66.2676
+GA: 
+time: 127.439  PT: 4.99684    66.2676
+GA: 
+time: 129.488  PT: 4.99684    66.2676
+GA: 
+time: 131.518  PT: 4.36304    66.2676
+GA: 
+time: 133.715  PT: 4.36304    66.2676
+GA: 
+time: 135.721  PT: 4.36304    66.2676
+GA: 
+time: 135.931  PT: 66.2676
+SA: 
+time: 2.2192  PT: 286.28    286.28
+SA: 
+time: 4.3339  PT: 280.173    280.173
+SA: 
+time: 6.3593  PT: 280.173    280.173
+SA: 
+time: 8.5367  PT: 280.173    280.173
+SA: 
+time: 10.6324  PT: 261.775    261.775
+SA: 
+time: 12.6882  PT: 261.775    261.775
+SA: 
+time: 14.8903  PT: 261.775    261.775
+SA: 
+time: 16.9803  PT: 261.775    261.775
+SA: 
+time: 19.076  PT: 261.775    261.775
+SA: 
+time: 21.1641  PT: 74.4185    74.4185
+SA: 
+time: 23.2522  PT: 68.2015    68.2015
+SA: 
+time: 25.3802  PT: 66.9901    66.9901
+SA: 
+time: 27.512  PT: 60.9745    60.9745
+SA: 
+time: 29.5982  PT: 42.716    42.716
+SA: 
+time: 31.7053  PT: 42.716    42.716
+SA: 
+time: 33.8162  PT: 42.716    42.716
+SA: 
+time: 35.9043  PT: 42.716    42.716
+SA: 
+time: 38.0399  PT: 42.0353    42.0353
+SA: 
+time: 40.1641  PT: 39.687    39.687
+SA: 
+time: 42.2731  PT: 39.687    39.687
+SA: 
+time: 44.3802  PT: 39.687    39.687
+SA: 
+time: 46.455  PT: 39.687    39.687
+SA: 
+time: 48.5507  PT: 39.687    39.687
+SA: 
+time: 50.6426  PT: 39.687    39.687
+SA: 
+time: 52.7402  PT: 39.687    39.687
+SA: 
+time: 54.8435  PT: 39.687    39.687
+SA: 
+time: 57.0152  PT: 39.687    39.687
+SA: 
+time: 59.1413  PT: 38.6318    38.6318
+SA: 
+time: 61.1724  PT: 38.6318    38.6318
+SA: 
+time: 63.3954  PT: 38.6318    38.6318
+SA: 
+time: 65.4892  PT: 38.6318    38.6318
+SA: 
+time: 67.507  PT: 38.6318    38.6318
+SA: 
+time: 69.6711  PT: 38.6318    38.6318
+SA: 
+time: 71.7858  PT: 36.6935    36.6935
+SA: 
+time: 73.9195  PT: 35.5954    35.5954
+SA: 
+time: 76.0304  PT: 34.7647    34.7647
+SA: 
+time: 78.1147  PT: 34.7647    34.7647
+SA: 
+time: 80.2009  PT: 34.7647    34.7647
+SA: 
+time: 82.289  PT: 34.7645    34.7645
+SA: 
+time: 84.3866  PT: 33.6591    33.6591
+SA: 
+time: 86.4747  PT: 33.6591    33.6591
+SA: 
+time: 88.5647  PT: 33.6591    33.6591
+SA: 
+time: 90.6642  PT: 20.6308    20.6308
+SA: 
+time: 92.7637  PT: 20.6308    20.6308
+SA: 
+time: 94.8518  PT: 20.6308    20.6308
+SA: 
+time: 96.9285  PT: 20.6308    20.6308
+SA: 
+time: 99.0052  PT: 20.6308    20.6308
+SA: 
+time: 101.095  PT: 20.6308    20.6308
+SA: 
+time: 103.191  PT: 16.2111    16.2111
+SA: 
+time: 103.44  PT: 16.2111
+now T: 341.81 beta:1
+CSA_UN: 
+time: 87.366  PT: 121.414
+CSA_noUN: 
+time: 2.274  PT: 203.603    203.603
+CSA_noUN: 
+time: 4.468  PT: 258.839    185.018
+CSA_noUN: 
+time: 6.658  PT: 316.648    185.018
+CSA_noUN: 
+time: 8.87  PT: 433.323    185.018
+CSA_noUN: 
+time: 11.082  PT: 509.702    185.018
+CSA_noUN: 
+time: 13.294  PT: 609.021    185.018
+CSA_noUN: 
+time: 15.511  PT: 402.214    185.018
+CSA_noUN: 
+time: 17.707  PT: 182.357    182.357
+CSA_noUN: 
+time: 19.9  PT: 531.464    182.357
+CSA_noUN: 
+time: 22.105  PT: 509.41    182.357
+CSA_noUN: 
+time: 24.328  PT: 382.79    182.357
+CSA_noUN: 
+time: 26.569  PT: 321.438    182.357
+CSA_noUN: 
+time: 28.771  PT: 445.381    144.207
+CSA_noUN: 
+time: 30.959  PT: 211.028    144.207
+CSA_noUN: 
+time: 33.154  PT: 316.24    144.207
+CSA_noUN: 
+time: 35.341  PT: 414.859    144.207
+CSA_noUN: 
+time: 37.544  PT: 331.923    144.207
+CSA_noUN: 
+time: 39.753  PT: 305.451    144.207
+CSA_noUN: 
+time: 41.943  PT: 387.105    144.207
+CSA_noUN: 
+time: 44.156  PT: 315.846    144.207
+CSA_noUN: 
+time: 46.339  PT: 415.885    144.207
+CSA_noUN: 
+time: 48.528  PT: 329.658    144.207
+CSA_noUN: 
+time: 50.72  PT: 286.493    144.207
+CSA_noUN: 
+time: 52.915  PT: 264.167    144.207
+CSA_noUN: 
+time: 55.107  PT: 157.76    144.207
+CSA_noUN: 
+time: 57.324  PT: 268.195    144.207
+CSA_noUN: 
+time: 59.517  PT: 251.61    144.207
+CSA_noUN: 
+time: 61.708  PT: 329.546    144.207
+CSA_noUN: 
+time: 63.896  PT: 448.521    144.207
+CSA_noUN: 
+time: 66.108  PT: 296.698    144.207
+CSA_noUN: 
+time: 68.3  PT: 228.84    144.207
+CSA_noUN: 
+time: 70.503  PT: 363.08    144.207
+CSA_noUN: 
+time: 72.698  PT: 470.161    144.207
+CSA_noUN: 
+time: 74.912  PT: 431.966    144.207
+CSA_noUN: 
+time: 77.102  PT: 258.254    144.207
+CSA_noUN: 
+time: 79.298  PT: 378.212    144.207
+CSA_noUN: 
+time: 81.506  PT: 413.914    144.207
+CSA_noUN: 
+time: 83.712  PT: 639.445    144.207
+CSA_noUN: 
+time: 85.909  PT: 431.548    144.207
+CSA_noUN: 
+time: 88.099  PT: 565.98    144.207
+CSA_noUN: 
+time: 90.303  PT: 411.576    144.207
+CSA_noUN: 
+time: 92.494  PT: 314.546    144.207
+CSA_noUN: 
+time: 94.689  PT: 297.351    144.207
+CSA_noUN: 
+time: 96.879  PT: 251.42    144.207
+CSA_noUN: 
+time: 99.073  PT: 115.2    115.2
+CSA_noUN: 
+time: 101.258  PT: 261.013    115.2
+CSA_noUN: 
+time: 101.263  PT: 115.2
+GA: 
+time: 2.188  PT: 334.892    210.241
+GA: 
+time: 4.315  PT: 374.862    210.241
+GA: 
+time: 6.466  PT: 335.856    210.241
+GA: 
+time: 8.621  PT: 322.385    210.241
+GA: 
+time: 10.77  PT: 322.385    210.241
+GA: 
+time: 12.927  PT: 276.56    210.241
+GA: 
+time: 15.08  PT: 309.341    210.241
+GA: 
+time: 17.255  PT: 310.028    210.241
+GA: 
+time: 19.415  PT: 324.43    210.241
+GA: 
+time: 21.562  PT: 310.745    210.241
+GA: 
+time: 23.71  PT: 414.251    210.241
+GA: 
+time: 25.867  PT: 479.314    210.241
+GA: 
+time: 28.019  PT: 429.338    210.241
+GA: 
+time: 30.166  PT: 434.789    210.241
+GA: 
+time: 32.298  PT: 429.338    210.241
+GA: 
+time: 34.444  PT: 441.068    210.241
+GA: 
+time: 36.607  PT: 481.076    210.241
+GA: 
+time: 38.764  PT: 481.076    210.241
+GA: 
+time: 40.889  PT: 633.505    210.241
+GA: 
+time: 43.041  PT: 472.884    210.241
+GA: 
+time: 45.179  PT: 579.255    210.241
+GA: 
+time: 47.324  PT: 478.116    210.241
+GA: 
+time: 49.463  PT: 316.85    210.241
+GA: 
+time: 51.619  PT: 467.463    210.241
+GA: 
+time: 53.753  PT: 486.622    210.241
+GA: 
+time: 55.865  PT: 369.214    210.241
+GA: 
+time: 58.003  PT: 517.727    210.241
+GA: 
+time: 60.131  PT: 472.884    210.241
+GA: 
+time: 62.266  PT: 472.884    210.241
+GA: 
+time: 64.407  PT: 472.884    210.241
+GA: 
+time: 66.539  PT: 472.884    210.241
+GA: 
+time: 68.676  PT: 428.593    210.241
+GA: 
+time: 70.804  PT: 428.593    210.241
+GA: 
+time: 72.944  PT: 347.701    210.241
+GA: 
+time: 75.07  PT: 525.549    210.241
+GA: 
+time: 77.237  PT: 501.39    210.241
+GA: 
+time: 79.389  PT: 501.39    210.241
+GA: 
+time: 81.522  PT: 249.357    210.241
+GA: 
+time: 83.682  PT: 454.325    210.241
+GA: 
+time: 85.844  PT: 374.033    210.241
+GA: 
+time: 87.902  PT: 129.031    210.241
+GA: 
+time: 89.904  PT: 40.1838    210.241
+GA: 
+time: 92.092  PT: 25.6559    210.241
+GA: 
+time: 94.289  PT: 22.6422    210.241
+GA: 
+time: 96.486  PT: 21.5286    210.241
+GA: 
+time: 98.665  PT: 21.5286    210.241
+GA: 
+time: 100.682  PT: 20.2834    210.241
+GA: 
+time: 102.879  PT: 20.2834    210.241
+GA: 
+time: 104.881  PT: 18.2813    210.241
+GA: 
+time: 106.909  PT: 17.7675    210.241
+GA: 
+time: 108.917  PT: 17.5113    210.241
+GA: 
+time: 110.923  PT: 17.5113    210.241
+GA: 
+time: 112.924  PT: 17.5113    210.241
+GA: 
+time: 115.116  PT: 17.4744    210.241
+GA: 
+time: 117.12  PT: 17.1875    210.241
+GA: 
+time: 119.321  PT: 17.1506    210.241
+GA: 
+time: 121.52  PT: 17.1506    210.241
+GA: 
+time: 123.525  PT: 17.1506    210.241
+GA: 
+time: 125.718  PT: 17.1506    210.241
+GA: 
+time: 127.725  PT: 17.1506    210.241
+GA: 
+time: 129.739  PT: 17.1506    210.241
+GA: 
+time: 131.788  PT: 17.1506    210.241
+GA: 
+time: 133.81  PT: 17.1506    210.241
+GA: 
+time: 135.817  PT: 17.1506    210.241
+GA: 
+time: 136.045  PT: 210.241
+SA: 
+time: 2.1926  PT: 337.657    337.657
+SA: 
+time: 4.3149  PT: 337.657    337.657
+SA: 
+time: 6.3156  PT: 287.133    287.133
+SA: 
+time: 8.3638  PT: 251.589    251.589
+SA: 
+time: 10.4671  PT: 251.589    251.589
+SA: 
+time: 12.4735  PT: 141.408    141.408
+SA: 
+time: 14.649  PT: 129.166    129.166
+SA: 
+time: 16.7504  PT: 124.571    124.571
+SA: 
+time: 18.81  PT: 122.471    122.471
+SA: 
+time: 20.9741  PT: 122.471    122.471
+SA: 
+time: 23.0603  PT: 122.471    86.0168
+SA: 
+time: 25.1503  PT: 122.271    122.271
+SA: 
+time: 27.2441  PT: 122.271    122.271
+SA: 
+time: 29.3455  PT: 100.99    100.99
+SA: 
+time: 31.445  PT: 100.659    100.659
+SA: 
+time: 33.5483  PT: 100.659    100.659
+SA: 
+time: 35.6383  PT: 100.659    100.659
+SA: 
+time: 37.7283  PT: 69.549    69.549
+SA: 
+time: 39.824  PT: 80.2161    80.2161
+SA: 
+time: 41.9159  PT: 79.8092    79.8092
+SA: 
+time: 44.0344  PT: 79.8092    79.8092
+SA: 
+time: 46.2004  PT: 79.8092    79.8092
+SA: 
+time: 48.3265  PT: 79.8092    79.8092
+SA: 
+time: 50.464  PT: 70.2932    70.2932
+SA: 
+time: 52.5806  PT: 70.2932    70.2932
+SA: 
+time: 54.6972  PT: 70.2932    70.2932
+SA: 
+time: 56.8385  PT: 70.2932    70.2932
+SA: 
+time: 58.9665  PT: 70.2932    70.2932
+SA: 
+time: 61.0736  PT: 70.2063    70.2063
+SA: 
+time: 63.1636  PT: 69.1332    69.1332
+SA: 
+time: 65.2707  PT: 69.1332    69.1332
+SA: 
+time: 67.3436  PT: 69.1332    69.1332
+SA: 
+time: 69.5172  PT: 69.1332    69.1332
+SA: 
+time: 71.6053  PT: 61.9042    61.9042
+SA: 
+time: 73.6288  PT: 61.9042    61.9042
+SA: 
+time: 75.7967  PT: 61.3935    61.3935
+SA: 
+time: 77.8981  PT: 61.3935    61.3935
+SA: 
+time: 79.9919  PT: 61.3935    61.3935
+SA: 
+time: 82.0819  PT: 61.3935    61.3935
+SA: 
+time: 84.1814  PT: 61.3935    61.3935
+SA: 
+time: 86.3094  PT: 60.2721    60.2721
+SA: 
+time: 88.4203  PT: 51.8691    51.8691
+SA: 
+time: 90.5236  PT: 51.8691    51.8691
+SA: 
+time: 92.6402  PT: 51.8691    51.8691
+SA: 
+time: 94.7511  PT: 51.8691    51.8691
+SA: 
+time: 96.8829  PT: 51.8691    51.8691
+SA: 
+time: 99.047  PT: 51.8691    51.8691
+SA: 
+time: 101.158  PT: 51.8691    51.8691
+SA: 
+time: 103.261  PT: 51.8691    51.8691
+SA: 
+time: 103.749  PT: 51.8691
+now T: 341.81 beta:1
+CSA_UN: 
+time: 86.569  PT: 67.181
+CSA_noUN: 
+time: 2.279  PT: 283.676    168.037
+CSA_noUN: 
+time: 4.469  PT: 212.513    168.037
+CSA_noUN: 
+time: 6.66  PT: 461.262    168.037
+CSA_noUN: 
+time: 8.871  PT: 266.727    168.037
+CSA_noUN: 
+time: 11.072  PT: 260.445    84.7302
+CSA_noUN: 
+time: 13.272  PT: 321.712    84.7302
+CSA_noUN: 
+time: 15.486  PT: 210.849    84.7302
+CSA_noUN: 
+time: 17.681  PT: 198.415    84.7302
+CSA_noUN: 
+time: 19.87  PT: 347.811    84.7302
+CSA_noUN: 
+time: 22.058  PT: 300.122    84.7302
+CSA_noUN: 
+time: 24.258  PT: 366.717    84.7302
+CSA_noUN: 
+time: 26.45  PT: 414.097    84.7302
+CSA_noUN: 
+time: 28.637  PT: 240.088    84.7302
+CSA_noUN: 
+time: 30.82  PT: 246.862    84.7302
+CSA_noUN: 
+time: 33.005  PT: 116.27    84.7302
+CSA_noUN: 
+time: 35.186  PT: 404.645    84.7302
+CSA_noUN: 
+time: 37.383  PT: 421.813    84.7302
+CSA_noUN: 
+time: 39.571  PT: 430.197    84.7302
+CSA_noUN: 
+time: 41.788  PT: 379.243    84.7302
+CSA_noUN: 
+time: 43.981  PT: 373.022    84.7302
+CSA_noUN: 
+time: 46.176  PT: 555.906    84.7302
+CSA_noUN: 
+time: 48.373  PT: 283.695    84.7302
+CSA_noUN: 
+time: 50.571  PT: 457.068    84.7302
+CSA_noUN: 
+time: 52.833  PT: 376.643    84.7302
+CSA_noUN: 
+time: 55.044  PT: 233.967    84.7302
+CSA_noUN: 
+time: 57.228  PT: 367.575    84.7302
+CSA_noUN: 
+time: 59.415  PT: 265.646    84.7302
+CSA_noUN: 
+time: 61.607  PT: 220.104    84.7302
+CSA_noUN: 
+time: 63.795  PT: 215.152    84.7302
+CSA_noUN: 
+time: 65.996  PT: 351.03    84.7302
+CSA_noUN: 
+time: 68.19  PT: 256.74    84.7302
+CSA_noUN: 
+time: 70.389  PT: 408.768    84.7302
+CSA_noUN: 
+time: 72.601  PT: 256.157    84.7302
+CSA_noUN: 
+time: 74.795  PT: 251.544    84.7302
+CSA_noUN: 
+time: 76.997  PT: 345.164    84.7302
+CSA_noUN: 
+time: 79.217  PT: 413.829    84.7302
+CSA_noUN: 
+time: 81.429  PT: 299.648    84.7302
+CSA_noUN: 
+time: 83.619  PT: 276.212    84.7302
+CSA_noUN: 
+time: 85.831  PT: 472.871    84.7302
+CSA_noUN: 
+time: 88.021  PT: 302.486    84.7302
+CSA_noUN: 
+time: 90.232  PT: 479.092    84.7302
+CSA_noUN: 
+time: 92.422  PT: 406.045    84.7302
+CSA_noUN: 
+time: 94.637  PT: 248.829    84.7302
+CSA_noUN: 
+time: 96.833  PT: 256.928    84.7302
+CSA_noUN: 
+time: 99.047  PT: 271.249    84.7302
+CSA_noUN: 
+time: 101.285  PT: 304.524    84.7302
+CSA_noUN: 
+time: 101.29  PT: 84.7302
+GA: 
+time: 2.207  PT: 345.927    223.769
+GA: 
+time: 4.363  PT: 396.966    223.769
+GA: 
+time: 6.536  PT: 261.326    223.769
+GA: 
+time: 8.674  PT: 345.042    223.769
+GA: 
+time: 10.845  PT: 345.449    176.999
+GA: 
+time: 13.011  PT: 345.449    176.999
+GA: 
+time: 15.154  PT: 262.491    176.999
+GA: 
+time: 17.302  PT: 254.597    176.999
+GA: 
+time: 19.432  PT: 432.289    176.999
+GA: 
+time: 21.565  PT: 310.856    176.999
+GA: 
+time: 23.717  PT: 310.856    176.999
+GA: 
+time: 25.888  PT: 310.856    176.999
+GA: 
+time: 28.034  PT: 310.856    176.999
+GA: 
+time: 30.179  PT: 371.881    176.999
+GA: 
+time: 32.314  PT: 414.752    176.999
+GA: 
+time: 34.445  PT: 349.8    176.999
+GA: 
+time: 36.586  PT: 130.691    130.691
+GA: 
+time: 38.726  PT: 317.177    130.691
+GA: 
+time: 40.855  PT: 296.416    130.691
+GA: 
+time: 43.053  PT: 344.379    130.691
+GA: 
+time: 45.219  PT: 331.274    130.691
+GA: 
+time: 47.357  PT: 375.276    130.691
+GA: 
+time: 49.507  PT: 319.397    130.691
+GA: 
+time: 51.653  PT: 251.165    130.691
+GA: 
+time: 53.796  PT: 300.156    130.691
+GA: 
+time: 55.943  PT: 300.156    130.691
+GA: 
+time: 58.113  PT: 334.805    130.691
+GA: 
+time: 60.266  PT: 288.588    130.691
+GA: 
+time: 62.4  PT: 263.929    130.691
+GA: 
+time: 64.537  PT: 346.43    130.691
+GA: 
+time: 66.671  PT: 351.092    130.691
+GA: 
+time: 68.801  PT: 397.714    130.691
+GA: 
+time: 70.933  PT: 427.422    130.691
+GA: 
+time: 73.073  PT: 379.862    130.691
+GA: 
+time: 75.216  PT: 341.918    130.691
+GA: 
+time: 77.345  PT: 374.061    130.691
+GA: 
+time: 79.511  PT: 374.061    130.691
+GA: 
+time: 81.665  PT: 365.51    130.691
+GA: 
+time: 83.81  PT: 354.907    130.691
+GA: 
+time: 85.962  PT: 479.015    130.691
+GA: 
+time: 88.027  PT: 72.5845    130.691
+GA: 
+time: 90.042  PT: 11.1184    130.691
+GA: 
+time: 92.235  PT: 7.53016    130.691
+GA: 
+time: 94.427  PT: 7.25174    130.691
+GA: 
+time: 96.447  PT: 5.96362    130.691
+GA: 
+time: 98.65  PT: 4.81824    130.691
+GA: 
+time: 100.847  PT: 4.48754    130.691
+GA: 
+time: 103.046  PT: 4.47064    130.691
+GA: 
+time: 105.052  PT: 4.47064    130.691
+GA: 
+time: 107.057  PT: 4.47064    130.691
+GA: 
+time: 109.057  PT: 4.47064    130.691
+GA: 
+time: 111.057  PT: 4.20286    130.691
+GA: 
+time: 113.254  PT: 4.20286    130.691
+GA: 
+time: 115.451  PT: 4.09216    130.691
+GA: 
+time: 117.478  PT: 4.08526    130.691
+GA: 
+time: 119.508  PT: 3.93836    130.691
+GA: 
+time: 121.511  PT: 3.93836    130.691
+GA: 
+time: 123.706  PT: 3.93836    130.691
+GA: 
+time: 125.716  PT: 3.93836    130.691
+GA: 
+time: 127.909  PT: 3.93836    130.691
+GA: 
+time: 130.098  PT: 3.93836    130.691
+GA: 
+time: 132.29  PT: 3.93836    130.691
+GA: 
+time: 134.293  PT: 3.93836    130.691
+GA: 
+time: 136.084  PT: 130.691
+SA: 
+time: 2.2401  PT: 173.712    173.712
+SA: 
+time: 4.3491  PT: 173.712    173.712
+SA: 
+time: 6.3631  PT: 173.712    173.712
+SA: 
+time: 8.5462  PT: 159.246    159.246
+SA: 
+time: 10.6514  PT: 159.246    159.246
+SA: 
+time: 12.6768  PT: 105.707    105.707
+SA: 
+time: 14.8865  PT: 73.4835    73.4835
+SA: 
+time: 16.9841  PT: 71.1614    71.1614
+SA: 
+time: 19.0779  PT: 71.1614    71.1614
+SA: 
+time: 21.1736  PT: 62.0768    62.0768
+SA: 
+time: 23.3016  PT: 62.0768    62.0768
+SA: 
+time: 25.4182  PT: 62.0768    62.0768
+SA: 
+time: 27.55  PT: 62.0768    62.0768
+SA: 
+time: 29.6552  PT: 60.9254    60.9254
+SA: 
+time: 31.7908  PT: 60.9254    60.9254
+SA: 
+time: 33.896  PT: 60.9254    60.9254
+SA: 
+time: 35.9974  PT: 38.4111    38.4111
+SA: 
+time: 38.0874  PT: 38.4111    38.4111
+SA: 
+time: 40.2154  PT: 38.4111    38.4111
+SA: 
+time: 42.332  PT: 38.4111    38.4111
+SA: 
+time: 44.4201  PT: 37.0628    37.0628
+SA: 
+time: 46.5291  PT: 37.0628    37.0628
+SA: 
+time: 48.6533  PT: 37.0628    37.0628
+SA: 
+time: 50.787  PT: 37.0628    37.0628
+SA: 
+time: 52.9321  PT: 34.0562    34.0562
+SA: 
+time: 55.024  PT: 34.0562    34.0562
+SA: 
+time: 57.1406  PT: 25.7455    25.7455
+SA: 
+time: 59.2781  PT: 25.4486    25.4486
+SA: 
+time: 61.3605  PT: 25.4486    25.4486
+SA: 
+time: 63.4505  PT: 25.4486    25.4486
+SA: 
+time: 65.531  PT: 25.4486    25.4486
+SA: 
+time: 67.5849  PT: 25.1617    25.1617
+SA: 
+time: 69.7813  PT: 25.1617    25.1617
+SA: 
+time: 71.8789  PT: 24.8848    24.8848
+SA: 
+time: 74.0145  PT: 24.8848    24.8848
+SA: 
+time: 76.1463  PT: 22.3851    22.3851
+SA: 
+time: 78.2838  PT: 22.3851    22.3851
+SA: 
+time: 80.427  PT: 22.3851    22.3851
+SA: 
+time: 82.5189  PT: 22.3851    22.3851
+SA: 
+time: 84.6222  PT: 22.1682    22.1682
+SA: 
+time: 86.7274  PT: 17.0729    17.0729
+SA: 
+time: 88.8345  PT: 17.0729    17.0729
+SA: 
+time: 90.9302  PT: 16.9622    16.9622
+SA: 
+time: 93.0259  PT: 16.9622    16.9622
+SA: 
+time: 95.152  PT: 16.9622    16.9622
+SA: 
+time: 97.2515  PT: 16.9891    16.9891
+SA: 
+time: 99.3643  PT: 16.9891    16.9891
+SA: 
+time: 101.49  PT: 16.9891    16.9891
+SA: 
+time: 103.639  PT: 16.9891    16.9891
+SA: 
+time: 103.917  PT: 16.9891
+now T: 341.81 beta:1
+CSA_UN: 
+time: 87.721  PT: 66.1231
+CSA_noUN: 
+time: 2.272  PT: 371.689    178.446
+CSA_noUN: 
+time: 4.515  PT: 272.931    178.446
+CSA_noUN: 
+time: 6.716  PT: 384.27    178.446
+CSA_noUN: 
+time: 8.903  PT: 345.7    178.446
+CSA_noUN: 
+time: 11.143  PT: 216.721    178.446
+CSA_noUN: 
+time: 13.357  PT: 376.899    168.218
+CSA_noUN: 
+time: 15.564  PT: 287.876    141.801
+CSA_noUN: 
+time: 17.759  PT: 173.942    133.496
+CSA_noUN: 
+time: 19.955  PT: 412.335    133.496
+CSA_noUN: 
+time: 22.154  PT: 206.236    95.3262
+CSA_noUN: 
+time: 24.359  PT: 361.266    95.3262
+CSA_noUN: 
+time: 26.583  PT: 227.922    95.3262
+CSA_noUN: 
+time: 28.776  PT: 426.645    95.3262
+CSA_noUN: 
+time: 30.992  PT: 332.067    95.3262
+CSA_noUN: 
+time: 33.181  PT: 186.59    95.3262
+CSA_noUN: 
+time: 35.365  PT: 256.707    95.3262
+CSA_noUN: 
+time: 37.55  PT: 100.298    95.3262
+CSA_noUN: 
+time: 39.746  PT: 308.12    95.3262
+CSA_noUN: 
+time: 41.936  PT: 389.396    95.3262
+CSA_noUN: 
+time: 44.123  PT: 200.628    95.3262
+CSA_noUN: 
+time: 46.314  PT: 278.068    95.3262
+CSA_noUN: 
+time: 48.531  PT: 218.859    95.3262
+CSA_noUN: 
+time: 50.739  PT: 173.518    95.3262
+CSA_noUN: 
+time: 52.939  PT: 336.926    95.3262
+CSA_noUN: 
+time: 55.136  PT: 314.172    95.3262
+CSA_noUN: 
+time: 57.318  PT: 223.674    95.3262
+CSA_noUN: 
+time: 59.525  PT: 143.566    95.3262
+CSA_noUN: 
+time: 61.719  PT: 273.137    95.3262
+CSA_noUN: 
+time: 63.924  PT: 249.678    95.3262
+CSA_noUN: 
+time: 66.12  PT: 317.474    95.3262
+CSA_noUN: 
+time: 68.316  PT: 187.72    95.3262
+CSA_noUN: 
+time: 70.526  PT: 267.009    95.3262
+CSA_noUN: 
+time: 72.722  PT: 138.61    95.3262
+CSA_noUN: 
+time: 74.92  PT: 214.524    95.3262
+CSA_noUN: 
+time: 77.126  PT: 241.512    95.3262
+CSA_noUN: 
+time: 79.389  PT: 238.115    95.3262
+CSA_noUN: 
+time: 81.605  PT: 215.153    95.3262
+CSA_noUN: 
+time: 83.836  PT: 224.574    95.3262
+CSA_noUN: 
+time: 86.048  PT: 356.781    95.3262
+CSA_noUN: 
+time: 88.258  PT: 200.824    95.3262
+CSA_noUN: 
+time: 90.467  PT: 243.985    94.6476
+CSA_noUN: 
+time: 92.659  PT: 124.319    90.1372
+CSA_noUN: 
+time: 94.862  PT: 343.21    90.1372
+CSA_noUN: 
+time: 97.052  PT: 310.165    90.1372
+CSA_noUN: 
+time: 99.252  PT: 298.061    90.1372
+CSA_noUN: 
+time: 101.447  PT: 217.721    90.1372
+CSA_noUN: 
+time: 101.452  PT: 90.1372
+GA: 
+time: 2.21  PT: 291.564    111.505
+GA: 
+time: 4.38  PT: 295.292    111.505
+GA: 
+time: 6.514  PT: 236.351    111.505
+GA: 
+time: 8.666  PT: 199.007    111.505
+GA: 
+time: 10.809  PT: 196.523    111.505
+GA: 
+time: 12.96  PT: 272.768    111.505
+GA: 
+time: 15.106  PT: 148.904    94.4293
+GA: 
+time: 17.241  PT: 182.798    94.4293
+GA: 
+time: 19.396  PT: 263.756    94.4293
+GA: 
+time: 21.525  PT: 231.81    94.4293
+GA: 
+time: 23.648  PT: 157.439    94.4293
+GA: 
+time: 25.773  PT: 133.977    94.4293
+GA: 
+time: 27.904  PT: 163.081    94.4293
+GA: 
+time: 30.052  PT: 158.043    94.4293
+GA: 
+time: 32.188  PT: 182.389    94.4293
+GA: 
+time: 34.332  PT: 289.781    94.4293
+GA: 
+time: 36.474  PT: 192.034    94.4293
+GA: 
+time: 38.671  PT: 223.52    94.4293
+GA: 
+time: 40.822  PT: 184.77    94.4293
+GA: 
+time: 42.966  PT: 191.086    94.4293
+GA: 
+time: 45.103  PT: 215.433    94.4293
+GA: 
+time: 47.238  PT: 140.55    94.4293
+GA: 
+time: 49.388  PT: 225.034    94.4293
+GA: 
+time: 51.551  PT: 333.327    94.4293
+GA: 
+time: 53.68  PT: 69.1628    69.1628
+GA: 
+time: 55.824  PT: 169.543    69.1628
+GA: 
+time: 57.976  PT: 258.138    69.1628
+GA: 
+time: 60.115  PT: 258.138    69.1628
+GA: 
+time: 62.264  PT: 227.289    69.1628
+GA: 
+time: 64.399  PT: 271.478    69.1628
+GA: 
+time: 66.545  PT: 161.551    69.1628
+GA: 
+time: 68.677  PT: 248.453    69.1628
+GA: 
+time: 70.807  PT: 250.568    69.1628
+GA: 
+time: 72.944  PT: 204.933    69.1628
+GA: 
+time: 75.106  PT: 145.219    69.1628
+GA: 
+time: 77.288  PT: 408.894    69.1628
+GA: 
+time: 79.441  PT: 259.232    69.1628
+GA: 
+time: 81.583  PT: 259.232    69.1628
+GA: 
+time: 83.711  PT: 311.685    69.1628
+GA: 
+time: 85.838  PT: 311.685    69.1628
+GA: 
+time: 87.904  PT: 123.779    69.1628
+GA: 
+time: 90.101  PT: 2.482    69.1628
+GA: 
+time: 92.298  PT: 1.31382    69.1628
+GA: 
+time: 94.302  PT: 0.868624    69.1628
+GA: 
+time: 96.311  PT: 0.868624    69.1628
+GA: 
+time: 98.334  PT: 0.868624    69.1628
+GA: 
+time: 100.353  PT: 0.868624    69.1628
+GA: 
+time: 102.549  PT: 0.791724    69.1628
+GA: 
+time: 104.743  PT: 0.577224    69.1628
+GA: 
+time: 106.931  PT: 0.577224    69.1628
+GA: 
+time: 109.122  PT: 0.577224    69.1628
+GA: 
+time: 111.321  PT: 0.577224    69.1628
+GA: 
+time: 113.325  PT: 0.577224    69.1628
+GA: 
+time: 115.521  PT: 0.577224    69.1628
+GA: 
+time: 117.564  PT: 0.577224    69.1628
+GA: 
+time: 119.643  PT: 0.577224    69.1628
+GA: 
+time: 121.651  PT: 0.577224    69.1628
+GA: 
+time: 123.843  PT: 0.577224    69.1628
+GA: 
+time: 126.041  PT: 0.540144    69.1628
+GA: 
+time: 128.046  PT: 0.496344    69.1628
+GA: 
+time: 130.055  PT: 0.496344    69.1628
+GA: 
+time: 132.119  PT: 0.496344    69.1628
+GA: 
+time: 134.159  PT: 0.496344    69.1628
+GA: 
+time: 136.17  PT: 0.496344    69.1628
+GA: 
+time: 136.175  PT: 69.1628
+SA: 
+time: 2.2173  PT: 245.366    245.366
+SA: 
+time: 4.3149  PT: 245.366    245.366
+SA: 
+time: 6.3251  PT: 245.366    245.366
+SA: 
+time: 8.4949  PT: 245.366    245.366
+SA: 
+time: 10.6191  PT: 245.366    245.366
+SA: 
+time: 12.6559  PT: 245.366    245.366
+SA: 
+time: 14.8314  PT: 245.366    245.366
+SA: 
+time: 16.9461  PT: 245.366    245.366
+SA: 
+time: 19.0703  PT: 245.366    245.366
+SA: 
+time: 21.1945  PT: 245.366    245.366
+SA: 
+time: 23.332  PT: 245.366    245.366
+SA: 
+time: 25.4334  PT: 245.366    245.366
+SA: 
+time: 27.5234  PT: 245.366    245.366
+SA: 
+time: 29.6058  PT: 245.366    245.366
+SA: 
+time: 31.7167  PT: 245.366    245.366
+SA: 
+time: 33.8086  PT: 245.366    245.366
+SA: 
+time: 35.9176  PT: 163.883    163.883
+SA: 
+time: 38.0209  PT: 163.883    163.883
+SA: 
+time: 40.1584  PT: 153.011    153.011
+SA: 
+time: 42.2826  PT: 132.689    132.689
+SA: 
+time: 44.422  PT: 132.689    132.689
+SA: 
+time: 46.5082  PT: 129.394    129.394
+SA: 
+time: 48.6077  PT: 129.394    129.394
+SA: 
+time: 50.6882  PT: 129.394    129.394
+SA: 
+time: 52.7725  PT: 129.394    129.394
+SA: 
+time: 54.8682  PT: 129.394    129.394
+SA: 
+time: 56.9772  PT: 129.394    129.394
+SA: 
+time: 59.09  PT: 129.394    129.394
+SA: 
+time: 61.1249  PT: 129.394    129.394
+SA: 
+time: 63.2909  PT: 129.394    129.394
+SA: 
+time: 65.3866  PT: 129.394    129.394
+SA: 
+time: 67.4063  PT: 69.8359    69.8359
+SA: 
+time: 69.5761  PT: 69.8359    69.8359
+SA: 
+time: 71.6585  PT: 67.3893    67.3893
+SA: 
+time: 73.7504  PT: 67.3893    67.3893
+SA: 
+time: 75.8651  PT: 67.3893    67.3893
+SA: 
+time: 78.0102  PT: 64.2696    64.2696
+SA: 
+time: 80.1762  PT: 40.6776    40.6776
+SA: 
+time: 82.2852  PT: 39.64    39.64
+SA: 
+time: 84.3847  PT: 34.6459    34.6459
+SA: 
+time: 86.4994  PT: 36.6018    36.6018
+SA: 
+time: 88.5837  PT: 36.6018    36.6018
+SA: 
+time: 90.6566  PT: 36.6018    36.6018
+SA: 
+time: 92.796  PT: 35.8173    35.8173
+SA: 
+time: 94.8822  PT: 35.8173    35.8173
+SA: 
+time: 96.9836  PT: 34.1259    34.1259
+SA: 
+time: 99.0831  PT: 34.1259    34.1259
+SA: 
+time: 101.24  PT: 34.1259    34.1259
+SA: 
+time: 103.366  PT: 34.1259    34.1259
+SA: 
+time: 103.611  PT: 34.1259
+now T: 341.81 beta:1
+CSA_UN: 
+time: 86.155  PT: 78.4644
+CSA_noUN: 
+time: 2.286  PT: 181.32    125.825
+CSA_noUN: 
+time: 4.478  PT: 338.099    125.825
+CSA_noUN: 
+time: 6.666  PT: 408.15    125.825
+CSA_noUN: 
+time: 8.861  PT: 319.125    125.825
+CSA_noUN: 
+time: 11.048  PT: 429.248    125.825
+CSA_noUN: 
+time: 13.238  PT: 246.018    125.825
+CSA_noUN: 
+time: 15.422  PT: 324.178    125.825
+CSA_noUN: 
+time: 17.617  PT: 196.567    125.825
+CSA_noUN: 
+time: 19.799  PT: 159.597    125.825
+CSA_noUN: 
+time: 22  PT: 397.974    125.825
+CSA_noUN: 
+time: 24.189  PT: 221.028    125.825
+CSA_noUN: 
+time: 26.448  PT: 356.879    125.825
+CSA_noUN: 
+time: 28.647  PT: 325.551    123.155
+CSA_noUN: 
+time: 30.835  PT: 331.102    123.155
+CSA_noUN: 
+time: 33.022  PT: 345.196    123.155
+CSA_noUN: 
+time: 35.223  PT: 438.847    123.155
+CSA_noUN: 
+time: 37.411  PT: 268.516    123.155
+CSA_noUN: 
+time: 39.607  PT: 194.293    123.155
+CSA_noUN: 
+time: 41.803  PT: 334.397    123.155
+CSA_noUN: 
+time: 43.996  PT: 378.817    123.155
+CSA_noUN: 
+time: 46.18  PT: 337.991    123.155
+CSA_noUN: 
+time: 48.41  PT: 287.525    123.155
+CSA_noUN: 
+time: 50.614  PT: 221.875    120.463
+CSA_noUN: 
+time: 52.807  PT: 197.578    120.463
+CSA_noUN: 
+time: 55  PT: 224.008    120.463
+CSA_noUN: 
+time: 57.203  PT: 327.399    120.463
+CSA_noUN: 
+time: 59.439  PT: 458.202    120.463
+CSA_noUN: 
+time: 61.664  PT: 258.297    120.463
+CSA_noUN: 
+time: 63.889  PT: 430.186    120.463
+CSA_noUN: 
+time: 66.098  PT: 331.718    120.463
+CSA_noUN: 
+time: 68.278  PT: 307.27    120.463
+CSA_noUN: 
+time: 70.491  PT: 321.802    120.463
+CSA_noUN: 
+time: 72.704  PT: 350.768    120.463
+CSA_noUN: 
+time: 74.889  PT: 343.211    120.463
+CSA_noUN: 
+time: 77.088  PT: 166.661    120.463
+CSA_noUN: 
+time: 79.29  PT: 297.594    120.463
+CSA_noUN: 
+time: 81.498  PT: 239.71    120.463
+CSA_noUN: 
+time: 83.698  PT: 217.023    120.463
+CSA_noUN: 
+time: 85.906  PT: 477.932    120.463
+CSA_noUN: 
+time: 88.114  PT: 399.533    120.463
+CSA_noUN: 
+time: 90.31  PT: 330.521    120.463
+CSA_noUN: 
+time: 92.504  PT: 418.344    120.463
+CSA_noUN: 
+time: 94.703  PT: 110.475    110.475
+CSA_noUN: 
+time: 96.9  PT: 228.051    110.475
+CSA_noUN: 
+time: 99.093  PT: 324.991    110.475
+CSA_noUN: 
+time: 101.287  PT: 228.365    110.475
+CSA_noUN: 
+time: 101.291  PT: 110.475
+GA: 
+time: 2.195  PT: 277.547    154.127
+GA: 
+time: 4.352  PT: 224.171    154.127
+GA: 
+time: 6.508  PT: 201.958    118.652
+GA: 
+time: 8.657  PT: 203.543    118.652
+GA: 
+time: 10.796  PT: 203.543    118.652
+GA: 
+time: 12.928  PT: 233.39    118.652
+GA: 
+time: 15.079  PT: 233.39    118.652
+GA: 
+time: 17.207  PT: 188.596    118.652
+GA: 
+time: 19.375  PT: 201.854    118.652
+GA: 
+time: 21.516  PT: 98.844    98.844
+GA: 
+time: 23.667  PT: 341.158    98.844
+GA: 
+time: 25.797  PT: 341.499    98.844
+GA: 
+time: 27.93  PT: 272.328    98.844
+GA: 
+time: 30.062  PT: 272.328    98.844
+GA: 
+time: 32.195  PT: 210.708    98.844
+GA: 
+time: 34.323  PT: 272.181    98.844
+GA: 
+time: 36.454  PT: 272.328    98.844
+GA: 
+time: 38.586  PT: 272.328    98.844
+GA: 
+time: 40.739  PT: 272.328    98.844
+GA: 
+time: 42.882  PT: 272.181    98.844
+GA: 
+time: 45.012  PT: 272.328    98.844
+GA: 
+time: 47.139  PT: 179.662    98.844
+GA: 
+time: 49.265  PT: 372.961    98.844
+GA: 
+time: 51.4  PT: 313.564    98.844
+GA: 
+time: 53.543  PT: 287.615    98.844
+GA: 
+time: 55.678  PT: 330.702    98.844
+GA: 
+time: 57.835  PT: 263.397    98.844
+GA: 
+time: 60.023  PT: 263.397    98.844
+GA: 
+time: 62.191  PT: 179.662    98.844
+GA: 
+time: 64.348  PT: 166.494    98.844
+GA: 
+time: 66.494  PT: 178.815    98.844
+GA: 
+time: 68.628  PT: 178.815    98.844
+GA: 
+time: 70.767  PT: 328.421    98.844
+GA: 
+time: 72.918  PT: 319.956    98.844
+GA: 
+time: 75.054  PT: 319.956    98.844
+GA: 
+time: 77.197  PT: 218.791    98.844
+GA: 
+time: 79.337  PT: 301.549    98.844
+GA: 
+time: 81.489  PT: 301.549    98.844
+GA: 
+time: 83.633  PT: 301.549    98.844
+GA: 
+time: 85.767  PT: 313.931    98.844
+GA: 
+time: 87.834  PT: 161.308    98.844
+GA: 
+time: 89.851  PT: 22.2516    98.844
+GA: 
+time: 91.864  PT: 12.7145    98.844
+GA: 
+time: 93.864  PT: 6.10466    98.844
+GA: 
+time: 96.057  PT: 5.72396    98.844
+GA: 
+time: 98.061  PT: 5.29256    98.844
+GA: 
+time: 100.07  PT: 4.03046    98.844
+GA: 
+time: 102.265  PT: 4.03046    98.844
+GA: 
+time: 104.461  PT: 4.03046    98.844
+GA: 
+time: 106.468  PT: 4.03046    98.844
+GA: 
+time: 108.656  PT: 4.03046    98.844
+GA: 
+time: 110.658  PT: 3.82666    98.844
+GA: 
+time: 112.852  PT: 3.82666    98.844
+GA: 
+time: 114.856  PT: 3.82666    98.844
+GA: 
+time: 116.874  PT: 3.82666    98.844
+GA: 
+time: 118.887  PT: 3.82666    98.844
+GA: 
+time: 120.888  PT: 3.82666    98.844
+GA: 
+time: 123.082  PT: 3.82666    98.844
+GA: 
+time: 125.089  PT: 3.82666    98.844
+GA: 
+time: 127.285  PT: 3.82666    98.844
+GA: 
+time: 129.48  PT: 3.82666    98.844
+GA: 
+time: 131.487  PT: 3.82666    98.844
+GA: 
+time: 133.492  PT: 3.74666    98.844
+GA: 
+time: 135.684  PT: 3.74666    98.844
+GA: 
+time: 135.893  PT: 98.844
+SA: 
+time: 2.2306  PT: 197.539    197.539
+SA: 
+time: 4.3624  PT: 197.539    197.539
+SA: 
+time: 6.4277  PT: 185.797    185.797
+SA: 
+time: 8.6488  PT: 185.797    185.797
+SA: 
+time: 10.7711  PT: 185.797    185.797
+SA: 
+time: 12.8421  PT: 131.664    131.664
+SA: 
+time: 15.0328  PT: 131.664    131.664
+SA: 
+time: 17.1608  PT: 115.743    115.743
+SA: 
+time: 19.2622  PT: 115.743    115.743
+SA: 
+time: 21.3921  PT: 115.743    115.743
+SA: 
+time: 23.503  PT: 115.743    115.743
+SA: 
+time: 25.5968  PT: 115.743    115.743
+SA: 
+time: 27.7115  PT: 115.743    115.743
+SA: 
+time: 29.8072  PT: 115.743    115.743
+SA: 
+time: 31.8972  PT: 115.743    115.743
+SA: 
+time: 33.9967  PT: 115.743    115.743
+SA: 
+time: 36.1266  PT: 115.743    115.743
+SA: 
+time: 38.2679  PT: 115.743    115.743
+SA: 
+time: 40.3807  PT: 81.4342    81.4342
+SA: 
+time: 42.5068  PT: 81.4342    81.4342
+SA: 
+time: 44.6234  PT: 81.4342    81.4342
+SA: 
+time: 46.7704  PT: 81.4342    81.4342
+SA: 
+time: 48.9098  PT: 77.4021    77.4021
+SA: 
+time: 51.0568  PT: 77.4021    77.4021
+SA: 
+time: 53.1563  PT: 77.4021    77.4021
+SA: 
+time: 55.2691  PT: 73.4855    73.4855
+SA: 
+time: 57.3876  PT: 71.5979    71.5979
+SA: 
+time: 59.4852  PT: 71.5979    71.5979
+SA: 
+time: 61.5201  PT: 71.5979    71.5979
+SA: 
+time: 63.7203  PT: 70.2672    70.2672
+SA: 
+time: 65.8787  PT: 70.2672    70.2672
+SA: 
+time: 67.9174  PT: 70.2672    70.2672
+SA: 
+time: 70.0929  PT: 70.2672    70.2672
+SA: 
+time: 72.2038  PT: 70.2672    70.2672
+SA: 
+time: 74.2995  PT: 70.2672    70.2672
+SA: 
+time: 76.4085  PT: 70.2672    70.2672
+SA: 
+time: 78.546  PT: 70.2672    70.2672
+SA: 
+time: 80.6531  PT: 52.6727    52.6727
+SA: 
+time: 82.745  PT: 52.6727    52.6727
+SA: 
+time: 84.8711  PT: 52.6727    52.6727
+SA: 
+time: 86.9668  PT: 52.6727    52.6727
+SA: 
+time: 89.0682  PT: 52.6727    52.6727
+SA: 
+time: 91.1962  PT: 52.6727    52.6727
+SA: 
+time: 93.3166  PT: 52.6727    52.6727
+SA: 
+time: 95.4313  PT: 52.6727    52.6727
+SA: 
+time: 97.5479  PT: 52.6727    52.6727
+SA: 
+time: 99.7082  PT: 52.6727    52.6727
+SA: 
+time: 101.806  PT: 51.3444    51.3444
+SA: 
+time: 103.901  PT: 51.3444    51.3444
+SA: 
+time: 104.148  PT: 51.3444
+now T: 341.81 beta:1
+CSA_UN: 
+time: 85.781  PT: 56.0164
+CSA_noUN: 
+time: 2.294  PT: 193.872    117.232
+CSA_noUN: 
+time: 4.506  PT: 276.96    117.232
+CSA_noUN: 
+time: 6.708  PT: 213.852    117.232
+CSA_noUN: 
+time: 8.897  PT: 286.342    117.232
+CSA_noUN: 
+time: 11.087  PT: 270.608    117.232
+CSA_noUN: 
+time: 13.287  PT: 244.729    79.7708
+CSA_noUN: 
+time: 15.49  PT: 380.963    79.7708
+CSA_noUN: 
+time: 17.693  PT: 204.595    79.7708
+CSA_noUN: 
+time: 19.893  PT: 338.519    79.7708
+CSA_noUN: 
+time: 22.105  PT: 253.803    79.7708
+CSA_noUN: 
+time: 24.308  PT: 452.555    79.7708
+CSA_noUN: 
+time: 26.506  PT: 267.917    79.7708
+CSA_noUN: 
+time: 28.691  PT: 210.28    79.7708
+CSA_noUN: 
+time: 30.885  PT: 188.365    79.7708
+CSA_noUN: 
+time: 33.075  PT: 184.295    79.7708
+CSA_noUN: 
+time: 35.273  PT: 207.361    79.7708
+CSA_noUN: 
+time: 37.464  PT: 238.5    79.7708
+CSA_noUN: 
+time: 39.657  PT: 120.251    53.7084
+CSA_noUN: 
+time: 41.878  PT: 241.984    53.7084
+CSA_noUN: 
+time: 44.097  PT: 237.04    53.7084
+CSA_noUN: 
+time: 46.31  PT: 252.148    53.7084
+CSA_noUN: 
+time: 48.508  PT: 405.671    53.7084
+CSA_noUN: 
+time: 50.701  PT: 218.336    53.7084
+CSA_noUN: 
+time: 52.898  PT: 314.241    53.7084
+CSA_noUN: 
+time: 55.088  PT: 182.651    53.7084
+CSA_noUN: 
+time: 57.289  PT: 288.197    53.7084
+CSA_noUN: 
+time: 59.479  PT: 306.189    53.7084
+CSA_noUN: 
+time: 61.68  PT: 235.371    53.7084
+CSA_noUN: 
+time: 63.889  PT: 251.024    53.7084
+CSA_noUN: 
+time: 66.2  PT: 132.336    53.7084
+CSA_noUN: 
+time: 68.426  PT: 151.92    53.7084
+CSA_noUN: 
+time: 70.633  PT: 196.255    53.7084
+CSA_noUN: 
+time: 72.818  PT: 303.853    53.7084
+CSA_noUN: 
+time: 75.015  PT: 172.277    53.7084
+CSA_noUN: 
+time: 77.209  PT: 209.057    53.7084
+CSA_noUN: 
+time: 79.419  PT: 293.408    53.7084
+CSA_noUN: 
+time: 81.62  PT: 268.174    53.7084
+CSA_noUN: 
+time: 83.809  PT: 292.517    53.7084
+CSA_noUN: 
+time: 86.004  PT: 278.091    53.7084
+CSA_noUN: 
+time: 88.207  PT: 239.236    53.7084
+CSA_noUN: 
+time: 90.402  PT: 300.839    53.7084
+CSA_noUN: 
+time: 92.612  PT: 307.858    53.7084
+CSA_noUN: 
+time: 94.836  PT: 199.662    53.7084
+CSA_noUN: 
+time: 97.039  PT: 379.633    53.7084
+CSA_noUN: 
+time: 99.246  PT: 332.843    53.7084
+CSA_noUN: 
+time: 101.48  PT: 300.963    53.7084
+CSA_noUN: 
+time: 101.485  PT: 53.7084
+GA: 
+time: 2.202  PT: 193.163    119.68
+GA: 
+time: 4.334  PT: 119.68    119.68
+GA: 
+time: 6.485  PT: 129.374    119.68
+GA: 
+time: 8.619  PT: 123.552    119.68
+GA: 
+time: 10.76  PT: 125.825    68.6569
+GA: 
+time: 12.913  PT: 129.374    68.6569
+GA: 
+time: 15.049  PT: 129.374    68.6569
+GA: 
+time: 17.179  PT: 129.374    68.6569
+GA: 
+time: 19.313  PT: 129.374    68.6569
+GA: 
+time: 21.456  PT: 129.374    68.6569
+GA: 
+time: 23.605  PT: 137.498    68.6569
+GA: 
+time: 25.747  PT: 130.421    68.6569
+GA: 
+time: 27.889  PT: 121.2    68.6569
+GA: 
+time: 30.018  PT: 121.2    68.6569
+GA: 
+time: 32.166  PT: 168.099    68.6569
+GA: 
+time: 34.275  PT: 168.495    68.6569
+GA: 
+time: 36.464  PT: 168.495    68.6569
+GA: 
+time: 38.617  PT: 215.956    68.6569
+GA: 
+time: 40.767  PT: 159.165    68.6569
+GA: 
+time: 42.911  PT: 107.465    68.6569
+GA: 
+time: 45.051  PT: 110.557    68.6569
+GA: 
+time: 47.202  PT: 217.249    68.6569
+GA: 
+time: 49.35  PT: 222.028    68.6569
+GA: 
+time: 51.511  PT: 151.183    68.6569
+GA: 
+time: 53.646  PT: 183.106    68.6569
+GA: 
+time: 55.797  PT: 201.178    68.6569
+GA: 
+time: 57.933  PT: 247.514    68.6569
+GA: 
+time: 60.123  PT: 247.514    68.6569
+GA: 
+time: 62.293  PT: 247.514    68.6569
+GA: 
+time: 64.453  PT: 180.569    68.6569
+GA: 
+time: 66.605  PT: 210.746    68.6569
+GA: 
+time: 68.758  PT: 170.031    68.6569
+GA: 
+time: 70.928  PT: 247.464    68.6569
+GA: 
+time: 73.059  PT: 202.965    68.6569
+GA: 
+time: 75.212  PT: 269.393    68.6569
+GA: 
+time: 77.346  PT: 179.211    68.6569
+GA: 
+time: 79.489  PT: 402.239    68.6569
+GA: 
+time: 81.624  PT: 160.391    68.6569
+GA: 
+time: 83.769  PT: 214.588    68.6569
+GA: 
+time: 85.949  PT: 327.339    68.6569
+GA: 
+time: 88.052  PT: 55.0422    68.6569
+GA: 
+time: 90.056  PT: 5.87362    68.6569
+GA: 
+time: 92.06  PT: 3.20474    68.6569
+GA: 
+time: 94.259  PT: 1.40516    68.6569
+GA: 
+time: 96.451  PT: 1.4048    68.6569
+GA: 
+time: 98.641  PT: 1.23896    68.6569
+GA: 
+time: 100.845  PT: 1.1879    68.6569
+GA: 
+time: 103.034  PT: 1.0841    68.6569
+GA: 
+time: 105.049  PT: 0.816502    68.6569
+GA: 
+time: 107.091  PT: 0.743583    68.6569
+GA: 
+time: 109.287  PT: 0.716683    68.6569
+GA: 
+time: 111.484  PT: 0.716683    68.6569
+GA: 
+time: 113.671  PT: 0.699783    68.6569
+GA: 
+time: 115.87  PT: 0.699783    68.6569
+GA: 
+time: 117.91  PT: 0.699783    68.6569
+GA: 
+time: 119.92  PT: 0.699783    68.6569
+GA: 
+time: 121.943  PT: 0.699783    68.6569
+GA: 
+time: 124.133  PT: 0.699783    68.6569
+GA: 
+time: 126.167  PT: 0.699783    68.6569
+GA: 
+time: 128.189  PT: 0.699783    68.6569
+GA: 
+time: 130.21  PT: 0.595983    68.6569
+GA: 
+time: 132.219  PT: 0.595983    68.6569
+GA: 
+time: 134.221  PT: 0.595983    68.6569
+GA: 
+time: 136.411  PT: 0.595983    68.6569
+GA: 
+time: 136.415  PT: 68.6569
+SA: 
+time: 2.2363  PT: 246.716    246.716
+SA: 
+time: 4.3586  PT: 232.42    232.42
+SA: 
+time: 6.3802  PT: 232.42    232.42
+SA: 
+time: 8.6108  PT: 231.953    231.953
+SA: 
+time: 10.7407  PT: 127.612    127.612
+SA: 
+time: 12.7794  PT: 127.612    127.612
+SA: 
+time: 14.9549  PT: 113.194    113.194
+SA: 
+time: 17.0582  PT: 113.194    113.194
+SA: 
+time: 19.1653  PT: 113.194    113.194
+SA: 
+time: 21.2667  PT: 113.194    113.194
+SA: 
+time: 23.3605  PT: 113.194    113.194
+SA: 
+time: 25.4448  PT: 113.194    113.194
+SA: 
+time: 27.5937  PT: 113.194    113.194
+SA: 
+time: 29.6875  PT: 84.8302    84.8302
+SA: 
+time: 31.7927  PT: 75.4877    75.4877
+SA: 
+time: 33.9169  PT: 75.4877    75.4877
+SA: 
+time: 36.0278  PT: 75.4877    75.4877
+SA: 
+time: 38.1482  PT: 75.4877    75.4877
+SA: 
+time: 40.242  PT: 72.5925    72.5925
+SA: 
+time: 42.4517  PT: 72.5925    72.5925
+SA: 
+time: 44.5417  PT: 72.5925    72.5925
+SA: 
+time: 46.6868  PT: 69.2597    69.2597
+SA: 
+time: 48.7825  PT: 53.5736    53.5736
+SA: 
+time: 50.9067  PT: 53.5736    53.5736
+SA: 
+time: 53.0271  PT: 53.5736    53.5736
+SA: 
+time: 55.1152  PT: 50.9201    50.9201
+SA: 
+time: 57.2204  PT: 50.9201    50.9201
+SA: 
+time: 59.3199  PT: 50.9201    50.9201
+SA: 
+time: 61.3415  PT: 38.9828    38.9828
+SA: 
+time: 63.4923  PT: 38.9828    38.9828
+SA: 
+time: 65.6184  PT: 34.5218    34.5218
+SA: 
+time: 67.6343  PT: 34.5218    34.5218
+SA: 
+time: 69.8155  PT: 34.5218    34.5218
+SA: 
+time: 71.9074  PT: 34.5218    34.5218
+SA: 
+time: 74.0354  PT: 34.5218    34.5218
+SA: 
+time: 76.1463  PT: 34.5218    34.5218
+SA: 
+time: 78.2458  PT: 34.5218    34.5218
+SA: 
+time: 80.389  PT: 34.5218    34.5218
+SA: 
+time: 82.5664  PT: 34.5218    34.5218
+SA: 
+time: 84.7096  PT: 26.1982    26.1982
+SA: 
+time: 86.83  PT: 26.1982    26.1982
+SA: 
+time: 88.9485  PT: 26.1982    26.1982
+SA: 
+time: 91.0518  PT: 26.1982    26.1982
+SA: 
+time: 93.1722  PT: 24.5046    24.5046
+SA: 
+time: 95.3021  PT: 24.5046    24.5046
+SA: 
+time: 97.4301  PT: 24.5046    24.5046
+SA: 
+time: 99.5486  PT: 23.7856    23.7856
+SA: 
+time: 101.667  PT: 23.7856    23.7856
+SA: 
+time: 103.841  PT: 19.1714    19.1714
+SA: 
+time: 104.08  PT: 19.1714
+now T: 341.81 beta:1
+CSA_UN: 
+time: 85.176  PT: 80.0035
+CSA_noUN: 
+time: 2.28  PT: 301.701    171.198
+CSA_noUN: 
+time: 4.48  PT: 113.131    113.131
+CSA_noUN: 
+time: 6.686  PT: 337.725    113.131
+CSA_noUN: 
+time: 8.875  PT: 241.343    113.131
+CSA_noUN: 
+time: 11.08  PT: 212.602    113.131
+CSA_noUN: 
+time: 13.276  PT: 135.029    113.131
+CSA_noUN: 
+time: 15.471  PT: 453.317    113.131
+CSA_noUN: 
+time: 17.664  PT: 397.406    113.131
+CSA_noUN: 
+time: 19.907  PT: 267.344    113.131
+CSA_noUN: 
+time: 22.138  PT: 155.48    113.131
+CSA_noUN: 
+time: 24.371  PT: 341.502    113.131
+CSA_noUN: 
+time: 26.58  PT: 341.976    113.131
+CSA_noUN: 
+time: 28.772  PT: 189.629    113.131
+CSA_noUN: 
+time: 30.98  PT: 207.769    113.131
+CSA_noUN: 
+time: 33.223  PT: 338.861    113.131
+CSA_noUN: 
+time: 35.416  PT: 311.713    113.131
+CSA_noUN: 
+time: 37.618  PT: 301.771    113.131
+CSA_noUN: 
+time: 39.814  PT: 244.934    113.131
+CSA_noUN: 
+time: 42.005  PT: 240.124    113.131
+CSA_noUN: 
+time: 44.214  PT: 361.968    113.131
+CSA_noUN: 
+time: 46.401  PT: 240.345    113.131
+CSA_noUN: 
+time: 48.588  PT: 202.197    113.131
+CSA_noUN: 
+time: 50.783  PT: 269.04    113.131
+CSA_noUN: 
+time: 52.98  PT: 229.636    113.131
+CSA_noUN: 
+time: 55.185  PT: 221.713    113.131
+CSA_noUN: 
+time: 57.385  PT: 401.543    113.131
+CSA_noUN: 
+time: 59.607  PT: 442.415    113.131
+CSA_noUN: 
+time: 61.805  PT: 329.226    113.131
+CSA_noUN: 
+time: 64.022  PT: 228.081    113.131
+CSA_noUN: 
+time: 66.221  PT: 378.971    113.131
+CSA_noUN: 
+time: 68.425  PT: 421.768    113.131
+CSA_noUN: 
+time: 70.655  PT: 296.705    113.131
+CSA_noUN: 
+time: 72.889  PT: 290.482    113.131
+CSA_noUN: 
+time: 75.096  PT: 153.946    113.131
+CSA_noUN: 
+time: 77.308  PT: 232.947    113.131
+CSA_noUN: 
+time: 79.52  PT: 256.585    113.131
+CSA_noUN: 
+time: 81.712  PT: 310.353    113.131
+CSA_noUN: 
+time: 83.931  PT: 328.295    113.131
+CSA_noUN: 
+time: 86.174  PT: 341.779    113.131
+CSA_noUN: 
+time: 88.374  PT: 270.412    113.131
+CSA_noUN: 
+time: 90.562  PT: 140.561    113.131
+CSA_noUN: 
+time: 92.762  PT: 336.126    113.131
+CSA_noUN: 
+time: 94.952  PT: 272.065    113.131
+CSA_noUN: 
+time: 97.143  PT: 317.435    113.131
+CSA_noUN: 
+time: 99.344  PT: 229.888    113.131
+CSA_noUN: 
+time: 101.533  PT: 334.749    113.131
+CSA_noUN: 
+time: 101.538  PT: 113.131
+GA: 
+time: 2.184  PT: 354.591    268.357
+GA: 
+time: 4.335  PT: 354.591    268.357
+GA: 
+time: 6.473  PT: 354.591    234.25
+GA: 
+time: 8.606  PT: 303.184    234.25
+GA: 
+time: 10.734  PT: 277.789    205.851
+GA: 
+time: 12.889  PT: 393.275    205.851
+GA: 
+time: 15.043  PT: 503.542    205.494
+GA: 
+time: 17.189  PT: 378.001    205.494
+GA: 
+time: 19.349  PT: 375.861    205.494
+GA: 
+time: 21.505  PT: 322.233    205.494
+GA: 
+time: 23.672  PT: 219.511    138.393
+GA: 
+time: 25.826  PT: 453.755    138.393
+GA: 
+time: 27.967  PT: 346.529    138.393
+GA: 
+time: 30.106  PT: 337.192    138.393
+GA: 
+time: 32.241  PT: 336.495    138.393
+GA: 
+time: 34.388  PT: 337.192    138.393
+GA: 
+time: 36.527  PT: 325.003    138.393
+GA: 
+time: 38.666  PT: 337.192    138.393
+GA: 
+time: 40.822  PT: 337.192    138.393
+GA: 
+time: 42.978  PT: 337.192    138.393
+GA: 
+time: 45.129  PT: 322.008    138.393
+GA: 
+time: 47.256  PT: 315.374    138.393
+GA: 
+time: 49.393  PT: 268.414    138.393
+GA: 
+time: 51.527  PT: 456.739    138.393
+GA: 
+time: 53.66  PT: 335.975    138.393
+GA: 
+time: 55.798  PT: 478.737    138.393
+GA: 
+time: 57.926  PT: 449.648    138.393
+GA: 
+time: 60.057  PT: 455.622    138.393
+GA: 
+time: 62.188  PT: 241.998    138.393
+GA: 
+time: 64.332  PT: 536.945    138.393
+GA: 
+time: 66.473  PT: 604.012    138.393
+GA: 
+time: 68.609  PT: 241.998    138.393
+GA: 
+time: 70.743  PT: 503.487    138.393
+GA: 
+time: 72.878  PT: 370.847    138.393
+GA: 
+time: 75.024  PT: 463.811    138.393
+GA: 
+time: 77.161  PT: 458.974    138.393
+GA: 
+time: 79.298  PT: 494.641    138.393
+GA: 
+time: 81.442  PT: 491.311    138.393
+GA: 
+time: 83.584  PT: 369.393    138.393
+GA: 
+time: 85.708  PT: 369.393    138.393
+GA: 
+time: 87.785  PT: 108.613    138.393
+GA: 
+time: 89.974  PT: 13.7207    138.393
+GA: 
+time: 91.976  PT: 9.98029    138.393
+GA: 
+time: 93.987  PT: 9.3787    138.393
+GA: 
+time: 95.997  PT: 9.3787    138.393
+GA: 
+time: 98.002  PT: 8.0773    138.393
+GA: 
+time: 100.002  PT: 8.0773    138.393
+GA: 
+time: 102.026  PT: 8.0535    138.393
+GA: 
+time: 104.054  PT: 8.0535    138.393
+GA: 
+time: 106.054  PT: 7.85262    138.393
+GA: 
+time: 108.057  PT: 7.50882    138.393
+GA: 
+time: 110.255  PT: 7.13882    138.393
+GA: 
+time: 112.257  PT: 7.13882    138.393
+GA: 
+time: 114.448  PT: 7.13882    138.393
+GA: 
+time: 116.639  PT: 7.13882    138.393
+GA: 
+time: 118.659  PT: 7.13882    138.393
+GA: 
+time: 120.668  PT: 7.13882    138.393
+GA: 
+time: 122.673  PT: 7.13882    138.393
+GA: 
+time: 124.875  PT: 7.13882    138.393
+GA: 
+time: 126.88  PT: 7.13882    138.393
+GA: 
+time: 128.892  PT: 7.13882    138.393
+GA: 
+time: 130.907  PT: 7.13882    138.393
+GA: 
+time: 133.098  PT: 7.13882    138.393
+GA: 
+time: 135.29  PT: 7.13882    138.393
+GA: 
+time: 135.9  PT: 138.393
+SA: 
+time: 2.2059  PT: 390.699    390.699
+SA: 
+time: 4.3567  PT: 390.699    390.699
+SA: 
+time: 6.4182  PT: 390.699    390.699
+SA: 
+time: 8.5994  PT: 253.578    253.578
+SA: 
+time: 10.7046  PT: 253.578    253.578
+SA: 
+time: 12.7262  PT: 193.928    193.928
+SA: 
+time: 14.8941  PT: 144.518    144.518
+SA: 
+time: 16.9955  PT: 144.518    144.518
+SA: 
+time: 19.1102  PT: 144.221    144.221
+SA: 
+time: 21.2021  PT: 144.221    144.221
+SA: 
+time: 23.3434  PT: 144.221    144.221
+SA: 
+time: 25.4809  PT: 121.366    121.366
+SA: 
+time: 27.6032  PT: 121.366    121.366
+SA: 
+time: 29.716  PT: 121.366    121.366
+SA: 
+time: 31.8098  PT: 103.992    103.992
+SA: 
+time: 33.8846  PT: 86.6595    86.6595
+SA: 
+time: 35.9689  PT: 75.229    75.229
+SA: 
+time: 38.0665  PT: 69.6379    69.6379
+SA: 
+time: 40.1793  PT: 62.1223    62.1223
+SA: 
+time: 42.2921  PT: 62.1223    62.1223
+SA: 
+time: 44.3916  PT: 53.987    53.987
+SA: 
+time: 46.531  PT: 53.987    53.987
+SA: 
+time: 48.6628  PT: 51.8949    51.8949
+SA: 
+time: 50.8136  PT: 51.8949    51.8949
+SA: 
+time: 52.9207  PT: 51.8949    51.8949
+SA: 
+time: 55.0164  PT: 51.8949    51.8949
+SA: 
+time: 57.0931  PT: 51.8949    51.8949
+SA: 
+time: 59.1983  PT: 51.8949    51.8949
+SA: 
+time: 61.2028  PT: 50.9442    50.9442
+SA: 
+time: 63.3954  PT: 50.9442    50.9442
+SA: 
+time: 65.4987  PT: 29.0416    29.0416
+SA: 
+time: 67.5127  PT: 28.7547    28.7547
+SA: 
+time: 69.6825  PT: 26.8564    26.8564
+SA: 
+time: 71.8029  PT: 26.5795    26.5795
+SA: 
+time: 73.8948  PT: 26.5795    26.5795
+SA: 
+time: 75.9924  PT: 26.5795    26.5795
+SA: 
+time: 78.0919  PT: 26.5795    26.5795
+SA: 
+time: 80.1762  PT: 26.5795    26.5795
+SA: 
+time: 82.289  PT: 26.5795    26.5795
+SA: 
+time: 84.3866  PT: 26.5795    26.5795
+SA: 
+time: 86.4937  PT: 26.5795    26.5795
+SA: 
+time: 88.5989  PT: 26.5795    26.5795
+SA: 
+time: 90.6851  PT: 26.5795    26.5795
+SA: 
+time: 92.7751  PT: 26.5795    26.5795
+SA: 
+time: 94.886  PT: 22.5477    22.5477
+SA: 
+time: 96.9798  PT: 22.2601    22.2601
+SA: 
+time: 99.1724  PT: 22.2601    22.2601
+SA: 
+time: 101.378  PT: 20.369    20.369
+SA: 
+time: 103.472  PT: 20.369    20.369
+SA: 
+time: 103.713  PT: 20.369
+now T: 341.81 beta:1
+CSA_UN: 
+time: 84.581  PT: 101.781
+CSA_noUN: 
+time: 2.283  PT: 356.874    212.638
+CSA_noUN: 
+time: 4.476  PT: 236.061    212.638
+CSA_noUN: 
+time: 6.688  PT: 461.798    212.638
+CSA_noUN: 
+time: 8.911  PT: 447.473    110.045
+CSA_noUN: 
+time: 11.109  PT: 289.112    110.045
+CSA_noUN: 
+time: 13.305  PT: 460.892    110.045
+CSA_noUN: 
+time: 15.498  PT: 216.479    110.045
+CSA_noUN: 
+time: 17.694  PT: 217.321    110.045
+CSA_noUN: 
+time: 19.883  PT: 392.542    99.9351
+CSA_noUN: 
+time: 22.069  PT: 360.91    99.9351
+CSA_noUN: 
+time: 24.256  PT: 177.934    99.9351
+CSA_noUN: 
+time: 26.449  PT: 361.943    99.9351
+CSA_noUN: 
+time: 28.639  PT: 373.801    99.9351
+CSA_noUN: 
+time: 30.83  PT: 276.006    99.9351
+CSA_noUN: 
+time: 33.039  PT: 289.646    99.9351
+CSA_noUN: 
+time: 35.243  PT: 247.946    99.9351
+CSA_noUN: 
+time: 37.442  PT: 270.576    99.9351
+CSA_noUN: 
+time: 39.632  PT: 171.44    99.9351
+CSA_noUN: 
+time: 41.822  PT: 325.135    99.9351
+CSA_noUN: 
+time: 44.012  PT: 359.709    99.9351
+CSA_noUN: 
+time: 46.211  PT: 313.556    99.9351
+CSA_noUN: 
+time: 48.403  PT: 308.314    99.9351
+CSA_noUN: 
+time: 50.597  PT: 251.321    99.9351
+CSA_noUN: 
+time: 52.799  PT: 456.64    99.9351
+CSA_noUN: 
+time: 54.999  PT: 303.02    99.9351
+CSA_noUN: 
+time: 57.198  PT: 230.1    99.9351
+CSA_noUN: 
+time: 59.41  PT: 373.7    99.9351
+CSA_noUN: 
+time: 61.624  PT: 302.988    99.9351
+CSA_noUN: 
+time: 63.821  PT: 283.81    99.9351
+CSA_noUN: 
+time: 66.02  PT: 183.443    99.9351
+CSA_noUN: 
+time: 68.229  PT: 143.762    99.9351
+CSA_noUN: 
+time: 70.44  PT: 209.295    99.9351
+CSA_noUN: 
+time: 72.637  PT: 367.54    99.9351
+CSA_noUN: 
+time: 74.825  PT: 599.882    99.9351
+CSA_noUN: 
+time: 77.011  PT: 174.266    99.9351
+CSA_noUN: 
+time: 79.198  PT: 357.224    99.9351
+CSA_noUN: 
+time: 81.389  PT: 322.522    99.9351
+CSA_noUN: 
+time: 83.577  PT: 270.766    99.9351
+CSA_noUN: 
+time: 85.761  PT: 335.797    99.9351
+CSA_noUN: 
+time: 87.96  PT: 430.122    99.9351
+CSA_noUN: 
+time: 90.147  PT: 406.815    99.9351
+CSA_noUN: 
+time: 92.361  PT: 500.367    99.9351
+CSA_noUN: 
+time: 94.565  PT: 177.452    99.9351
+CSA_noUN: 
+time: 96.758  PT: 239.938    99.9351
+CSA_noUN: 
+time: 98.937  PT: 252.257    99.9351
+CSA_noUN: 
+time: 101.129  PT: 206.09    99.9351
+CSA_noUN: 
+time: 101.133  PT: 99.9351
+GA: 
+time: 2.19  PT: 367.129    181.508
+GA: 
+time: 4.321  PT: 366.318    181.508
+GA: 
+time: 6.463  PT: 367.129    181.508
+GA: 
+time: 8.604  PT: 259.322    181.508
+GA: 
+time: 10.731  PT: 236.666    169.996
+GA: 
+time: 12.862  PT: 298.815    169.996
+GA: 
+time: 14.989  PT: 294.692    169.996
+GA: 
+time: 17.138  PT: 367.778    169.996
+GA: 
+time: 19.27  PT: 300.01    169.996
+GA: 
+time: 21.402  PT: 300.01    169.996
+GA: 
+time: 23.541  PT: 367.778    169.996
+GA: 
+time: 25.708  PT: 365.971    169.996
+GA: 
+time: 27.86  PT: 365.971    167.996
+GA: 
+time: 29.993  PT: 152.553    152.553
+GA: 
+time: 32.136  PT: 264.824    134.924
+GA: 
+time: 34.284  PT: 264.824    134.924
+GA: 
+time: 36.418  PT: 264.824    134.924
+GA: 
+time: 38.549  PT: 269.905    134.924
+GA: 
+time: 40.687  PT: 233.162    134.924
+GA: 
+time: 42.84  PT: 233.162    134.924
+GA: 
+time: 44.972  PT: 362.258    134.924
+GA: 
+time: 47.125  PT: 370.665    134.924
+GA: 
+time: 49.261  PT: 373.296    134.924
+GA: 
+time: 51.394  PT: 454.83    134.924
+GA: 
+time: 53.541  PT: 383.568    134.924
+GA: 
+time: 55.678  PT: 411.461    134.924
+GA: 
+time: 57.817  PT: 411.461    134.924
+GA: 
+time: 59.957  PT: 174.944    134.924
+GA: 
+time: 62.085  PT: 359.919    134.924
+GA: 
+time: 64.231  PT: 454.448    134.924
+GA: 
+time: 66.373  PT: 396.541    134.924
+GA: 
+time: 68.528  PT: 315.321    134.924
+GA: 
+time: 70.688  PT: 216.111    134.924
+GA: 
+time: 72.821  PT: 357.12    134.924
+GA: 
+time: 74.955  PT: 414.912    134.924
+GA: 
+time: 77.084  PT: 409.384    134.924
+GA: 
+time: 79.209  PT: 409.384    134.924
+GA: 
+time: 81.362  PT: 245.917    134.924
+GA: 
+time: 83.505  PT: 319.445    134.924
+GA: 
+time: 85.658  PT: 319.445    134.924
+GA: 
+time: 87.759  PT: 165.673    134.924
+GA: 
+time: 89.765  PT: 50.5597    134.924
+GA: 
+time: 91.765  PT: 14.0081    134.924
+GA: 
+time: 93.767  PT: 12.2098    134.924
+GA: 
+time: 95.963  PT: 12.0053    134.924
+GA: 
+time: 98.146  PT: 11.926    134.924
+GA: 
+time: 100.162  PT: 11.8029    134.924
+GA: 
+time: 102.164  PT: 11.3884    134.924
+GA: 
+time: 104.354  PT: 11.3884    134.924
+GA: 
+time: 106.536  PT: 11.3884    134.924
+GA: 
+time: 108.726  PT: 11.1515    134.924
+GA: 
+time: 110.731  PT: 10.9884    134.924
+GA: 
+time: 112.735  PT: 10.8515    134.924
+GA: 
+time: 114.93  PT: 10.8515    134.924
+GA: 
+time: 116.939  PT: 10.8515    134.924
+GA: 
+time: 118.962  PT: 10.8515    134.924
+GA: 
+time: 121.159  PT: 10.8515    134.924
+GA: 
+time: 123.347  PT: 10.8515    134.924
+GA: 
+time: 125.538  PT: 10.8515    134.924
+GA: 
+time: 127.73  PT: 10.8515    134.924
+GA: 
+time: 129.734  PT: 10.5637    134.924
+GA: 
+time: 131.916  PT: 10.5637    134.924
+GA: 
+time: 134.107  PT: 10.5637    134.924
+GA: 
+time: 135.704  PT: 134.924
+SA: 
+time: 2.0045  PT: 262.152    262.152
+SA: 
+time: 4.1173  PT: 262.152    262.152
+SA: 
+time: 6.213  PT: 262.152    262.152
+SA: 
+time: 8.3486  PT: 158.241    158.241
+SA: 
+time: 10.4728  PT: 156.81    156.81
+SA: 
+time: 12.5343  PT: 156.81    156.81
+SA: 
+time: 14.7326  PT: 156.81    156.81
+SA: 
+time: 16.8777  PT: 126.809    126.809
+SA: 
+time: 18.8784  PT: 125.001    125.001
+SA: 
+time: 20.9551  PT: 125.001    125.001
+SA: 
+time: 23.0888  PT: 113.789    113.789
+SA: 
+time: 25.1085  PT: 113.789    113.789
+SA: 
+time: 27.2897  PT: 77.6986    77.6986
+SA: 
+time: 29.4101  PT: 77.6986    77.6986
+SA: 
+time: 31.5286  PT: 75.4211    75.4211
+SA: 
+time: 33.6794  PT: 75.4211    75.4211
+SA: 
+time: 35.7998  PT: 75.4211    75.4211
+SA: 
+time: 37.9031  PT: 75.4042    75.4042
+SA: 
+time: 40.0064  PT: 74.2264    74.2264
+SA: 
+time: 42.0888  PT: 74.2264    74.2264
+SA: 
+time: 44.1769  PT: 74.2264    74.2264
+SA: 
+time: 46.2726  PT: 74.2264    74.2264
+SA: 
+time: 48.3816  PT: 74.2264    74.2264
+SA: 
+time: 50.4735  PT: 74.2264    74.2264
+SA: 
+time: 52.6072  PT: 74.2264    74.2264
+SA: 
+time: 54.7504  PT: 74.2264    74.2264
+SA: 
+time: 56.8708  PT: 72.0619    72.0619
+SA: 
+time: 59.0159  PT: 72.0619    72.0619
+SA: 
+time: 61.0983  PT: 72.0619    72.0619
+SA: 
+time: 63.2149  PT: 72.0619    72.0619
+SA: 
+time: 65.3125  PT: 70.8781    70.8781
+SA: 
+time: 67.4025  PT: 70.8781    70.8781
+SA: 
+time: 69.5134  PT: 70.8781    70.8781
+SA: 
+time: 71.6205  PT: 65.0296    65.0296
+SA: 
+time: 73.6611  PT: 59.7106    59.7106
+SA: 
+time: 75.8651  PT: 49.4116    49.4116
+SA: 
+time: 77.9684  PT: 49.2347    49.2347
+SA: 
+time: 80.0071  PT: 49.2347    49.2347
+SA: 
+time: 82.2073  PT: 49.2347    49.2347
+SA: 
+time: 84.3106  PT: 49.2347    49.2347
+SA: 
+time: 86.4082  PT: 49.2347    49.2347
+SA: 
+time: 88.4963  PT: 49.2347    49.2347
+SA: 
+time: 90.6034  PT: 49.2347    49.2347
+SA: 
+time: 92.7428  PT: 48.5871    48.5871
+SA: 
+time: 94.886  PT: 48.5871    48.5871
+SA: 
+time: 96.9874  PT: 48.5871    48.5871
+SA: 
+time: 99.1097  PT: 48.4702    48.4702
+SA: 
+time: 101.203  PT: 48.1295    48.1295
+SA: 
+time: 103.328  PT: 48.1295    48.1295
+SA: 
+time: 104.052  PT: 48.1295
+now T: 341.81 beta:1
+CSA_UN: 
+time: 82.867  PT: 72.96
+CSA_noUN: 
+time: 2.28  PT: 443.269    222.214
+CSA_noUN: 
+time: 4.484  PT: 361.861    222.214
+CSA_noUN: 
+time: 6.677  PT: 243.499    192.783
+CSA_noUN: 
+time: 8.875  PT: 372.283    192.783
+CSA_noUN: 
+time: 11.069  PT: 210.015    192.783
+CSA_noUN: 
+time: 13.268  PT: 373.443    192.783
+CSA_noUN: 
+time: 15.45  PT: 373.391    192.783
+CSA_noUN: 
+time: 17.647  PT: 263.4    192.783
+CSA_noUN: 
+time: 19.841  PT: 409.314    192.783
+CSA_noUN: 
+time: 22.061  PT: 291.813    192.783
+CSA_noUN: 
+time: 24.29  PT: 302.956    192.783
+CSA_noUN: 
+time: 26.478  PT: 250.987    192.783
+CSA_noUN: 
+time: 28.667  PT: 404.609    192.783
+CSA_noUN: 
+time: 30.854  PT: 360.943    191.923
+CSA_noUN: 
+time: 33.061  PT: 323.699    191.923
+CSA_noUN: 
+time: 35.241  PT: 248.448    191.923
+CSA_noUN: 
+time: 37.438  PT: 362.976    151.646
+CSA_noUN: 
+time: 39.628  PT: 416.064    151.646
+CSA_noUN: 
+time: 41.814  PT: 207.306    110.069
+CSA_noUN: 
+time: 44.017  PT: 274.913    110.069
+CSA_noUN: 
+time: 46.202  PT: 265.101    110.069
+CSA_noUN: 
+time: 48.394  PT: 269.705    110.069
+CSA_noUN: 
+time: 50.59  PT: 462.06    110.069
+CSA_noUN: 
+time: 52.817  PT: 267.004    110.069
+CSA_noUN: 
+time: 55.027  PT: 305.694    110.069
+CSA_noUN: 
+time: 57.237  PT: 359.138    110.069
+CSA_noUN: 
+time: 59.436  PT: 598.351    110.069
+CSA_noUN: 
+time: 61.625  PT: 263.512    110.069
+CSA_noUN: 
+time: 63.82  PT: 277.978    110.069
+CSA_noUN: 
+time: 66.015  PT: 235.31    110.069
+CSA_noUN: 
+time: 68.198  PT: 151.285    110.069
+CSA_noUN: 
+time: 70.397  PT: 297.831    110.069
+CSA_noUN: 
+time: 72.588  PT: 269.135    110.069
+CSA_noUN: 
+time: 74.78  PT: 309.567    110.069
+CSA_noUN: 
+time: 76.974  PT: 290.075    110.069
+CSA_noUN: 
+time: 79.163  PT: 409.642    110.069
+CSA_noUN: 
+time: 81.356  PT: 146.956    110.069
+CSA_noUN: 
+time: 83.55  PT: 320.282    110.069
+CSA_noUN: 
+time: 85.759  PT: 338.894    110.069
+CSA_noUN: 
+time: 87.964  PT: 438.606    110.069
+CSA_noUN: 
+time: 90.159  PT: 300.367    94.5096
+CSA_noUN: 
+time: 92.361  PT: 196.078    80.266
+CSA_noUN: 
+time: 94.558  PT: 251.888    80.266
+CSA_noUN: 
+time: 96.765  PT: 200.586    80.266
+CSA_noUN: 
+time: 98.945  PT: 152.665    80.266
+CSA_noUN: 
+time: 101.144  PT: 332.005    80.266
+CSA_noUN: 
+time: 101.148  PT: 80.266
+GA: 
+time: 2.182  PT: 290.574    124.746
+GA: 
+time: 4.318  PT: 109.132    109.132
+GA: 
+time: 6.449  PT: 431.396    82.9453
+GA: 
+time: 8.587  PT: 335.644    82.9453
+GA: 
+time: 10.751  PT: 316.836    82.9453
+GA: 
+time: 12.907  PT: 377.03    82.9453
+GA: 
+time: 15.043  PT: 316.836    82.9453
+GA: 
+time: 17.165  PT: 199.106    82.9453
+GA: 
+time: 19.31  PT: 190.677    82.9453
+GA: 
+time: 21.449  PT: 199.106    82.9453
+GA: 
+time: 23.585  PT: 199.106    82.9453
+GA: 
+time: 25.724  PT: 191.423    82.9453
+GA: 
+time: 27.856  PT: 165.571    82.9453
+GA: 
+time: 30.002  PT: 165.571    82.9453
+GA: 
+time: 32.137  PT: 165.571    82.9453
+GA: 
+time: 34.283  PT: 165.571    82.9453
+GA: 
+time: 36.412  PT: 238.449    82.9453
+GA: 
+time: 38.566  PT: 362.266    82.9453
+GA: 
+time: 40.574  PT: 355.627    82.9453
+GA: 
+time: 42.578  PT: 312.193    82.9453
+GA: 
+time: 44.732  PT: 364.807    82.9453
+GA: 
+time: 46.867  PT: 118.36    82.9453
+GA: 
+time: 49.016  PT: 118.36    82.9453
+GA: 
+time: 51.153  PT: 215.654    82.9453
+GA: 
+time: 53.306  PT: 215.987    82.9453
+GA: 
+time: 55.458  PT: 282.273    82.9453
+GA: 
+time: 57.594  PT: 319.982    82.9453
+GA: 
+time: 59.735  PT: 352.857    82.9453
+GA: 
+time: 61.864  PT: 91.4633    82.9453
+GA: 
+time: 64  PT: 181.237    82.9453
+GA: 
+time: 66.135  PT: 252.842    82.9453
+GA: 
+time: 68.27  PT: 313.912    82.9453
+GA: 
+time: 70.429  PT: 158.703    82.9453
+GA: 
+time: 72.581  PT: 158.703    82.9453
+GA: 
+time: 74.708  PT: 240.837    82.9453
+GA: 
+time: 76.844  PT: 247.364    82.9453
+GA: 
+time: 78.971  PT: 247.364    82.9453
+GA: 
+time: 81.111  PT: 200.687    82.9453
+GA: 
+time: 83.247  PT: 289.275    82.9453
+GA: 
+time: 85.384  PT: 595.845    82.9453
+GA: 
+time: 87.471  PT: 172.855    82.9453
+GA: 
+time: 89.475  PT: 34.1553    82.9453
+GA: 
+time: 91.477  PT: 12.5123    82.9453
+GA: 
+time: 93.493  PT: 4.70058    82.9453
+GA: 
+time: 95.68  PT: 3.3883    82.9453
+GA: 
+time: 97.873  PT: 3.21088    82.9453
+GA: 
+time: 100.071  PT: 3.21088    82.9453
+GA: 
+time: 102.266  PT: 3.21088    82.9453
+GA: 
+time: 104.267  PT: 3.21088    82.9453
+GA: 
+time: 106.452  PT: 3.21088    82.9453
+GA: 
+time: 108.452  PT: 3.21088    82.9453
+GA: 
+time: 110.471  PT: 3.21088    82.9453
+GA: 
+time: 112.657  PT: 3.21088    82.9453
+GA: 
+time: 114.714  PT: 3.21088    82.9453
+GA: 
+time: 116.731  PT: 3.21088    82.9453
+GA: 
+time: 118.733  PT: 3.21088    82.9453
+GA: 
+time: 120.93  PT: 3.21088    82.9453
+GA: 
+time: 122.945  PT: 3.16362    82.9453
+GA: 
+time: 124.964  PT: 3.16362    82.9453
+GA: 
+time: 127.154  PT: 3.16362    82.9453
+GA: 
+time: 129.155  PT: 3.00982    82.9453
+GA: 
+time: 131.17  PT: 3.00982    82.9453
+GA: 
+time: 133.196  PT: 3.00982    82.9453
+GA: 
+time: 135.382  PT: 2.98292    82.9453
+GA: 
+time: 136.186  PT: 82.9453
+SA: 
+time: 2.1793  PT: 297.511    297.511
+SA: 
+time: 4.2769  PT: 237.753    237.753
+SA: 
+time: 6.2871  PT: 237.753    237.753
+SA: 
+time: 8.4759  PT: 237.753    237.753
+SA: 
+time: 10.5944  PT: 237.753    237.753
+SA: 
+time: 12.6179  PT: 199.536    199.536
+SA: 
+time: 14.7668  PT: 199.536    199.536
+SA: 
+time: 16.8587  PT: 199.536    199.536
+SA: 
+time: 18.9544  PT: 199.536    199.536
+SA: 
+time: 21.0653  PT: 194.213    194.213
+SA: 
+time: 23.1477  PT: 192.79    192.79
+SA: 
+time: 25.2529  PT: 188.678    188.678
+SA: 
+time: 27.36  PT: 188.678    188.678
+SA: 
+time: 29.4424  PT: 188.678    188.678
+SA: 
+time: 31.5381  PT: 188.678    188.678
+SA: 
+time: 33.6471  PT: 188.678    188.678
+SA: 
+time: 35.7352  PT: 188.678    188.678
+SA: 
+time: 37.8252  PT: 188.678    188.678
+SA: 
+time: 39.9095  PT: 188.678    188.678
+SA: 
+time: 42.0318  PT: 162.075    162.075
+SA: 
+time: 44.1218  PT: 162.075    162.075
+SA: 
+time: 46.2555  PT: 162.075    162.075
+SA: 
+time: 48.412  PT: 162.075    162.075
+SA: 
+time: 50.5381  PT: 118.941    118.941
+SA: 
+time: 52.6148  PT: 107.808    107.808
+SA: 
+time: 54.7162  PT: 107.808    107.808
+SA: 
+time: 56.8499  PT: 107.808    107.808
+SA: 
+time: 59.0026  PT: 103.235    103.235
+SA: 
+time: 61.0261  PT: 103.235    103.235
+SA: 
+time: 63.2111  PT: 102.047    102.047
+SA: 
+time: 65.2992  PT: 102.047    102.047
+SA: 
+time: 67.3436  PT: 102.047    102.047
+SA: 
+time: 69.5153  PT: 102.047    102.047
+SA: 
+time: 71.6262  PT: 101.524    101.524
+SA: 
+time: 73.7257  PT: 101.524    101.524
+SA: 
+time: 75.8138  PT: 100.66    100.66
+SA: 
+time: 77.8905  PT: 100.66    100.66
+SA: 
+time: 80.0223  PT: 100.66    100.66
+SA: 
+time: 82.1199  PT: 100.66    100.66
+SA: 
+time: 84.208  PT: 100.66    100.66
+SA: 
+time: 86.3113  PT: 100.66    100.66
+SA: 
+time: 88.4469  PT: 100.66    100.66
+SA: 
+time: 90.5711  PT: 84.7247    84.7247
+SA: 
+time: 92.7086  PT: 84.7247    84.7247
+SA: 
+time: 94.81  PT: 84.7247    84.7247
+SA: 
+time: 96.9304  PT: 48.3237    48.3237
+SA: 
+time: 99.0337  PT: 48.3237    48.3237
+SA: 
+time: 101.127  PT: 48.3237    48.3237
+SA: 
+time: 103.273  PT: 48.3237    48.3237
+SA: 
+time: 103.554  PT: 48.3237
+now T: 341.81 beta:1
+CSA_UN: 
+time: 81.871  PT: 60.4626
+CSA_noUN: 
+time: 2.292  PT: 269.117    145.825
+CSA_noUN: 
+time: 4.494  PT: 207.689    141.28
+CSA_noUN: 
+time: 6.705  PT: 275.832    141.28
+CSA_noUN: 
+time: 8.893  PT: 190.277    141.28
+CSA_noUN: 
+time: 11.103  PT: 171.754    141.28
+CSA_noUN: 
+time: 13.305  PT: 302.584    88.1402
+CSA_noUN: 
+time: 15.505  PT: 239.531    69.461
+CSA_noUN: 
+time: 17.704  PT: 339.998    69.461
+CSA_noUN: 
+time: 19.904  PT: 121.657    69.461
+CSA_noUN: 
+time: 22.106  PT: 113.103    69.461
+CSA_noUN: 
+time: 24.3  PT: 67.252    67.252
+CSA_noUN: 
+time: 26.499  PT: 386.923    67.252
+CSA_noUN: 
+time: 28.693  PT: 195.193    67.252
+CSA_noUN: 
+time: 30.888  PT: 216.216    67.252
+CSA_noUN: 
+time: 33.08  PT: 164.756    67.252
+CSA_noUN: 
+time: 35.266  PT: 395.67    67.252
+CSA_noUN: 
+time: 37.478  PT: 254.116    67.252
+CSA_noUN: 
+time: 39.693  PT: 235.026    67.252
+CSA_noUN: 
+time: 41.882  PT: 324.118    67.252
+CSA_noUN: 
+time: 44.079  PT: 292.66    67.252
+CSA_noUN: 
+time: 46.28  PT: 147.386    67.252
+CSA_noUN: 
+time: 48.475  PT: 208.365    67.252
+CSA_noUN: 
+time: 50.661  PT: 391.974    67.252
+CSA_noUN: 
+time: 52.863  PT: 177.921    67.252
+CSA_noUN: 
+time: 55.083  PT: 428.332    67.252
+CSA_noUN: 
+time: 57.28  PT: 221.424    67.252
+CSA_noUN: 
+time: 59.485  PT: 352.766    67.252
+CSA_noUN: 
+time: 61.672  PT: 181.783    67.252
+CSA_noUN: 
+time: 63.864  PT: 337.899    67.252
+CSA_noUN: 
+time: 66.07  PT: 478.64    67.252
+CSA_noUN: 
+time: 68.265  PT: 189.839    67.252
+CSA_noUN: 
+time: 70.471  PT: 266.461    67.252
+CSA_noUN: 
+time: 72.669  PT: 355.872    67.252
+CSA_noUN: 
+time: 74.885  PT: 96.0658    67.252
+CSA_noUN: 
+time: 77.085  PT: 195.462    67.252
+CSA_noUN: 
+time: 79.287  PT: 161.097    67.252
+CSA_noUN: 
+time: 81.511  PT: 339.769    67.252
+CSA_noUN: 
+time: 83.725  PT: 280.272    67.252
+CSA_noUN: 
+time: 85.924  PT: 217.402    67.252
+CSA_noUN: 
+time: 88.12  PT: 232.72    67.252
+CSA_noUN: 
+time: 90.327  PT: 264.767    67.252
+CSA_noUN: 
+time: 92.535  PT: 379.336    67.252
+CSA_noUN: 
+time: 94.732  PT: 183.651    67.252
+CSA_noUN: 
+time: 96.924  PT: 252.144    67.252
+CSA_noUN: 
+time: 99.177  PT: 198.827    67.252
+CSA_noUN: 
+time: 101.385  PT: 296.201    67.252
+CSA_noUN: 
+time: 101.388  PT: 67.252
+GA: 
+time: 2.186  PT: 135.107    135.107
+GA: 
+time: 4.306  PT: 135.107    135.107
+GA: 
+time: 6.457  PT: 113.845    113.845
+GA: 
+time: 8.589  PT: 113.845    113.845
+GA: 
+time: 10.725  PT: 113.845    113.845
+GA: 
+time: 12.848  PT: 113.845    113.845
+GA: 
+time: 14.999  PT: 113.845    113.845
+GA: 
+time: 17.128  PT: 127.248    113.845
+GA: 
+time: 19.267  PT: 127.248    113.845
+GA: 
+time: 21.413  PT: 235.642    113.845
+GA: 
+time: 23.548  PT: 196.099    113.845
+GA: 
+time: 25.681  PT: 228.47    113.845
+GA: 
+time: 27.84  PT: 244.291    113.845
+GA: 
+time: 29.98  PT: 165.606    113.845
+GA: 
+time: 32.114  PT: 311.567    113.845
+GA: 
+time: 34.244  PT: 311.567    113.845
+GA: 
+time: 36.384  PT: 202.514    113.845
+GA: 
+time: 38.54  PT: 238.49    113.845
+GA: 
+time: 40.696  PT: 238.49    113.845
+GA: 
+time: 42.829  PT: 238.49    113.845
+GA: 
+time: 44.966  PT: 238.49    113.845
+GA: 
+time: 47.118  PT: 221.424    113.845
+GA: 
+time: 49.294  PT: 221.424    113.845
+GA: 
+time: 51.441  PT: 171.56    113.845
+GA: 
+time: 53.618  PT: 238.411    113.845
+GA: 
+time: 55.751  PT: 171.56    113.845
+GA: 
+time: 57.932  PT: 113.952    113.845
+GA: 
+time: 60.082  PT: 113.952    113.845
+GA: 
+time: 62.213  PT: 138.226    113.845
+GA: 
+time: 64.352  PT: 118.127    113.845
+GA: 
+time: 66.476  PT: 118.127    113.845
+GA: 
+time: 68.628  PT: 147.802    113.845
+GA: 
+time: 70.775  PT: 226.052    113.845
+GA: 
+time: 72.899  PT: 226.052    113.845
+GA: 
+time: 75.04  PT: 247.315    113.845
+GA: 
+time: 77.189  PT: 447.079    113.845
+GA: 
+time: 79.34  PT: 178.934    113.845
+GA: 
+time: 81.479  PT: 198.56    113.845
+GA: 
+time: 83.628  PT: 198.56    113.845
+GA: 
+time: 85.774  PT: 198.56    113.845
+GA: 
+time: 87.839  PT: 69.76    113.845
+GA: 
+time: 89.847  PT: 10.3039    113.845
+GA: 
+time: 92.039  PT: 5.5449    113.845
+GA: 
+time: 94.224  PT: 4.7973    113.845
+GA: 
+time: 96.402  PT: 4.7073    113.845
+GA: 
+time: 98.597  PT: 4.7004    113.845
+GA: 
+time: 100.788  PT: 4.5966    113.845
+GA: 
+time: 102.984  PT: 4.3897    113.845
+GA: 
+time: 105.176  PT: 4.2259    113.845
+GA: 
+time: 107.184  PT: 4.2259    113.845
+GA: 
+time: 109.363  PT: 4.2259    113.845
+GA: 
+time: 111.554  PT: 4.2259    113.845
+GA: 
+time: 113.746  PT: 4.2259    113.845
+GA: 
+time: 115.771  PT: 4.2259    113.845
+GA: 
+time: 117.81  PT: 4.2259    113.845
+GA: 
+time: 119.82  PT: 4.2259    113.845
+GA: 
+time: 121.825  PT: 4.2259    113.845
+GA: 
+time: 123.828  PT: 4.2259    113.845
+GA: 
+time: 125.832  PT: 4.1159    113.845
+GA: 
+time: 127.844  PT: 4.039    113.845
+GA: 
+time: 130.037  PT: 3.8621    113.845
+GA: 
+time: 132.04  PT: 3.8621    113.845
+GA: 
+time: 134.041  PT: 3.8621    113.845
+GA: 
+time: 135.846  PT: 113.845
+SA: 
+time: 2.2097  PT: 149.702    149.702
+SA: 
+time: 4.3377  PT: 149.702    149.702
+SA: 
+time: 6.384  PT: 149.702    149.702
+SA: 
+time: 8.3923  PT: 149.702    149.702
+SA: 
+time: 10.4975  PT: 122.702    122.702
+SA: 
+time: 12.54  PT: 116.971    116.971
+SA: 
+time: 14.7516  PT: 116.971    116.971
+SA: 
+time: 16.853  PT: 116.971    116.971
+SA: 
+time: 18.8727  PT: 116.971    116.971
+SA: 
+time: 21.033  PT: 116.971    116.971
+SA: 
+time: 23.1249  PT: 116.971    116.971
+SA: 
+time: 25.2358  PT: 116.971    116.971
+SA: 
+time: 27.3258  PT: 116.971    116.971
+SA: 
+time: 29.4215  PT: 116.971    116.971
+SA: 
+time: 31.5058  PT: 116.971    116.971
+SA: 
+time: 33.5939  PT: 116.971    116.971
+SA: 
+time: 35.6858  PT: 116.971    116.971
+SA: 
+time: 37.8233  PT: 116.971    116.971
+SA: 
+time: 39.9209  PT: 116.971    116.971
+SA: 
+time: 42.0432  PT: 116.971    116.971
+SA: 
+time: 44.1864  PT: 116.971    116.971
+SA: 
+time: 46.2859  PT: 116.971    116.971
+SA: 
+time: 48.3949  PT: 116.971    116.971
+SA: 
+time: 50.4887  PT: 116.971    116.971
+SA: 
+time: 52.5768  PT: 116.971    116.971
+SA: 
+time: 54.6516  PT: 116.971    116.971
+SA: 
+time: 56.753  PT: 65.7775    65.7775
+SA: 
+time: 58.8525  PT: 64.4492    64.4492
+SA: 
+time: 61.0147  PT: 64.4492    64.4492
+SA: 
+time: 63.1408  PT: 63.67    63.67
+SA: 
+time: 65.2631  PT: 63.67    63.67
+SA: 
+time: 67.3189  PT: 63.67    63.67
+SA: 
+time: 69.5229  PT: 63.67    63.67
+SA: 
+time: 71.6642  PT: 63.67    63.67
+SA: 
+time: 73.7143  PT: 45.9392    45.9392
+SA: 
+time: 75.8727  PT: 44.2609    44.2609
+SA: 
+time: 78.0083  PT: 44.2609    44.2609
+SA: 
+time: 80.1724  PT: 44.2609    44.2609
+SA: 
+time: 82.2776  PT: 44.2609    44.2609
+SA: 
+time: 84.3657  PT: 44.2609    44.2609
+SA: 
+time: 86.4538  PT: 44.2609    44.2609
+SA: 
+time: 88.5419  PT: 44.2609    44.2609
+SA: 
+time: 90.63  PT: 44.2609    44.2609
+SA: 
+time: 92.7466  PT: 44.2609    44.2609
+SA: 
+time: 94.9031  PT: 44.2609    44.2609
+SA: 
+time: 97.0216  PT: 44.2609    44.2609
+SA: 
+time: 99.1192  PT: 44.2609    44.2609
+SA: 
+time: 101.213  PT: 44.2609    44.2609
+SA: 
+time: 103.305  PT: 44.2609    44.2609
+SA: 
+time: 103.772  PT: 44.2609
+now T: 341.81 beta:1
+CSA_UN: 
+time: 86.934  PT: 82.3762
+CSA_noUN: 
+time: 2.276  PT: 172.377    172.377
+CSA_noUN: 
+time: 4.463  PT: 356.465    172.377
+CSA_noUN: 
+time: 6.679  PT: 251.83    159.675
+CSA_noUN: 
+time: 8.881  PT: 243.68    159.675
+CSA_noUN: 
+time: 11.068  PT: 305.653    110.527
+CSA_noUN: 
+time: 13.254  PT: 399.306    110.527
+CSA_noUN: 
+time: 15.461  PT: 335.227    110.527
+CSA_noUN: 
+time: 17.676  PT: 453.127    110.527
+CSA_noUN: 
+time: 19.891  PT: 390.754    83.9549
+CSA_noUN: 
+time: 22.103  PT: 399.666    83.9549
+CSA_noUN: 
+time: 24.31  PT: 246.099    83.9549
+CSA_noUN: 
+time: 26.49  PT: 246.588    83.9549
+CSA_noUN: 
+time: 28.677  PT: 311.058    83.9549
+CSA_noUN: 
+time: 30.887  PT: 329.582    83.9549
+CSA_noUN: 
+time: 33.097  PT: 392.01    83.9549
+CSA_noUN: 
+time: 35.289  PT: 229.439    83.9549
+CSA_noUN: 
+time: 37.477  PT: 445.514    83.9549
+CSA_noUN: 
+time: 39.664  PT: 303.701    83.9549
+CSA_noUN: 
+time: 41.858  PT: 426.82    83.9549
+CSA_noUN: 
+time: 44.05  PT: 357.269    83.9549
+CSA_noUN: 
+time: 46.233  PT: 228.001    83.9549
+CSA_noUN: 
+time: 48.422  PT: 212.944    83.9549
+CSA_noUN: 
+time: 50.603  PT: 174.458    83.9549
+CSA_noUN: 
+time: 52.781  PT: 214.194    83.9549
+CSA_noUN: 
+time: 54.982  PT: 147.642    83.9549
+CSA_noUN: 
+time: 57.181  PT: 399.755    83.9549
+CSA_noUN: 
+time: 59.399  PT: 243.117    83.9549
+CSA_noUN: 
+time: 61.596  PT: 280.336    83.9549
+CSA_noUN: 
+time: 63.791  PT: 112.499    83.9549
+CSA_noUN: 
+time: 65.971  PT: 317.924    83.9549
+CSA_noUN: 
+time: 68.161  PT: 163.294    83.9549
+CSA_noUN: 
+time: 70.341  PT: 142.477    83.9549
+CSA_noUN: 
+time: 72.527  PT: 303.096    83.9549
+CSA_noUN: 
+time: 74.711  PT: 495.873    83.9549
+CSA_noUN: 
+time: 76.902  PT: 326.832    83.9549
+CSA_noUN: 
+time: 79.109  PT: 377.701    83.9549
+CSA_noUN: 
+time: 81.337  PT: 100.884    83.9549
+CSA_noUN: 
+time: 83.528  PT: 140.732    83.9549
+CSA_noUN: 
+time: 85.709  PT: 221.886    83.9549
+CSA_noUN: 
+time: 87.898  PT: 207.665    83.9549
+CSA_noUN: 
+time: 90.08  PT: 498.405    83.9549
+CSA_noUN: 
+time: 92.275  PT: 329.296    83.9549
+CSA_noUN: 
+time: 94.457  PT: 154.62    83.9549
+CSA_noUN: 
+time: 96.645  PT: 153.436    83.9549
+CSA_noUN: 
+time: 98.833  PT: 320.54    83.9549
+CSA_noUN: 
+time: 101.027  PT: 532.744    83.9549
+CSA_noUN: 
+time: 101.03  PT: 83.9549
+GA: 
+time: 2.186  PT: 292.678    292.678
+GA: 
+time: 4.326  PT: 417.346    236.611
+GA: 
+time: 6.455  PT: 417.346    236.611
+GA: 
+time: 8.616  PT: 343.366    236.611
+GA: 
+time: 10.769  PT: 278.081    236.611
+GA: 
+time: 12.897  PT: 278.081    236.611
+GA: 
+time: 15.023  PT: 278.081    236.611
+GA: 
+time: 17.149  PT: 278.081    236.611
+GA: 
+time: 19.287  PT: 320.361    236.611
+GA: 
+time: 21.422  PT: 395.363    236.611
+GA: 
+time: 23.574  PT: 397.214    236.611
+GA: 
+time: 25.701  PT: 397.214    236.611
+GA: 
+time: 27.842  PT: 484.946    236.611
+GA: 
+time: 29.97  PT: 397.831    236.611
+GA: 
+time: 32.1  PT: 219.029    219.029
+GA: 
+time: 34.228  PT: 137.482    137.482
+GA: 
+time: 36.355  PT: 219.029    137.482
+GA: 
+time: 38.501  PT: 218.005    137.482
+GA: 
+time: 40.649  PT: 218.005    137.482
+GA: 
+time: 42.783  PT: 176.413    137.482
+GA: 
+time: 44.901  PT: 176.413    137.482
+GA: 
+time: 47.045  PT: 234.113    137.482
+GA: 
+time: 49.173  PT: 192.685    137.482
+GA: 
+time: 51.294  PT: 357.819    137.482
+GA: 
+time: 53.422  PT: 384.765    137.482
+GA: 
+time: 55.56  PT: 358.444    137.482
+GA: 
+time: 57.692  PT: 424.692    137.482
+GA: 
+time: 59.827  PT: 316.18    137.482
+GA: 
+time: 61.969  PT: 303.088    137.482
+GA: 
+time: 64.118  PT: 303.088    137.482
+GA: 
+time: 66.239  PT: 328.294    137.482
+GA: 
+time: 68.367  PT: 452.36    137.482
+GA: 
+time: 70.489  PT: 452.36    137.482
+GA: 
+time: 72.64  PT: 391.402    137.482
+GA: 
+time: 74.774  PT: 409.58    137.482
+GA: 
+time: 76.906  PT: 409.58    137.482
+GA: 
+time: 79.049  PT: 395.392    137.482
+GA: 
+time: 81.183  PT: 416.403    137.482
+GA: 
+time: 83.318  PT: 354.182    137.482
+GA: 
+time: 85.455  PT: 354.182    137.482
+GA: 
+time: 87.514  PT: 64.8    137.482
+GA: 
+time: 89.517  PT: 15.7945    137.482
+GA: 
+time: 91.721  PT: 11.0834    137.482
+GA: 
+time: 93.721  PT: 9.89266    137.482
+GA: 
+time: 95.902  PT: 9.74886    137.482
+GA: 
+time: 97.925  PT: 9.54436    137.482
+GA: 
+time: 100.116  PT: 8.81296    137.482
+GA: 
+time: 102.138  PT: 8.81296    137.482
+GA: 
+time: 104.323  PT: 8.65606    137.482
+GA: 
+time: 106.517  PT: 8.51916    137.482
+GA: 
+time: 108.535  PT: 8.51916    137.482
+GA: 
+time: 110.542  PT: 8.51916    137.482
+GA: 
+time: 112.724  PT: 8.51916    137.482
+GA: 
+time: 114.902  PT: 8.49226    137.482
+GA: 
+time: 117.096  PT: 8.49226    137.482
+GA: 
+time: 119.098  PT: 8.49226    137.482
+GA: 
+time: 121.111  PT: 8.49226    137.482
+GA: 
+time: 123.119  PT: 8.49226    137.482
+GA: 
+time: 125.312  PT: 8.49226    137.482
+GA: 
+time: 127.5  PT: 8.22846    137.482
+GA: 
+time: 129.685  PT: 8.08156    137.482
+GA: 
+time: 131.87  PT: 8.08156    137.482
+GA: 
+time: 134.053  PT: 8.08156    137.482
+GA: 
+time: 135.454  PT: 137.482
+SA: 
+time: 2.0216  PT: 271.611    271.611
+SA: 
+time: 4.1306  PT: 271.611    271.611
+SA: 
+time: 6.2301  PT: 271.611    271.611
+SA: 
+time: 8.3372  PT: 271.611    271.611
+SA: 
+time: 10.4348  PT: 271.611    271.611
+SA: 
+time: 12.5039  PT: 250.699    250.699
+SA: 
+time: 14.6319  PT: 250.699    250.699
+SA: 
+time: 16.72  PT: 167.828    167.828
+SA: 
+time: 18.7948  PT: 167.828    167.828
+SA: 
+time: 20.8848  PT: 167.828    167.828
+SA: 
+time: 22.971  PT: 167.828    167.828
+SA: 
+time: 25.0781  PT: 167.828    167.828
+SA: 
+time: 27.189  PT: 167.828    167.828
+SA: 
+time: 29.2942  PT: 167.828    167.828
+SA: 
+time: 31.3747  PT: 140.184    140.184
+SA: 
+time: 33.4704  PT: 140.184    140.184
+SA: 
+time: 35.549  PT: 140.184    140.184
+SA: 
+time: 37.639  PT: 140.184    140.184
+SA: 
+time: 39.7309  PT: 140.184    140.184
+SA: 
+time: 41.8665  PT: 128.61    128.61
+SA: 
+time: 44.0344  PT: 128.61    128.61
+SA: 
+time: 46.1263  PT: 128.61    128.61
+SA: 
+time: 48.2087  PT: 128.61    128.61
+SA: 
+time: 50.3139  PT: 128.61    128.61
+SA: 
+time: 52.3887  PT: 128.61    128.61
+SA: 
+time: 54.4863  PT: 128.61    128.61
+SA: 
+time: 56.5801  PT: 128.61    128.61
+SA: 
+time: 58.6815  PT: 128.61    128.61
+SA: 
+time: 60.7962  PT: 128.61    128.61
+SA: 
+time: 62.8919  PT: 128.61    128.61
+SA: 
+time: 64.9629  PT: 128.61    128.61
+SA: 
+time: 66.9731  PT: 128.61    128.61
+SA: 
+time: 69.1486  PT: 128.61    128.61
+SA: 
+time: 71.2728  PT: 105.46    105.46
+SA: 
+time: 73.2773  PT: 105.46    105.46
+SA: 
+time: 75.4395  PT: 97.0109    97.0109
+SA: 
+time: 77.5219  PT: 97.0109    97.0109
+SA: 
+time: 79.6081  PT: 97.0109    97.0109
+SA: 
+time: 81.7114  PT: 84.7977    84.7977
+SA: 
+time: 83.79  PT: 84.7977    84.7977
+SA: 
+time: 85.8781  PT: 84.7977    84.7977
+SA: 
+time: 87.9719  PT: 83.567    83.567
+SA: 
+time: 90.0923  PT: 83.567    83.567
+SA: 
+time: 92.1861  PT: 81.7194    81.7194
+SA: 
+time: 94.2856  PT: 76.2093    76.2093
+SA: 
+time: 96.4212  PT: 76.2093    76.2093
+SA: 
+time: 98.5264  PT: 74.1387    74.1387
+SA: 
+time: 100.63  PT: 74.1387    74.1387
+SA: 
+time: 102.752  PT: 70.1197    70.1197
+SA: 
+time: 103.231  PT: 70.1197
+now T: 341.81 beta:1
+CSA_UN: 
+time: 86.911  PT: 105.982
+CSA_noUN: 
+time: 2.291  PT: 265.84    128.934
+CSA_noUN: 
+time: 4.526  PT: 243.835    128.934
+CSA_noUN: 
+time: 6.719  PT: 336.04    128.934
+CSA_noUN: 
+time: 8.908  PT: 185.753    128.934
+CSA_noUN: 
+time: 11.095  PT: 381.234    128.934
+CSA_noUN: 
+time: 13.296  PT: 167.196    128.934
+CSA_noUN: 
+time: 15.491  PT: 289.44    106.998
+CSA_noUN: 
+time: 17.683  PT: 358.648    106.998
+CSA_noUN: 
+time: 19.866  PT: 247.09    106.998
+CSA_noUN: 
+time: 22.073  PT: 291.483    106.998
+CSA_noUN: 
+time: 24.274  PT: 376.706    106.998
+CSA_noUN: 
+time: 26.462  PT: 267.027    78.9231
+CSA_noUN: 
+time: 28.655  PT: 355.089    78.9231
+CSA_noUN: 
+time: 30.849  PT: 173.377    78.9231
+CSA_noUN: 
+time: 33.06  PT: 263.7    78.9231
+CSA_noUN: 
+time: 35.264  PT: 265.934    78.9231
+CSA_noUN: 
+time: 37.452  PT: 309.108    78.9231
+CSA_noUN: 
+time: 39.645  PT: 251.965    78.9231
+CSA_noUN: 
+time: 41.834  PT: 364.364    78.9231
+CSA_noUN: 
+time: 44.022  PT: 185.322    78.9231
+CSA_noUN: 
+time: 46.227  PT: 322.895    78.9231
+CSA_noUN: 
+time: 48.415  PT: 194.613    78.9231
+CSA_noUN: 
+time: 50.609  PT: 216.394    78.9231
+CSA_noUN: 
+time: 52.799  PT: 212.844    78.9231
+CSA_noUN: 
+time: 54.988  PT: 358.012    78.9231
+CSA_noUN: 
+time: 57.178  PT: 242.119    78.9231
+CSA_noUN: 
+time: 59.379  PT: 299.459    78.9231
+CSA_noUN: 
+time: 61.594  PT: 504.728    78.9231
+CSA_noUN: 
+time: 63.807  PT: 265.629    78.9231
+CSA_noUN: 
+time: 66.004  PT: 389.498    78.9231
+CSA_noUN: 
+time: 68.193  PT: 223.436    78.9231
+CSA_noUN: 
+time: 70.384  PT: 267.981    78.9231
+CSA_noUN: 
+time: 72.579  PT: 125.224    78.9231
+CSA_noUN: 
+time: 74.766  PT: 251.987    78.9231
+CSA_noUN: 
+time: 76.954  PT: 154.24    78.9231
+CSA_noUN: 
+time: 79.145  PT: 313.5    78.9231
+CSA_noUN: 
+time: 81.333  PT: 336.86    78.9231
+CSA_noUN: 
+time: 83.521  PT: 223.229    78.9231
+CSA_noUN: 
+time: 85.716  PT: 119.355    78.9231
+CSA_noUN: 
+time: 87.903  PT: 185.897    78.9231
+CSA_noUN: 
+time: 90.091  PT: 250.5    78.9231
+CSA_noUN: 
+time: 92.278  PT: 205.803    78.9231
+CSA_noUN: 
+time: 94.489  PT: 183.063    78.9231
+CSA_noUN: 
+time: 96.705  PT: 308.973    78.9231
+CSA_noUN: 
+time: 98.901  PT: 226.791    78.9231
+CSA_noUN: 
+time: 101.087  PT: 285.842    78.9231
+CSA_noUN: 
+time: 101.091  PT: 78.9231
+GA: 
+time: 2.172  PT: 221.719    198.63
+GA: 
+time: 4.305  PT: 239.112    198.63
+GA: 
+time: 6.456  PT: 233.953    198.63
+GA: 
+time: 8.636  PT: 297.236    198.63
+GA: 
+time: 10.786  PT: 297.236    198.63
+GA: 
+time: 12.905  PT: 401.304    198.63
+GA: 
+time: 15.055  PT: 401.304    198.63
+GA: 
+time: 17.177  PT: 298.828    198.63
+GA: 
+time: 19.333  PT: 401.304    198.63
+GA: 
+time: 21.456  PT: 350.104    198.63
+GA: 
+time: 23.596  PT: 350.104    198.63
+GA: 
+time: 25.745  PT: 350.531    198.63
+GA: 
+time: 27.916  PT: 359.892    198.63
+GA: 
+time: 30.056  PT: 324.7    198.63
+GA: 
+time: 32.191  PT: 211.937    198.63
+GA: 
+time: 34.32  PT: 211.937    198.63
+GA: 
+time: 36.449  PT: 325.063    198.63
+GA: 
+time: 38.591  PT: 325.063    198.63
+GA: 
+time: 40.727  PT: 325.063    198.63
+GA: 
+time: 42.863  PT: 359.892    198.63
+GA: 
+time: 44.999  PT: 359.892    198.63
+GA: 
+time: 47.136  PT: 359.892    198.63
+GA: 
+time: 49.283  PT: 359.892    198.63
+GA: 
+time: 51.417  PT: 334.251    198.63
+GA: 
+time: 53.546  PT: 230.834    198.63
+GA: 
+time: 55.669  PT: 293.659    163.68
+GA: 
+time: 57.795  PT: 289.223    163.68
+GA: 
+time: 59.927  PT: 289.223    163.68
+GA: 
+time: 62.056  PT: 289.223    163.68
+GA: 
+time: 64.178  PT: 255.949    163.68
+GA: 
+time: 66.327  PT: 255.949    163.68
+GA: 
+time: 68.474  PT: 101.196    163.68
+GA: 
+time: 70.609  PT: 180.489    163.68
+GA: 
+time: 72.79  PT: 160.225    163.68
+GA: 
+time: 74.935  PT: 190.991    163.68
+GA: 
+time: 77.092  PT: 251.231    163.68
+GA: 
+time: 79.25  PT: 254.849    163.68
+GA: 
+time: 81.405  PT: 251.231    163.68
+GA: 
+time: 83.552  PT: 251.231    163.68
+GA: 
+time: 85.682  PT: 152.158    163.68
+GA: 
+time: 87.772  PT: 49.8266    163.68
+GA: 
+time: 89.959  PT: 23.0157    163.68
+GA: 
+time: 91.973  PT: 15.794    163.68
+GA: 
+time: 93.992  PT: 15.038    163.68
+GA: 
+time: 95.996  PT: 13.7216    163.68
+GA: 
+time: 98.194  PT: 12.805    163.68
+GA: 
+time: 100.195  PT: 12.1734    163.68
+GA: 
+time: 102.223  PT: 11.7736    163.68
+GA: 
+time: 104.232  PT: 11.7267    163.68
+GA: 
+time: 106.425  PT: 11.7267    163.68
+GA: 
+time: 108.612  PT: 11.7267    163.68
+GA: 
+time: 110.796  PT: 11.7267    163.68
+GA: 
+time: 112.993  PT: 11.7267    163.68
+GA: 
+time: 115.183  PT: 11.7267    163.68
+GA: 
+time: 117.185  PT: 11.7267    163.68
+GA: 
+time: 119.298  PT: 11.7267    163.68
+GA: 
+time: 121.32  PT: 11.7267    163.68
+GA: 
+time: 123.511  PT: 11.6798    163.68
+GA: 
+time: 125.702  PT: 11.6798    163.68
+GA: 
+time: 127.889  PT: 11.6798    163.68
+GA: 
+time: 129.891  PT: 11.6798    163.68
+GA: 
+time: 132.071  PT: 11.6798    163.68
+GA: 
+time: 134.261  PT: 11.6798    163.68
+GA: 
+time: 135.859  PT: 163.68
+SA: 
+time: 2.2021  PT: 360.334    360.334
+SA: 
+time: 4.351  PT: 224.635    224.635
+SA: 
+time: 6.3783  PT: 224.635    224.635
+SA: 
+time: 8.4588  PT: 224.635    224.635
+SA: 
+time: 10.5583  PT: 224.635    224.635
+SA: 
+time: 12.5875  PT: 224.635    224.635
+SA: 
+time: 14.7953  PT: 224.635    224.635
+SA: 
+time: 16.9138  PT: 176.79    176.79
+SA: 
+time: 18.924  PT: 176.79    176.79
+SA: 
+time: 21.1204  PT: 176.79    176.79
+SA: 
+time: 23.2332  PT: 170.304    170.304
+SA: 
+time: 25.3612  PT: 170.304    170.304
+SA: 
+time: 27.4398  PT: 141.45    141.45
+SA: 
+time: 29.5279  PT: 141.45    141.45
+SA: 
+time: 31.7072  PT: 141.45    141.45
+SA: 
+time: 33.8751  PT: 141.45    141.45
+SA: 
+time: 36.0164  PT: 135.514    135.514
+SA: 
+time: 38.1026  PT: 135.514    135.514
+SA: 
+time: 40.1888  PT: 106.559    106.559
+SA: 
+time: 42.2712  PT: 106.559    106.559
+SA: 
+time: 44.3631  PT: 106.559    106.559
+SA: 
+time: 46.4493  PT: 106.559    106.559
+SA: 
+time: 48.5431  PT: 106.559    106.559
+SA: 
+time: 50.6312  PT: 106.559    106.559
+SA: 
+time: 52.7136  PT: 105.699    105.699
+SA: 
+time: 54.7941  PT: 105.699    105.699
+SA: 
+time: 56.9107  PT: 105.699    105.699
+SA: 
+time: 58.9969  PT: 105.699    105.699
+SA: 
+time: 61.0774  PT: 105.699    105.699
+SA: 
+time: 63.1655  PT: 102.803    102.803
+SA: 
+time: 65.2498  PT: 102.803    102.803
+SA: 
+time: 67.2581  PT: 102.803    102.803
+SA: 
+time: 69.4336  PT: 64.524    64.524
+SA: 
+time: 71.5084  PT: 64.524    64.524
+SA: 
+time: 73.5129  PT: 63.8364    63.8364
+SA: 
+time: 75.6789  PT: 42.2417    42.2417
+SA: 
+time: 77.7879  PT: 42.2415    42.2415
+SA: 
+time: 79.8912  PT: 41.1139    41.1139
+SA: 
+time: 81.9755  PT: 41.1139    41.1139
+SA: 
+time: 84.0579  PT: 41.1139    41.1139
+SA: 
+time: 86.1897  PT: 41.1139    41.1139
+SA: 
+time: 88.2892  PT: 41.1139    41.1139
+SA: 
+time: 90.3944  PT: 41.1139    41.1139
+SA: 
+time: 92.4787  PT: 41.1139    41.1139
+SA: 
+time: 94.5611  PT: 41.1139    41.1139
+SA: 
+time: 96.6967  PT: 41.1139    41.1139
+SA: 
+time: 98.7924  PT: 41.1139    41.1139
+SA: 
+time: 100.888  PT: 41.1139    41.1139
+SA: 
+time: 102.959  PT: 41.1139    41.1139
+SA: 
+time: 103.427  PT: 41.1139
+now T: 341.81 beta:1
+CSA_UN: 
+time: 87.664  PT: 62.7326
+CSA_noUN: 
+time: 2.281  PT: 271.301    187.698
+CSA_noUN: 
+time: 4.474  PT: 355.826    142.4
+CSA_noUN: 
+time: 6.667  PT: 220.246    142.4
+CSA_noUN: 
+time: 8.848  PT: 323.103    142.4
+CSA_noUN: 
+time: 11.041  PT: 284.698    142.4
+CSA_noUN: 
+time: 13.235  PT: 384.323    142.4
+CSA_noUN: 
+time: 15.41  PT: 388.947    142.4
+CSA_noUN: 
+time: 17.608  PT: 375.686    142.4
+CSA_noUN: 
+time: 19.79  PT: 520.564    142.4
+CSA_noUN: 
+time: 21.976  PT: 293.448    142.4
+CSA_noUN: 
+time: 24.173  PT: 353.226    142.4
+CSA_noUN: 
+time: 26.353  PT: 305.058    142.4
+CSA_noUN: 
+time: 28.538  PT: 238.959    142.4
+CSA_noUN: 
+time: 30.729  PT: 274.191    142.4
+CSA_noUN: 
+time: 32.922  PT: 279.311    142.4
+CSA_noUN: 
+time: 35.115  PT: 320.692    142.4
+CSA_noUN: 
+time: 37.3  PT: 216.688    142.4
+CSA_noUN: 
+time: 39.517  PT: 309.982    142.4
+CSA_noUN: 
+time: 41.727  PT: 226.168    142.4
+CSA_noUN: 
+time: 43.943  PT: 258.991    142.4
+CSA_noUN: 
+time: 46.123  PT: 318.803    142.4
+CSA_noUN: 
+time: 48.306  PT: 364.5    142.4
+CSA_noUN: 
+time: 50.504  PT: 241.161    142.4
+CSA_noUN: 
+time: 52.694  PT: 302.331    142.4
+CSA_noUN: 
+time: 54.89  PT: 216.08    142.4
+CSA_noUN: 
+time: 57.074  PT: 449.671    142.4
+CSA_noUN: 
+time: 59.266  PT: 255.419    142.4
+CSA_noUN: 
+time: 61.455  PT: 272.804    142.4
+CSA_noUN: 
+time: 63.653  PT: 321.464    142.4
+CSA_noUN: 
+time: 65.838  PT: 290.043    142.4
+CSA_noUN: 
+time: 68.054  PT: 497.241    142.4
+CSA_noUN: 
+time: 70.249  PT: 430.832    142.4
+CSA_noUN: 
+time: 72.446  PT: 269.789    142.4
+CSA_noUN: 
+time: 74.637  PT: 248.699    142.4
+CSA_noUN: 
+time: 76.826  PT: 313.775    142.4
+CSA_noUN: 
+time: 79.009  PT: 251.849    142.4
+CSA_noUN: 
+time: 81.205  PT: 243.731    142.4
+CSA_noUN: 
+time: 83.417  PT: 320.469    142.4
+CSA_noUN: 
+time: 85.599  PT: 188.618    142.4
+CSA_noUN: 
+time: 87.786  PT: 396.581    142.4
+CSA_noUN: 
+time: 89.983  PT: 362.666    142.4
+CSA_noUN: 
+time: 92.192  PT: 363.959    142.4
+CSA_noUN: 
+time: 94.386  PT: 400.372    142.4
+CSA_noUN: 
+time: 96.583  PT: 379.648    142.4
+CSA_noUN: 
+time: 98.784  PT: 182.143    142.4
+CSA_noUN: 
+time: 100.998  PT: 147.58    142.4
+CSA_noUN: 
+time: 101.002  PT: 142.4
+GA: 
+time: 2.204  PT: 277.438    235.978
+GA: 
+time: 4.332  PT: 256.616    235.978
+GA: 
+time: 6.479  PT: 256.616    235.978
+GA: 
+time: 8.624  PT: 162.922    162.922
+GA: 
+time: 10.749  PT: 393.519    162.922
+GA: 
+time: 12.897  PT: 349.923    162.922
+GA: 
+time: 15.025  PT: 204.781    162.922
+GA: 
+time: 17.154  PT: 210.433    140.827
+GA: 
+time: 19.293  PT: 185.004    140.827
+GA: 
+time: 21.452  PT: 185.004    140.827
+GA: 
+time: 23.612  PT: 329.471    140.827
+GA: 
+time: 25.751  PT: 329.471    140.827
+GA: 
+time: 27.89  PT: 322.392    140.827
+GA: 
+time: 30.011  PT: 322.392    140.827
+GA: 
+time: 32.144  PT: 340.149    140.827
+GA: 
+time: 34.284  PT: 345.582    140.827
+GA: 
+time: 36.439  PT: 345.582    140.827
+GA: 
+time: 38.59  PT: 345.582    140.827
+GA: 
+time: 40.735  PT: 345.582    140.827
+GA: 
+time: 42.881  PT: 170.508    140.827
+GA: 
+time: 45.014  PT: 345.582    140.827
+GA: 
+time: 47.195  PT: 352.853    140.827
+GA: 
+time: 49.363  PT: 352.427    140.827
+GA: 
+time: 51.508  PT: 253.096    140.827
+GA: 
+time: 53.645  PT: 286.73    140.827
+GA: 
+time: 55.77  PT: 298.907    140.827
+GA: 
+time: 57.909  PT: 232.339    140.827
+GA: 
+time: 60.094  PT: 298.907    140.827
+GA: 
+time: 62.259  PT: 273.699    140.827
+GA: 
+time: 64.387  PT: 273.699    140.827
+GA: 
+time: 66.527  PT: 312.472    140.827
+GA: 
+time: 68.691  PT: 312.472    140.827
+GA: 
+time: 70.847  PT: 312.472    140.827
+GA: 
+time: 72.976  PT: 312.472    140.827
+GA: 
+time: 75.108  PT: 293.208    140.827
+GA: 
+time: 77.234  PT: 254.469    140.827
+GA: 
+time: 79.382  PT: 375.188    140.827
+GA: 
+time: 81.536  PT: 236.972    140.827
+GA: 
+time: 83.701  PT: 236.972    140.827
+GA: 
+time: 85.832  PT: 236.972    140.827
+GA: 
+time: 87.885  PT: 53.7991    140.827
+GA: 
+time: 90.065  PT: 20.596    140.827
+GA: 
+time: 92.258  PT: 10.3027    140.827
+GA: 
+time: 94.407  PT: 9.79962    140.827
+GA: 
+time: 96.41  PT: 8.78132    140.827
+GA: 
+time: 98.416  PT: 8.78132    140.827
+GA: 
+time: 100.61  PT: 8.35062    140.827
+GA: 
+time: 102.813  PT: 8.2008    140.827
+GA: 
+time: 105.009  PT: 8.2008    140.827
+GA: 
+time: 107.015  PT: 8.2008    140.827
+GA: 
+time: 109.21  PT: 8.14062    140.827
+GA: 
+time: 111.396  PT: 7.97372    140.827
+GA: 
+time: 113.583  PT: 7.86302    140.827
+GA: 
+time: 115.589  PT: 7.86302    140.827
+GA: 
+time: 117.776  PT: 7.86302    140.827
+GA: 
+time: 119.793  PT: 7.86302    140.827
+GA: 
+time: 121.805  PT: 7.86302    140.827
+GA: 
+time: 123.859  PT: 7.86302    140.827
+GA: 
+time: 126.05  PT: 7.78612    140.827
+GA: 
+time: 128.232  PT: 7.78612    140.827
+GA: 
+time: 130.413  PT: 7.78612    140.827
+GA: 
+time: 132.416  PT: 7.69922    140.827
+GA: 
+time: 134.605  PT: 7.69922    140.827
+GA: 
+time: 135.997  PT: 140.827
+SA: 
+time: 2.0786  PT: 140.541    140.541
+SA: 
+time: 4.2579  PT: 140.541    140.541
+SA: 
+time: 6.3726  PT: 140.541    140.541
+SA: 
+time: 8.474  PT: 140.541    140.541
+SA: 
+time: 10.5697  PT: 140.541    140.541
+SA: 
+time: 12.6122  PT: 140.541    140.541
+SA: 
+time: 14.7877  PT: 140.541    140.541
+SA: 
+time: 16.8834  PT: 140.541    140.541
+SA: 
+time: 18.9126  PT: 140.541    140.541
+SA: 
+time: 21.0976  PT: 140.541    140.541
+SA: 
+time: 23.2009  PT: 137.242    137.242
+SA: 
+time: 25.2757  PT: 137.242    137.242
+SA: 
+time: 27.3657  PT: 137.242    137.242
+SA: 
+time: 29.4595  PT: 116.191    116.191
+SA: 
+time: 31.5495  PT: 116.191    116.191
+SA: 
+time: 33.63  PT: 116.191    116.191
+SA: 
+time: 35.7542  PT: 116.191    116.191
+SA: 
+time: 37.8974  PT: 116.191    116.191
+SA: 
+time: 39.9893  PT: 116.191    116.191
+SA: 
+time: 42.104  PT: 108.747    108.747
+SA: 
+time: 44.194  PT: 108.28    108.28
+SA: 
+time: 46.3106  PT: 108.28    108.28
+SA: 
+time: 48.4063  PT: 84.7488    84.7488
+SA: 
+time: 50.5077  PT: 84.4719    84.4719
+SA: 
+time: 52.6091  PT: 82.1867    82.1867
+SA: 
+time: 54.7371  PT: 82.1867    82.1867
+SA: 
+time: 56.8898  PT: 82.1867    82.1867
+SA: 
+time: 58.9988  PT: 82.1867    82.1867
+SA: 
+time: 61.1268  PT: 82.1867    82.1867
+SA: 
+time: 63.2472  PT: 82.1867    82.1867
+SA: 
+time: 65.3334  PT: 82.1867    82.1867
+SA: 
+time: 67.3569  PT: 78.2177    78.2177
+SA: 
+time: 69.5191  PT: 78.2177    78.2177
+SA: 
+time: 71.6015  PT: 71.0497    71.0497
+SA: 
+time: 73.6383  PT: 71.0497    71.0497
+SA: 
+time: 75.8309  PT: 71.0497    71.0497
+SA: 
+time: 77.9418  PT: 66.4331    66.4331
+SA: 
+time: 80.0812  PT: 66.4331    66.4331
+SA: 
+time: 82.2339  PT: 66.4331    66.4331
+SA: 
+time: 84.3334  PT: 66.4331    66.4331
+SA: 
+time: 86.4614  PT: 66.4331    66.4331
+SA: 
+time: 88.5647  PT: 65.5424    65.5424
+SA: 
+time: 90.7288  PT: 43.7788    43.7788
+SA: 
+time: 92.891  PT: 43.7788    43.7788
+SA: 
+time: 95  PT: 43.7788    43.7788
+SA: 
+time: 97.0729  PT: 43.7788    43.7788
+SA: 
+time: 99.2047  PT: 19.7195    19.7195
+SA: 
+time: 101.333  PT: 19.7193    19.7193
+SA: 
+time: 103.44  PT: 19.7193    19.7193
+SA: 
+time: 103.905  PT: 19.7193
+now T: 341.81 beta:1
+CSA_UN: 
+time: 84.178  PT: 80.287
+CSA_noUN: 
+time: 2.278  PT: 338.363    221.182
+CSA_noUN: 
+time: 4.498  PT: 215.16    215.16
+CSA_noUN: 
+time: 6.696  PT: 307.497    215.16
+CSA_noUN: 
+time: 8.9  PT: 558.82    215.16
+CSA_noUN: 
+time: 11.082  PT: 257.492    215.16
+CSA_noUN: 
+time: 13.28  PT: 425.156    215.16
+CSA_noUN: 
+time: 15.52  PT: 470.984    215.16
+CSA_noUN: 
+time: 17.741  PT: 217.799    215.16
+CSA_noUN: 
+time: 19.93  PT: 290.008    215.16
+CSA_noUN: 
+time: 22.124  PT: 367.847    156.842
+CSA_noUN: 
+time: 24.322  PT: 267.316    156.842
+CSA_noUN: 
+time: 26.54  PT: 387.474    156.842
+CSA_noUN: 
+time: 28.761  PT: 238.105    156.842
+CSA_noUN: 
+time: 30.951  PT: 258.578    156.842
+CSA_noUN: 
+time: 33.14  PT: 273.264    156.842
+CSA_noUN: 
+time: 35.34  PT: 320.399    156.842
+CSA_noUN: 
+time: 37.525  PT: 159.611    156.842
+CSA_noUN: 
+time: 39.737  PT: 235.419    156.329
+CSA_noUN: 
+time: 41.929  PT: 385.978    156.329
+CSA_noUN: 
+time: 44.133  PT: 338.209    156.329
+CSA_noUN: 
+time: 46.335  PT: 284.64    156.329
+CSA_noUN: 
+time: 48.56  PT: 376.738    156.329
+CSA_noUN: 
+time: 50.746  PT: 511.602    156.329
+CSA_noUN: 
+time: 52.958  PT: 285.04    156.329
+CSA_noUN: 
+time: 55.18  PT: 351.374    156.329
+CSA_noUN: 
+time: 57.377  PT: 267.816    156.329
+CSA_noUN: 
+time: 59.573  PT: 336.072    156.329
+CSA_noUN: 
+time: 61.765  PT: 183.785    156.329
+CSA_noUN: 
+time: 63.969  PT: 172.201    156.329
+CSA_noUN: 
+time: 66.201  PT: 222.054    156.329
+CSA_noUN: 
+time: 68.436  PT: 318.08    156.329
+CSA_noUN: 
+time: 70.625  PT: 468.091    156.329
+CSA_noUN: 
+time: 72.815  PT: 317.569    156.329
+CSA_noUN: 
+time: 75.013  PT: 428.061    136.442
+CSA_noUN: 
+time: 77.208  PT: 406.733    136.442
+CSA_noUN: 
+time: 79.402  PT: 249.586    136.442
+CSA_noUN: 
+time: 81.593  PT: 277.176    136.442
+CSA_noUN: 
+time: 83.784  PT: 288.046    136.442
+CSA_noUN: 
+time: 86.003  PT: 337.345    136.442
+CSA_noUN: 
+time: 88.211  PT: 156.533    136.442
+CSA_noUN: 
+time: 90.401  PT: 279.978    136.442
+CSA_noUN: 
+time: 92.592  PT: 183.97    136.442
+CSA_noUN: 
+time: 94.788  PT: 368.283    136.442
+CSA_noUN: 
+time: 96.97  PT: 329.737    136.442
+CSA_noUN: 
+time: 99.16  PT: 330.772    136.442
+CSA_noUN: 
+time: 101.342  PT: 305.467    136.442
+CSA_noUN: 
+time: 101.345  PT: 136.442
+GA: 
+time: 2.18  PT: 226.422    220.025
+GA: 
+time: 4.33  PT: 208.789    168.97
+GA: 
+time: 6.34  PT: 441.63    155.669
+GA: 
+time: 8.489  PT: 292.703    155.669
+GA: 
+time: 10.64  PT: 475.52    155.669
+GA: 
+time: 12.775  PT: 475.52    155.669
+GA: 
+time: 14.901  PT: 475.52    155.669
+GA: 
+time: 17.042  PT: 231.922    155.669
+GA: 
+time: 19.254  PT: 198.923    155.669
+GA: 
+time: 21.396  PT: 198.923    155.669
+GA: 
+time: 23.56  PT: 198.923    155.669
+GA: 
+time: 25.757  PT: 198.923    155.669
+GA: 
+time: 27.9  PT: 225.869    155.669
+GA: 
+time: 30.049  PT: 225.869    155.669
+GA: 
+time: 32.213  PT: 225.869    155.669
+GA: 
+time: 34.366  PT: 225.869    155.669
+GA: 
+time: 36.54  PT: 310.894    155.669
+GA: 
+time: 38.682  PT: 443.829    155.669
+GA: 
+time: 40.847  PT: 443.829    155.669
+GA: 
+time: 43.012  PT: 317.637    155.669
+GA: 
+time: 45.173  PT: 216.951    155.669
+GA: 
+time: 47.38  PT: 216.951    155.669
+GA: 
+time: 49.536  PT: 216.951    155.669
+GA: 
+time: 51.678  PT: 311.973    155.669
+GA: 
+time: 53.807  PT: 311.973    155.669
+GA: 
+time: 55.934  PT: 331.347    155.669
+GA: 
+time: 58.072  PT: 387.18    155.669
+GA: 
+time: 60.198  PT: 290.575    155.669
+GA: 
+time: 62.335  PT: 342.243    155.669
+GA: 
+time: 64.458  PT: 191.556    155.669
+GA: 
+time: 66.599  PT: 166.845    155.669
+GA: 
+time: 68.726  PT: 288.771    155.669
+GA: 
+time: 70.855  PT: 288.771    155.669
+GA: 
+time: 72.99  PT: 319.08    155.669
+GA: 
+time: 75.12  PT: 315.965    155.669
+GA: 
+time: 77.257  PT: 291.542    155.669
+GA: 
+time: 79.397  PT: 291.542    155.669
+GA: 
+time: 81.524  PT: 111.294    155.669
+GA: 
+time: 83.658  PT: 233.962    155.669
+GA: 
+time: 85.796  PT: 315.965    155.669
+GA: 
+time: 87.877  PT: 84.1719    155.669
+GA: 
+time: 89.887  PT: 16.2663    155.669
+GA: 
+time: 92.078  PT: 10.7209    155.669
+GA: 
+time: 94.083  PT: 9.6746    155.669
+GA: 
+time: 96.27  PT: 9.67442    155.669
+GA: 
+time: 98.274  PT: 9.5908    155.669
+GA: 
+time: 100.292  PT: 8.86302    155.669
+GA: 
+time: 102.485  PT: 8.37922    155.669
+GA: 
+time: 104.501  PT: 8.15232    155.669
+GA: 
+time: 106.514  PT: 8.15232    155.669
+GA: 
+time: 108.707  PT: 7.90834    155.669
+GA: 
+time: 110.71  PT: 7.90834    155.669
+GA: 
+time: 112.9  PT: 7.72144    155.669
+GA: 
+time: 115.099  PT: 7.44764    155.669
+GA: 
+time: 117.126  PT: 7.07092    155.669
+GA: 
+time: 119.151  PT: 6.96402    155.669
+GA: 
+time: 121.155  PT: 6.96402    155.669
+GA: 
+time: 123.351  PT: 6.96402    155.669
+GA: 
+time: 125.354  PT: 6.96402    155.669
+GA: 
+time: 127.376  PT: 6.96402    155.669
+GA: 
+time: 129.403  PT: 6.96402    155.669
+GA: 
+time: 131.416  PT: 6.81712    155.669
+GA: 
+time: 133.481  PT: 6.81712    155.669
+GA: 
+time: 135.547  PT: 6.81712    155.669
+GA: 
+time: 136.414  PT: 155.669
+SA: 
+time: 2.2078  PT: 330.1    330.1
+SA: 
+time: 4.3168  PT: 330.1    330.1
+SA: 
+time: 6.3878  PT: 330.1    330.1
+SA: 
+time: 8.5785  PT: 329.323    329.323
+SA: 
+time: 10.6685  PT: 329.323    329.323
+SA: 
+time: 12.711  PT: 329.323    329.323
+SA: 
+time: 14.8903  PT: 329.323    329.323
+SA: 
+time: 16.9898  PT: 328.556    328.556
+SA: 
+time: 19.0912  PT: 328.556    328.556
+SA: 
+time: 21.2344  PT: 318.677    318.677
+SA: 
+time: 23.3757  PT: 318.677    318.677
+SA: 
+time: 25.4676  PT: 318.677    318.677
+SA: 
+time: 27.5576  PT: 318.677    318.677
+SA: 
+time: 29.6932  PT: 318.677    318.677
+SA: 
+time: 31.8326  PT: 318.677    318.677
+SA: 
+time: 33.9416  PT: 318.677    318.677
+SA: 
+time: 36.0202  PT: 318.677    318.677
+SA: 
+time: 38.114  PT: 278.572    278.572
+SA: 
+time: 40.2021  PT: 278.572    278.572
+SA: 
+time: 42.2959  PT: 262.472    262.472
+SA: 
+time: 44.3935  PT: 262.472    262.472
+SA: 
+time: 46.5101  PT: 262.472    262.472
+SA: 
+time: 48.6096  PT: 262.472    262.472
+SA: 
+time: 50.7471  PT: 107.17    107.17
+SA: 
+time: 52.8751  PT: 106.694    106.694
+SA: 
+time: 54.9898  PT: 106.694    106.694
+SA: 
+time: 57.1501  PT: 106.694    106.694
+SA: 
+time: 59.2572  PT: 106.694    106.694
+SA: 
+time: 61.275  PT: 80.3633    80.3633
+SA: 
+time: 63.4619  PT: 66.1073    66.1073
+SA: 
+time: 65.5367  PT: 66.1073    66.1073
+SA: 
+time: 67.5393  PT: 66.1073    66.1073
+SA: 
+time: 69.5837  PT: 66.1073    66.1073
+SA: 
+time: 71.6661  PT: 66.1073    66.1073
+SA: 
+time: 73.6858  PT: 66.1073    66.1073
+SA: 
+time: 75.8974  PT: 66.1073    66.1073
+SA: 
+time: 77.9779  PT: 66.1073    66.1073
+SA: 
+time: 80.0774  PT: 66.1073    66.1073
+SA: 
+time: 82.1997  PT: 66.1073    66.1073
+SA: 
+time: 84.3068  PT: 66.1073    66.1073
+SA: 
+time: 86.4082  PT: 66.1073    66.1073
+SA: 
+time: 88.5001  PT: 66.1073    66.1073
+SA: 
+time: 90.5958  PT: 42.7751    42.7751
+SA: 
+time: 92.7333  PT: 41.4475    41.4475
+SA: 
+time: 94.8271  PT: 35.2929    35.2929
+SA: 
+time: 96.9209  PT: 35.2929    35.2929
+SA: 
+time: 99.0185  PT: 35.2122    35.2122
+SA: 
+time: 101.099  PT: 33.87    33.87
+SA: 
+time: 103.204  PT: 33.87    33.87
+SA: 
+time: 103.677  PT: 33.87
+now T: 341.81 beta:1
+CSA_UN: 
+time: 87.427  PT: 68.4227
+CSA_noUN: 
+time: 2.277  PT: 229.916    172.607
+CSA_noUN: 
+time: 4.484  PT: 254.737    172.607
+CSA_noUN: 
+time: 6.691  PT: 186.125    109.194
+CSA_noUN: 
+time: 8.887  PT: 367.668    109.194
+CSA_noUN: 
+time: 11.076  PT: 232.283    109.194
+CSA_noUN: 
+time: 13.271  PT: 395.038    109.194
+CSA_noUN: 
+time: 15.461  PT: 345.151    109.194
+CSA_noUN: 
+time: 17.649  PT: 378.222    109.194
+CSA_noUN: 
+time: 19.844  PT: 199.978    109.194
+CSA_noUN: 
+time: 22.024  PT: 192.368    109.194
+CSA_noUN: 
+time: 24.212  PT: 131.966    109.194
+CSA_noUN: 
+time: 26.398  PT: 312.803    109.194
+CSA_noUN: 
+time: 28.575  PT: 189.392    109.194
+CSA_noUN: 
+time: 30.757  PT: 167.603    109.194
+CSA_noUN: 
+time: 32.938  PT: 368.662    109.194
+CSA_noUN: 
+time: 35.125  PT: 270.199    109.194
+CSA_noUN: 
+time: 37.333  PT: 281.329    94.0474
+CSA_noUN: 
+time: 39.521  PT: 162.652    94.0474
+CSA_noUN: 
+time: 41.716  PT: 127.407    87.8522
+CSA_noUN: 
+time: 43.891  PT: 60.7191    43.6328
+CSA_noUN: 
+time: 46.082  PT: 295.434    43.6328
+CSA_noUN: 
+time: 48.276  PT: 201.284    43.6328
+CSA_noUN: 
+time: 50.463  PT: 189.071    43.6328
+CSA_noUN: 
+time: 52.646  PT: 152.859    43.6328
+CSA_noUN: 
+time: 54.832  PT: 190.732    43.6328
+CSA_noUN: 
+time: 57.023  PT: 338.787    43.6328
+CSA_noUN: 
+time: 59.21  PT: 94.7822    43.6328
+CSA_noUN: 
+time: 61.397  PT: 235.499    43.6328
+CSA_noUN: 
+time: 63.589  PT: 315.926    43.6328
+CSA_noUN: 
+time: 65.794  PT: 279.03    43.6328
+CSA_noUN: 
+time: 68.016  PT: 207.144    43.6328
+CSA_noUN: 
+time: 70.205  PT: 132.623    43.6328
+CSA_noUN: 
+time: 72.397  PT: 348.195    43.6328
+CSA_noUN: 
+time: 74.581  PT: 273.751    43.6328
+CSA_noUN: 
+time: 76.77  PT: 123.749    43.6328
+CSA_noUN: 
+time: 78.965  PT: 429.992    43.6328
+CSA_noUN: 
+time: 81.166  PT: 254.787    43.6328
+CSA_noUN: 
+time: 83.354  PT: 203.299    43.6328
+CSA_noUN: 
+time: 85.551  PT: 93.5695    43.6328
+CSA_noUN: 
+time: 87.746  PT: 444.771    43.6328
+CSA_noUN: 
+time: 89.944  PT: 222.772    43.6328
+CSA_noUN: 
+time: 92.143  PT: 138.015    43.6328
+CSA_noUN: 
+time: 94.351  PT: 312.451    43.6328
+CSA_noUN: 
+time: 96.547  PT: 255.314    43.6328
+CSA_noUN: 
+time: 98.725  PT: 266.406    43.6328
+CSA_noUN: 
+time: 100.903  PT: 291.483    43.6328
+CSA_noUN: 
+time: 100.906  PT: 43.6328
+GA: 
+time: 2.181  PT: 198.015    198.015
+GA: 
+time: 4.307  PT: 198.015    198.015
+GA: 
+time: 6.434  PT: 184.139    184.139
+GA: 
+time: 8.564  PT: 184.139    184.139
+GA: 
+time: 10.692  PT: 197.138    172.752
+GA: 
+time: 12.803  PT: 294.746    172.752
+GA: 
+time: 14.922  PT: 183.432    172.752
+GA: 
+time: 17.08  PT: 184.546    172.752
+GA: 
+time: 19.202  PT: 118.029    118.029
+GA: 
+time: 21.327  PT: 118.029    118.029
+GA: 
+time: 23.499  PT: 136.53    118.029
+GA: 
+time: 25.654  PT: 136.53    118.029
+GA: 
+time: 27.783  PT: 136.53    118.029
+GA: 
+time: 29.906  PT: 118.029    81.7852
+GA: 
+time: 32.037  PT: 118.029    81.7852
+GA: 
+time: 34.172  PT: 118.029    81.7852
+GA: 
+time: 36.305  PT: 200.078    81.7852
+GA: 
+time: 38.442  PT: 303.634    81.7852
+GA: 
+time: 40.595  PT: 174.764    81.7852
+GA: 
+time: 42.738  PT: 250.333    81.7852
+GA: 
+time: 44.857  PT: 363.088    81.7852
+GA: 
+time: 46.982  PT: 425.842    81.7852
+GA: 
+time: 49.117  PT: 177.089    81.7852
+GA: 
+time: 51.245  PT: 321.133    81.7852
+GA: 
+time: 53.367  PT: 275.431    81.7852
+GA: 
+time: 55.498  PT: 171.804    81.7852
+GA: 
+time: 57.646  PT: 321.133    81.7852
+GA: 
+time: 59.793  PT: 374.444    81.7852
+GA: 
+time: 61.913  PT: 383.878    81.7852
+GA: 
+time: 64.069  PT: 361.011    81.7852
+GA: 
+time: 66.209  PT: 359.448    81.7852
+GA: 
+time: 68.353  PT: 393.761    81.7852
+GA: 
+time: 70.501  PT: 353.414    81.7852
+GA: 
+time: 72.624  PT: 353.414    81.7852
+GA: 
+time: 74.771  PT: 156.667    81.7852
+GA: 
+time: 76.896  PT: 146.723    81.7852
+GA: 
+time: 79.025  PT: 247.479    81.7852
+GA: 
+time: 81.151  PT: 247.479    81.7852
+GA: 
+time: 83.278  PT: 411.386    81.7852
+GA: 
+time: 85.439  PT: 252.021    81.7852
+GA: 
+time: 87.529  PT: 98.4674    81.7852
+GA: 
+time: 89.533  PT: 16.1263    81.7852
+GA: 
+time: 91.723  PT: 8.27794    81.7852
+GA: 
+time: 93.725  PT: 7.29964    81.7852
+GA: 
+time: 95.907  PT: 7.02858    81.7852
+GA: 
+time: 98.098  PT: 6.95168    81.7852
+GA: 
+time: 100.289  PT: 6.82478    81.7852
+GA: 
+time: 102.473  PT: 6.82478    81.7852
+GA: 
+time: 104.659  PT: 6.82478    81.7852
+GA: 
+time: 106.661  PT: 6.82478    81.7852
+GA: 
+time: 108.85  PT: 6.82478    81.7852
+GA: 
+time: 111.041  PT: 6.82478    81.7852
+GA: 
+time: 113.237  PT: 6.82478    81.7852
+GA: 
+time: 115.422  PT: 6.4808    81.7852
+GA: 
+time: 117.6  PT: 6.4808    81.7852
+GA: 
+time: 119.601  PT: 6.4208    81.7852
+GA: 
+time: 121.783  PT: 6.4208    81.7852
+GA: 
+time: 123.797  PT: 6.4208    81.7852
+GA: 
+time: 125.812  PT: 6.4208    81.7852
+GA: 
+time: 127.998  PT: 6.4208    81.7852
+GA: 
+time: 130.187  PT: 6.4208    81.7852
+GA: 
+time: 132.192  PT: 6.1839    81.7852
+GA: 
+time: 134.383  PT: 6.1839    81.7852
+GA: 
+time: 135.379  PT: 81.7852
+SA: 
+time: 2.0045  PT: 309.672    309.672
+SA: 
+time: 4.1268  PT: 309.672    309.672
+SA: 
+time: 6.2529  PT: 309.672    309.672
+SA: 
+time: 8.341  PT: 309.672    309.672
+SA: 
+time: 10.4405  PT: 309.672    309.672
+SA: 
+time: 12.5248  PT: 309.672    309.672
+SA: 
+time: 14.6243  PT: 309.672    309.672
+SA: 
+time: 16.7599  PT: 309.672    309.672
+SA: 
+time: 18.772  PT: 309.672    309.672
+SA: 
+time: 20.9931  PT: 309.672    309.672
+SA: 
+time: 23.0945  PT: 309.672    309.672
+SA: 
+time: 25.1864  PT: 309.672    309.672
+SA: 
+time: 27.2707  PT: 309.672    309.672
+SA: 
+time: 29.3455  PT: 309.672    309.672
+SA: 
+time: 31.4545  PT: 309.672    309.672
+SA: 
+time: 33.5749  PT: 309.672    309.672
+SA: 
+time: 35.6687  PT: 309.672    309.672
+SA: 
+time: 37.8157  PT: 309.672    309.672
+SA: 
+time: 39.9646  PT: 309.672    309.672
+SA: 
+time: 42.0622  PT: 309.672    309.672
+SA: 
+time: 44.1579  PT: 309.672    309.672
+SA: 
+time: 46.265  PT: 309.672    309.672
+SA: 
+time: 48.3588  PT: 309.672    309.672
+SA: 
+time: 50.4735  PT: 309.672    309.672
+SA: 
+time: 52.5616  PT: 309.672    309.672
+SA: 
+time: 54.6497  PT: 309.672    309.672
+SA: 
+time: 56.7758  PT: 309.672    309.672
+SA: 
+time: 58.9076  PT: 309.672    309.672
+SA: 
+time: 61.0432  PT: 181.537    181.537
+SA: 
+time: 63.1294  PT: 181.537    181.537
+SA: 
+time: 65.2194  PT: 181.537    181.537
+SA: 
+time: 67.2505  PT: 181.537    181.537
+SA: 
+time: 69.4469  PT: 181.537    181.537
+SA: 
+time: 71.5502  PT: 181.537    181.537
+SA: 
+time: 73.568  PT: 181.537    181.537
+SA: 
+time: 75.7321  PT: 106.933    106.933
+SA: 
+time: 77.8088  PT: 102.531    102.531
+SA: 
+time: 79.9216  PT: 66.9702    66.9702
+SA: 
+time: 82.08  PT: 66.9702    66.9702
+SA: 
+time: 84.208  PT: 44.6481    44.6481
+SA: 
+time: 86.2961  PT: 44.6481    44.6481
+SA: 
+time: 88.4108  PT: 44.6481    44.6481
+SA: 
+time: 90.5179  PT: 44.2912    44.2912
+SA: 
+time: 92.5927  PT: 44.2912    44.2912
+SA: 
+time: 94.6789  PT: 40.697    40.697
+SA: 
+time: 96.7632  PT: 40.697    40.697
+SA: 
+time: 98.8475  PT: 40.697    40.697
+SA: 
+time: 100.941  PT: 39.8747    39.8747
+SA: 
+time: 103.024  PT: 37.7088    37.7088
+SA: 
+time: 103.491  PT: 37.7088

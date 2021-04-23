@@ -1,0 +1,1 @@
+Wang B, Xia X, Meng H, et al. Bad-scenario-set robust optimization framework with two objectives for uncertain scheduling systems[J]. IEEE/CAA Journal of Automatica Sinica, 2017, 4(1): 143-153.

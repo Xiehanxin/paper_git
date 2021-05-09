@@ -1,0 +1,70 @@
+now T: 84.31 beta:1
+
+meanvalue: 165.933worstvalue: 170
+now T: 85.1531 beta:1.01
+
+meanvalue: 161.333worstvalue: 166
+now T: 85.9962 beta:1.02
+
+meanvalue: 162.133worstvalue: 167
+now T: 86.8393 beta:1.03
+
+meanvalue: 165.667worstvalue: 169
+now T: 87.6824 beta:1.04
+
+meanvalue: 162.6worstvalue: 167
+now T: 88.5255 beta:1.05
+
+meanvalue: 161.867worstvalue: 167
+now T: 89.3686 beta:1.06
+
+meanvalue: 160.333worstvalue: 165
+now T: 90.2117 beta:1.07
+
+meanvalue: 160worstvalue: 166
+now T: 91.0548 beta:1.08
+
+meanvalue: 159.067worstvalue: 164
+now T: 91.8979 beta:1.09
+
+meanvalue: 161.267worstvalue: 166
+now T: 92.741 beta:1.1
+
+meanvalue: 158.133worstvalue: 164
+now T: 84.31 beta:1
+
+meanvalue: 166.733worstvalue: 172
+now T: 85.1531 beta:1.01
+
+meanvalue: 160.2worstvalue: 166
+now T: 85.9962 beta:1.02
+
+meanvalue: 160.067worstvalue: 165
+now T: 86.8393 beta:1.03
+
+meanvalue: 161.667worstvalue: 167
+now T: 87.6824 beta:1.04
+
+meanvalue: 159.333worstvalue: 165
+now T: 88.5255 beta:1.05
+
+meanvalue: 161.133worstvalue: 165
+now T: 89.3686 beta:1.06
+
+meanvalue: 165.867worstvalue: 169
+now T: 90.2117 beta:1.07
+
+meanvalue: 167.933worstvalue: 172
+now T: 91.0548 beta:1.08
+
+meanvalue: 163.533worstvalue: 168
+now T: 91.8979 beta:1.09
+
+meanvalue: 162.8worstvalue: 166
+now T: 92.741 beta:1.1
+
+meanvalue: 161.933worstvalue: 167
+now T: 84.31 beta:1
+
+meanvalue: 162.267worstvalue: 167
+now T: 85.1531 beta:1.01
